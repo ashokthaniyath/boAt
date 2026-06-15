@@ -1,0 +1,348 @@
+{
+  "data_end": "2026-03",
+  "analysis_window": "Apr 2025 \u2013 Mar 2026",
+  "market": {
+    "total_units_last12mo": 113755041,
+    "total_units_prior12mo": 118338477,
+    "yoy_growth_pct": -3.87
+  },
+  "top10_overall": [
+    {
+      "company": "Imagine Marketing",
+      "units": 33728650,
+      "share_pct": 29.65
+    },
+    {
+      "company": "OPPO",
+      "units": 16571746,
+      "share_pct": 14.57
+    },
+    {
+      "company": "Others",
+      "units": 15414424,
+      "share_pct": 13.55
+    },
+    {
+      "company": "Nexxbase",
+      "units": 12920364,
+      "share_pct": 11.36
+    },
+    {
+      "company": "GoBoult",
+      "units": 9595156,
+      "share_pct": 8.43
+    },
+    {
+      "company": "Fire - Boltt",
+      "units": 3747513,
+      "share_pct": 3.29
+    },
+    {
+      "company": "Samsung",
+      "units": 2732929,
+      "share_pct": 2.4
+    },
+    {
+      "company": "Titan",
+      "units": 2301195,
+      "share_pct": 2.02
+    },
+    {
+      "company": "Portronics",
+      "units": 1737667,
+      "share_pct": 1.53
+    },
+    {
+      "company": "Apple",
+      "units": 1549975,
+      "share_pct": 1.36
+    }
+  ],
+  "boat": {
+    "units_last12mo": 33728650,
+    "share_pct": 29.65,
+    "yoy_units_pct": 0.22,
+    "rank": 1
+  },
+  "categories": {
+    "Earwear": {
+      "total_units_l12": 84177754,
+      "total_units_prior": 85657167,
+      "yoy_pct": -1.73,
+      "top5": [
+        {
+          "company": "Imagine Marketing",
+          "share_pct": 35.15,
+          "share_pct_prior": 34.28,
+          "share_pp_change": 0.87
+        },
+        {
+          "company": "OPPO",
+          "share_pct": 19.58,
+          "share_pct_prior": 15.89,
+          "share_pp_change": 3.69
+        },
+        {
+          "company": "Others",
+          "share_pct": 9.92,
+          "share_pct_prior": 10.52,
+          "share_pp_change": -0.6
+        },
+        {
+          "company": "GoBoult",
+          "share_pct": 8.92,
+          "share_pct_prior": 10.66,
+          "share_pp_change": -1.74
+        },
+        {
+          "company": "Nexxbase",
+          "share_pct": 6.75,
+          "share_pct_prior": 6.86,
+          "share_pp_change": -0.11
+        }
+      ],
+      "boat_share_pct": 35.15,
+      "boat_rank": 1
+    },
+    "Glasses": {
+      "total_units_l12": 271979,
+      "total_units_prior": 25020,
+      "yoy_pct": 987.05,
+      "top5": [
+        {
+          "company": "Meta",
+          "share_pct": 33.99,
+          "share_pct_prior": 0.0,
+          "share_pp_change": 33.99
+        },
+        {
+          "company": "Lenskart",
+          "share_pct": 27.2,
+          "share_pct_prior": 39.97,
+          "share_pp_change": -12.77
+        },
+        {
+          "company": "Fire - Boltt",
+          "share_pct": 21.27,
+          "share_pct_prior": 0.0,
+          "share_pp_change": 21.27
+        },
+        {
+          "company": "Others",
+          "share_pct": 9.84,
+          "share_pct_prior": 5.99,
+          "share_pp_change": 3.85
+        },
+        {
+          "company": "Riot Labz",
+          "share_pct": 2.99,
+          "share_pct_prior": 4.4,
+          "share_pp_change": -1.41
+        }
+      ],
+      "boat_share_pct": 0.0,
+      "boat_rank": null
+    },
+    "Other": {
+      "total_units_l12": 254,
+      "total_units_prior": 1327,
+      "yoy_pct": -80.86,
+      "top5": [
+        {
+          "company": "Polar",
+          "share_pct": 100.0,
+          "share_pct_prior": 90.81,
+          "share_pp_change": 9.19
+        }
+      ],
+      "boat_share_pct": 0.0,
+      "boat_rank": null
+    },
+    "Rings": {
+      "total_units_l12": 217443,
+      "total_units_prior": 312789,
+      "yoy_pct": -30.48,
+      "top5": [
+        {
+          "company": "Ultrahuman",
+          "share_pct": 25.46,
+          "share_pct_prior": 39.33,
+          "share_pp_change": -13.87
+        },
+        {
+          "company": "Gabit",
+          "share_pct": 23.8,
+          "share_pct_prior": 7.27,
+          "share_pp_change": 16.53
+        },
+        {
+          "company": "Imagine Marketing",
+          "share_pct": 17.6,
+          "share_pct_prior": 10.74,
+          "share_pp_change": 6.86
+        },
+        {
+          "company": "Aabo",
+          "share_pct": 9.81,
+          "share_pct_prior": 20.38,
+          "share_pp_change": -10.57
+        },
+        {
+          "company": "SRK Powertech",
+          "share_pct": 8.55,
+          "share_pct_prior": 0.32,
+          "share_pp_change": 8.23
+        }
+      ],
+      "boat_share_pct": 17.6,
+      "boat_rank": 3
+    },
+    "Smartwatch": {
+      "total_units_l12": 28676741,
+      "total_units_prior": 32195374,
+      "yoy_pct": -10.93,
+      "top5": [
+        {
+          "company": "Nexxbase",
+          "share_pct": 25.22,
+          "share_pct_prior": 26.21,
+          "share_pp_change": -0.99
+        },
+        {
+          "company": "Others",
+          "share_pct": 24.46,
+          "share_pct_prior": 19.24,
+          "share_pp_change": 5.22
+        },
+        {
+          "company": "Imagine Marketing",
+          "share_pct": 14.3,
+          "share_pct_prior": 13.23,
+          "share_pp_change": 1.07
+        },
+        {
+          "company": "Fire - Boltt",
+          "share_pct": 11.74,
+          "share_pct_prior": 12.98,
+          "share_pp_change": -1.24
+        },
+        {
+          "company": "Titan",
+          "share_pct": 7.73,
+          "share_pct_prior": 10.91,
+          "share_pp_change": -3.18
+        }
+      ],
+      "boat_share_pct": 14.3,
+      "boat_rank": 3
+    },
+    "Wrist Band": {
+      "total_units_l12": 410870,
+      "total_units_prior": 146800,
+      "yoy_pct": 179.88,
+      "top5": [
+        {
+          "company": "Samsung",
+          "share_pct": 46.88,
+          "share_pct_prior": 68.29,
+          "share_pp_change": -21.41
+        },
+        {
+          "company": "SRK Powertech",
+          "share_pct": 31.31,
+          "share_pct_prior": 0.0,
+          "share_pp_change": 31.31
+        },
+        {
+          "company": "Whoop",
+          "share_pct": 7.67,
+          "share_pct_prior": 9.0,
+          "share_pp_change": -1.33
+        },
+        {
+          "company": "Google",
+          "share_pct": 4.36,
+          "share_pct_prior": 9.83,
+          "share_pp_change": -5.47
+        },
+        {
+          "company": "Others",
+          "share_pct": 3.84,
+          "share_pct_prior": 0.0,
+          "share_pp_change": 3.84
+        }
+      ],
+      "boat_share_pct": 0.0,
+      "boat_rank": null
+    }
+  },
+  "smartwatch_asp": [
+    {
+      "company": "Nexxbase",
+      "units": 7233367,
+      "asp_inr": 1609.0
+    },
+    {
+      "company": "Others",
+      "units": 7013647,
+      "asp_inr": 757.0
+    },
+    {
+      "company": "Imagine Marketing",
+      "units": 4101293,
+      "asp_inr": 1398.0
+    },
+    {
+      "company": "Fire - Boltt",
+      "units": 3366814,
+      "asp_inr": 1289.0
+    },
+    {
+      "company": "Titan",
+      "units": 2216904,
+      "asp_inr": 2206.0
+    },
+    {
+      "company": "GoBoult",
+      "units": 2084429,
+      "asp_inr": 1209.0
+    },
+    {
+      "company": "SRK Powertech",
+      "units": 683399,
+      "asp_inr": 2120.0
+    },
+    {
+      "company": "Xiaomi",
+      "units": 442565,
+      "asp_inr": 1813.0
+    }
+  ],
+  "last3mo_top5": [
+    {
+      "company": "Imagine Marketing",
+      "units": 7341695,
+      "share_pct": 30.09
+    },
+    {
+      "company": "Others",
+      "units": 4066421,
+      "share_pct": 16.66
+    },
+    {
+      "company": "OPPO",
+      "units": 2800520,
+      "share_pct": 11.48
+    },
+    {
+      "company": "Nexxbase",
+      "units": 2532170,
+      "share_pct": 10.38
+    },
+    {
+      "company": "GoBoult",
+      "units": 1623026,
+      "share_pct": 6.65
+    }
+  ]
+}

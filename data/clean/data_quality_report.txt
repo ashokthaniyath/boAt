@@ -1,0 +1,47 @@
+======================================================================
+boAt Competitor Analysis — Data Cleaning Pipeline
+======================================================================
+
+[1] Raw pivot loaded: 1600 rows x 78 cols
+    Header row index = 42
+    Header cols 0-3 : [np.float64(nan), 'Values', 'Product', 'Company']
+    First/last month columns: 2020-01 .. 2026-03
+    Data block shape: (1557, 77)
+
+[2] Row classification:
+    company detail rows : 1494
+    product total rows  : 54
+    grand total rows    : 9
+    unclassified        : 0
+
+[3] Month columns detected: 74 (2020-01 → 2026-03)
+    Melted long shape: (110556, 5)
+    Dropped 64,539 empty cells (58.4%). Remaining: 46,017
+
+[4] Tidy long-form preview:
+    metric product_category     company      month       value  is_boat
+0  asp_inr          Earwear  Amazon.com 2023-09-01  609.122610    False
+1  asp_inr          Earwear  Amazon.com 2023-10-01  674.293159    False
+2  asp_inr          Earwear  Amazon.com 2023-12-01  573.180000    False
+3  asp_inr          Earwear  Amazon.com 2024-01-01  753.058942    False
+4  asp_inr          Earwear  Amazon.com 2024-02-01  696.180000    False
+5  asp_inr          Earwear  Amazon.com 2024-04-01  107.714086    False
+6  asp_inr          Earwear  Amazon.com 2024-05-01  486.621500    False
+7  asp_inr          Earwear  Amazon.com 2024-06-01  862.286437    False
+
+[5] Wrote parquet: D:\boAt\data\clean\wearables_long.parquet
+
+[6] Outputs written to data/clean/
+    - boAt_competitor_clean.xlsx                 ( 1634.1 KB)
+    - category_totals_monthly.csv                (  136.1 KB)
+    - company_totals_monthly.csv                 (   92.8 KB)
+    - data_quality_report.txt                    (    2.1 KB)
+    - market_totals_monthly.csv                  (   26.0 KB)
+    - wearables_long.csv                         ( 2819.8 KB)
+    - wearables_long.parquet                     (  439.5 KB)
+
+[7] Quick facts:
+    Date range          : 2020-01 → 2026-03
+    Distinct companies  : 88
+    Distinct categories : 6  (['Earwear', 'Glasses', 'Other', 'Rings', 'Smartwatch', 'Wrist Band'])
+    Total units in file : 597,689,099
