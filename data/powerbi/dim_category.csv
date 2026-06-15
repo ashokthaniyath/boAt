@@ -1,0 +1,7 @@
+product_category,category_short,is_growth_category,is_core_for_boat
+Earwear,TWS,False,True
+Glasses,Glasses,True,False
+Other,Other,False,False
+Rings,Rings,True,True
+Smartwatch,Watches,False,True
+Wrist Band,Bands,False,False

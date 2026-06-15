@@ -10,20 +10,28 @@
 
 ## 1. What's in this repo
 
-| Folder | What you'll find |
+| Folder / file | What you'll find |
 |---|---|
 | `data/clean/` | Tidy, machine-readable datasets (CSV + Parquet + Excel) ready for any BI tool |
+| `data/powerbi/` | **Power BI-ready files** — flat master CSV + star-schema (dim_date, dim_company, dim_category, fact_units/value/asp) |
 | `charts/` | 10 publication-ready PNG charts (1 hero dashboard + 9 supporting visuals) |
-| `scripts/` | Reproducible Python pipeline — clean → analyse → visualise → insights |
-| `INSIGHTS.md` | The product-management write-up with recommendations |
+| `scripts/` | Reproducible Python pipeline — clean → analyse → visualise → insights → Power BI dataset |
+| `README.md` | This file — executive snapshot |
+| `INSIGHTS.md` | Full PM write-up with category-level commentary |
+| `RECOMMENDATIONS.md` | Where boAt should play and what products to improve (with opportunity scores) |
+| `COMPETITIVE_BREAKDOWN.md` | Per-segment dominance breakdown — who wins, why, how to counter |
+| `POWERBI_GUIDE.md` | Step-by-step Power BI build guide with DAX measures and visual recipes |
 | `IDC India Monthly Wearable Tracker_…xlsx` | The raw source pivot (untouched) |
 
 To reproduce end-to-end:
 ```powershell
-pip install pandas openpyxl matplotlib pyarrow
-python scripts/10_clean.py      # build cleaned datasets in data/clean/
-python scripts/20_visuals.py    # build all charts in charts/
-python scripts/30_insights.py   # build data/clean/insights.json
+pip install -r requirements.txt
+python scripts/10_clean.py              # build cleaned datasets in data/clean/
+python scripts/20_visuals.py            # build all charts in charts/
+python scripts/30_insights.py           # build data/clean/insights.json
+python scripts/40_opportunity.py        # print opportunity-score table
+python scripts/50_dominance.py          # print competitor dominance metrics
+python scripts/60_powerbi_dataset.py    # build data/powerbi/ for the dashboard
 ```
 
 ---
@@ -88,4 +96,4 @@ The same file is also available as CSV and as a multi-sheet Excel (`boAt_competi
 
 ---
 
-**See [`INSIGHTS.md`](INSIGHTS.md) for the full product-management write-up with recommendations.**
+**See [`INSIGHTS.md`](INSIGHTS.md) for the full product-management write-up, [`RECOMMENDATIONS.md`](RECOMMENDATIONS.md) for the opportunity scoring & SKU bets, [`COMPETITIVE_BREAKDOWN.md`](COMPETITIVE_BREAKDOWN.md) for the segment-by-segment dominance teardown, and [`POWERBI_GUIDE.md`](POWERBI_GUIDE.md) to build the live dashboard.**

@@ -1,0 +1,89 @@
+company,rows_in_data,company_display,is_boat,is_others_bucket,origin
+Aabo,279,Aabo,False,False,Indian
+Amazon.com,225,Amazon.com,False,False,Global
+Ambrane,252,Ambrane,False,False,Indian
+Anker,540,Anker,False,False,Global
+Apple,1332,Apple,False,False,Global
+Avantari,81,Avantari,False,False,Global
+BBK,198,BBK,False,False,Global
+Bang and Olufsen,270,Bang and Olufsen,False,False,Global
+BeatXP,387,BeatXP,False,False,Indian
+Bonatra,153,Bonatra,False,False,Global
+Bose,801,Bose,False,False,Global
+Brandscale,153,Brandscale,False,False,Indian
+COROS,126,COROS,False,False,Global
+Casio,297,Casio,False,False,Global
+Citizen,9,Citizen,False,False,Global
+Coolpad,9,Coolpad,False,False,Global
+Crossbeats,1017,Crossbeats,False,False,Indian
+Dizo Innovation Pvt. Ltd,351,Dizo,False,False,Indian
+Dynamic Conglomerate,207,Dynamic Conglomerate,False,False,Indian
+Eccentric Enterprises,684,Eccentric,False,False,Indian
+Edifier,27,Edifier,False,False,Global
+Fire - Boltt,1098,Fire-Boltt,False,False,Indian
+Fittr,171,Fittr,False,False,Indian
+Flipkart,27,Flipkart,False,False,Global
+Fossil,423,Fossil,False,False,Global
+GIP Development SARL,270,GIP Development SARL,False,False,Global
+GN Group,630,GN Group,False,False,Global
+GOQii,648,GOQii,False,False,Global
+Gabit,189,Gabit,False,False,Indian
+Garmin,1053,Garmin,False,False,Global
+Gionee (IN),495,Gionee (IN),False,False,Global
+Gizmore,666,Gizmore,False,False,Indian
+GoBoult,1080,Boult,False,False,Indian
+Google,1584,Google,False,False,Global
+HP,90,HP,False,False,Global
+Honor,369,Honor,False,False,Global
+Huawei,639,Huawei,False,False,Global
+Imagine Marketing,1440,boAt,True,False,Indian
+Intex,234,Intex,False,False,Global
+JLAB AUDIO,144,JLAB AUDIO,False,False,Global
+LG Electronics,423,LG Electronics,False,False,Global
+LVMH,45,LVMH,False,False,Global
+Lenovo,522,Lenovo,False,False,Global
+Lenskart,108,Lenskart,False,False,Indian
+Marshall,198,Marshall,False,False,Global
+Meta,99,Meta,False,False,Global
+Mill Road Capital,648,Mill Road Capital,False,False,Global
+Mivi,630,Mivi,False,False,Indian
+Mobvoi,252,Mobvoi,False,False,Global
+Montblanc,270,Montblanc,False,False,Global
+Muse,180,Muse,False,False,Indian
+Nexxbase,1665,Noise,False,False,Indian
+Nothing,711,Nothing,False,False,Indian
+Number Fone Company,117,Number Fone,False,False,Indian
+OPPO,1575,OPPO,False,False,Global
+Others,2133,Others,False,True,Aggregated
+Palred,963,Palred,False,False,Indian
+Philips,99,Philips,False,False,Global
+Pi Ring,189,Pi Ring,False,False,Global
+Plantronics,81,Plantronics,False,False,Global
+Play,126,Play,False,False,Global
+Polar,216,Polar,False,False,Global
+Portronics,963,Portronics,False,False,Indian
+QCY,27,QCY,False,False,Global
+RD,27,RD,False,False,Global
+Riot Labz,117,Riot Labz,False,False,Indian
+SRK Powertech,1521,SRK Powertech,False,False,Indian
+Samsung,1800,Samsung,False,False,Global
+Sennheiser,540,Sennheiser,False,False,Global
+Shkod,369,Shkod,False,False,Global
+Shokz,162,Shokz,False,False,Global
+Sonos,45,Sonos,False,False,Global
+Sony,666,Sony,False,False,Global
+Soundlogic,27,Soundlogic,False,False,Global
+Suunto,243,Suunto,False,False,Global
+Syska,468,Syska,False,False,Global
+Timex,684,Timex,False,False,Global
+Titan,1683,Titan,False,False,Indian
+Transsion,1233,Transsion,False,False,Global
+Ubon,423,Ubon,False,False,Indian
+Ultrahuman,279,Ultrahuman,False,False,Indian
+WeCool,540,WeCool,False,False,Global
+Whoop,162,Whoop,False,False,Global
+Withings,117,Withings,False,False,Global
+Xiaomi,1629,Xiaomi,False,False,Global
+Zebronics,999,Zebronics,False,False,Indian
+Zepp,1143,Zepp,False,False,Global
+vivo,252,vivo,False,False,Global

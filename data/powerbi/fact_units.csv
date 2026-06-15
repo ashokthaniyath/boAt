@@ -1,0 +1,5114 @@
+month,product_category,company,units
+2023-09-01,Earwear,Amazon.com,32898.0
+2023-10-01,Earwear,Amazon.com,9999.0
+2023-12-01,Earwear,Amazon.com,3700.0
+2024-01-01,Earwear,Amazon.com,10780.0
+2024-02-01,Earwear,Amazon.com,1998.0
+2024-04-01,Earwear,Amazon.com,50050.0
+2024-05-01,Earwear,Amazon.com,7735.0
+2024-06-01,Earwear,Amazon.com,44787.0
+2024-08-01,Earwear,Amazon.com,4050.0
+2024-09-01,Earwear,Amazon.com,52157.0
+2024-10-01,Earwear,Amazon.com,72470.0
+2024-11-01,Earwear,Amazon.com,6120.0
+2025-02-01,Earwear,Amazon.com,23110.0
+2025-03-01,Earwear,Amazon.com,9580.0
+2025-05-01,Earwear,Amazon.com,4408.0
+2025-06-01,Earwear,Amazon.com,29328.0
+2025-07-01,Earwear,Amazon.com,18350.0
+2025-08-01,Earwear,Amazon.com,24051.0
+2025-09-01,Earwear,Amazon.com,27515.0
+2025-10-01,Earwear,Amazon.com,23335.0
+2025-11-01,Earwear,Amazon.com,11032.0
+2025-12-01,Earwear,Amazon.com,8969.0
+2026-01-01,Earwear,Amazon.com,5398.0
+2026-02-01,Earwear,Amazon.com,3179.0
+2026-03-01,Earwear,Amazon.com,4150.0
+2023-06-01,Earwear,Ambrane,9998.0
+2020-01-01,Earwear,Anker,1300.0
+2020-02-01,Earwear,Anker,250.0
+2020-03-01,Earwear,Anker,1300.0
+2020-05-01,Earwear,Anker,10000.0
+2020-06-01,Earwear,Anker,19030.0
+2020-07-01,Earwear,Anker,9830.0
+2020-08-01,Earwear,Anker,4030.0
+2020-09-01,Earwear,Anker,15000.0
+2020-10-01,Earwear,Anker,29220.0
+2020-12-01,Earwear,Anker,12249.0
+2021-01-01,Earwear,Anker,15999.0
+2021-04-01,Earwear,Anker,2985.0
+2021-10-01,Earwear,Anker,72746.0
+2021-11-01,Earwear,Anker,68616.0
+2021-12-01,Earwear,Anker,43447.0
+2022-01-01,Earwear,Anker,99468.0
+2022-02-01,Earwear,Anker,44263.0
+2022-03-01,Earwear,Anker,15220.0
+2022-05-01,Earwear,Anker,9997.0
+2022-08-01,Earwear,Anker,6789.0
+2022-09-01,Earwear,Anker,4518.0
+2022-10-01,Earwear,Anker,8995.0
+2022-11-01,Earwear,Anker,232.0
+2023-03-01,Earwear,Anker,5621.0
+2023-04-01,Earwear,Anker,4379.0
+2023-05-01,Earwear,Anker,2987.0
+2023-06-01,Earwear,Anker,32.0
+2023-07-01,Earwear,Anker,25678.0
+2023-08-01,Earwear,Anker,41588.0
+2023-09-01,Earwear,Anker,74467.0
+2023-10-01,Earwear,Anker,28405.0
+2023-11-01,Earwear,Anker,24237.0
+2023-12-01,Earwear,Anker,3980.0
+2024-01-01,Earwear,Anker,9095.0
+2024-02-01,Earwear,Anker,19520.0
+2024-03-01,Earwear,Anker,18225.0
+2024-04-01,Earwear,Anker,7250.0
+2024-05-01,Earwear,Anker,3210.0
+2024-06-01,Earwear,Anker,8203.0
+2024-07-01,Earwear,Anker,16521.0
+2024-08-01,Earwear,Anker,15420.0
+2024-09-01,Earwear,Anker,2254.0
+2024-10-01,Earwear,Anker,10696.0
+2024-11-01,Earwear,Anker,540.0
+2024-12-01,Earwear,Anker,1120.0
+2025-01-01,Earwear,Anker,2116.0
+2025-02-01,Earwear,Anker,3664.0
+2025-03-01,Earwear,Anker,8940.0
+2025-04-01,Earwear,Anker,3255.0
+2025-05-01,Earwear,Anker,10940.0
+2025-06-01,Earwear,Anker,19405.0
+2025-07-01,Earwear,Anker,45575.0
+2025-08-01,Earwear,Anker,69220.0
+2025-09-01,Earwear,Anker,25565.0
+2025-10-01,Earwear,Anker,11308.0
+2025-11-01,Earwear,Anker,18900.0
+2025-12-01,Earwear,Anker,9655.0
+2026-01-01,Earwear,Anker,1768.0
+2026-02-01,Earwear,Anker,1867.0
+2026-03-01,Earwear,Anker,6162.0
+2020-01-01,Earwear,Apple,22229.0
+2020-02-01,Earwear,Apple,45257.0
+2020-03-01,Earwear,Apple,47616.0
+2020-05-01,Earwear,Apple,15590.0
+2020-06-01,Earwear,Apple,40173.0
+2020-07-01,Earwear,Apple,45162.0
+2020-08-01,Earwear,Apple,151760.0
+2020-09-01,Earwear,Apple,163335.0
+2020-10-01,Earwear,Apple,91710.0
+2020-11-01,Earwear,Apple,69080.0
+2020-12-01,Earwear,Apple,4095.0
+2021-01-01,Earwear,Apple,41371.0
+2021-02-01,Earwear,Apple,34751.0
+2021-03-01,Earwear,Apple,33063.0
+2021-04-01,Earwear,Apple,9284.0
+2021-05-01,Earwear,Apple,25655.0
+2021-06-01,Earwear,Apple,25092.0
+2021-07-01,Earwear,Apple,98245.0
+2021-08-01,Earwear,Apple,124378.0
+2021-09-01,Earwear,Apple,224416.0
+2021-10-01,Earwear,Apple,65056.0
+2021-11-01,Earwear,Apple,42710.0
+2021-12-01,Earwear,Apple,52820.0
+2022-01-01,Earwear,Apple,26687.0
+2022-02-01,Earwear,Apple,25101.0
+2022-03-01,Earwear,Apple,11223.0
+2022-04-01,Earwear,Apple,16041.0
+2022-05-01,Earwear,Apple,27441.0
+2022-06-01,Earwear,Apple,17913.0
+2022-07-01,Earwear,Apple,66799.0
+2022-08-01,Earwear,Apple,140968.0
+2022-09-01,Earwear,Apple,105696.0
+2022-10-01,Earwear,Apple,57570.0
+2022-11-01,Earwear,Apple,13664.0
+2022-12-01,Earwear,Apple,30918.0
+2023-01-01,Earwear,Apple,26266.0
+2023-02-01,Earwear,Apple,47560.0
+2023-03-01,Earwear,Apple,65443.0
+2023-04-01,Earwear,Apple,20618.0
+2023-05-01,Earwear,Apple,44251.0
+2023-06-01,Earwear,Apple,21036.0
+2023-07-01,Earwear,Apple,91487.0
+2023-08-01,Earwear,Apple,52079.0
+2023-09-01,Earwear,Apple,38603.0
+2023-10-01,Earwear,Apple,88423.0
+2023-11-01,Earwear,Apple,86803.0
+2023-12-01,Earwear,Apple,37580.0
+2024-01-01,Earwear,Apple,62096.0
+2024-02-01,Earwear,Apple,41260.0
+2024-03-01,Earwear,Apple,74723.0
+2024-04-01,Earwear,Apple,75628.0
+2024-05-01,Earwear,Apple,26792.0
+2024-06-01,Earwear,Apple,72437.0
+2024-07-01,Earwear,Apple,94596.0
+2024-08-01,Earwear,Apple,204169.0
+2024-09-01,Earwear,Apple,237988.0
+2024-10-01,Earwear,Apple,152898.0
+2024-11-01,Earwear,Apple,36949.0
+2024-12-01,Earwear,Apple,73343.0
+2025-01-01,Earwear,Apple,31477.0
+2025-02-01,Earwear,Apple,37561.0
+2025-03-01,Earwear,Apple,37351.0
+2025-04-01,Earwear,Apple,50766.0
+2025-05-01,Earwear,Apple,69645.0
+2025-06-01,Earwear,Apple,89181.0
+2025-07-01,Earwear,Apple,107702.0
+2025-08-01,Earwear,Apple,118908.0
+2025-09-01,Earwear,Apple,177230.0
+2025-10-01,Earwear,Apple,113231.0
+2025-11-01,Earwear,Apple,62937.0
+2025-12-01,Earwear,Apple,114681.0
+2026-01-01,Earwear,Apple,95279.0
+2026-02-01,Earwear,Apple,29885.0
+2026-03-01,Earwear,Apple,89053.0
+2023-10-01,Earwear,Bang and Olufsen,50.0
+2023-11-01,Earwear,Bang and Olufsen,10.0
+2023-12-01,Earwear,Bang and Olufsen,5.0
+2024-01-01,Earwear,Bang and Olufsen,20.0
+2024-02-01,Earwear,Bang and Olufsen,20.0
+2024-03-01,Earwear,Bang and Olufsen,27.0
+2024-04-01,Earwear,Bang and Olufsen,19.0
+2024-05-01,Earwear,Bang and Olufsen,47.0
+2024-06-01,Earwear,Bang and Olufsen,38.0
+2024-07-01,Earwear,Bang and Olufsen,51.0
+2024-08-01,Earwear,Bang and Olufsen,74.0
+2024-09-01,Earwear,Bang and Olufsen,54.0
+2024-10-01,Earwear,Bang and Olufsen,61.0
+2024-11-01,Earwear,Bang and Olufsen,39.0
+2024-12-01,Earwear,Bang and Olufsen,51.0
+2025-01-01,Earwear,Bang and Olufsen,53.0
+2025-02-01,Earwear,Bang and Olufsen,16.0
+2025-03-01,Earwear,Bang and Olufsen,54.0
+2025-04-01,Earwear,Bang and Olufsen,26.0
+2025-05-01,Earwear,Bang and Olufsen,83.0
+2025-06-01,Earwear,Bang and Olufsen,11.0
+2025-07-01,Earwear,Bang and Olufsen,104.0
+2025-08-01,Earwear,Bang and Olufsen,29.0
+2025-09-01,Earwear,Bang and Olufsen,143.0
+2025-10-01,Earwear,Bang and Olufsen,95.0
+2025-11-01,Earwear,Bang and Olufsen,38.0
+2025-12-01,Earwear,Bang and Olufsen,18.0
+2026-01-01,Earwear,Bang and Olufsen,47.0
+2026-02-01,Earwear,Bang and Olufsen,50.0
+2026-03-01,Earwear,Bang and Olufsen,48.0
+2023-08-01,Earwear,BeatXP,59898.0
+2023-09-01,Earwear,BeatXP,19920.0
+2023-10-01,Earwear,BeatXP,61200.0
+2023-12-01,Earwear,BeatXP,26338.0
+2024-01-01,Earwear,BeatXP,20280.0
+2024-02-01,Earwear,BeatXP,13919.0
+2024-03-01,Earwear,BeatXP,7557.0
+2024-04-01,Earwear,BeatXP,14858.0
+2024-05-01,Earwear,BeatXP,9678.0
+2024-06-01,Earwear,BeatXP,9845.0
+2024-07-01,Earwear,BeatXP,5243.0
+2024-08-01,Earwear,BeatXP,2430.0
+2024-09-01,Earwear,BeatXP,2221.0
+2024-10-01,Earwear,BeatXP,2344.0
+2024-11-01,Earwear,BeatXP,543.0
+2025-04-01,Earwear,BeatXP,540.0
+2020-03-01,Earwear,Bose,3466.0
+2020-05-01,Earwear,Bose,768.0
+2020-07-01,Earwear,Bose,150.0
+2020-08-01,Earwear,Bose,350.0
+2020-09-01,Earwear,Bose,6352.0
+2020-10-01,Earwear,Bose,4879.0
+2020-11-01,Earwear,Bose,8165.0
+2020-12-01,Earwear,Bose,2105.0
+2021-05-01,Earwear,Bose,1589.0
+2021-06-01,Earwear,Bose,85.0
+2021-07-01,Earwear,Bose,2342.0
+2021-08-01,Earwear,Bose,3499.0
+2021-09-01,Earwear,Bose,6046.0
+2021-10-01,Earwear,Bose,6932.0
+2021-11-01,Earwear,Bose,4199.0
+2021-12-01,Earwear,Bose,418.0
+2022-01-01,Earwear,Bose,2642.0
+2022-02-01,Earwear,Bose,2903.0
+2022-03-01,Earwear,Bose,4583.0
+2022-04-01,Earwear,Bose,345.0
+2022-05-01,Earwear,Bose,54.0
+2022-07-01,Earwear,Bose,3526.0
+2022-08-01,Earwear,Bose,8484.0
+2022-09-01,Earwear,Bose,6210.0
+2022-10-01,Earwear,Bose,4530.0
+2022-11-01,Earwear,Bose,1224.0
+2022-12-01,Earwear,Bose,354.0
+2023-01-01,Earwear,Bose,3996.0
+2023-02-01,Earwear,Bose,210.0
+2023-03-01,Earwear,Bose,5016.0
+2023-04-01,Earwear,Bose,96.0
+2023-05-01,Earwear,Bose,11304.0
+2023-06-01,Earwear,Bose,2748.0
+2023-07-01,Earwear,Bose,4634.0
+2023-08-01,Earwear,Bose,840.0
+2023-09-01,Earwear,Bose,7314.0
+2023-10-01,Earwear,Bose,8982.0
+2023-11-01,Earwear,Bose,1326.0
+2023-12-01,Earwear,Bose,8289.0
+2024-01-01,Earwear,Bose,3681.0
+2024-02-01,Earwear,Bose,6943.0
+2024-03-01,Earwear,Bose,6396.0
+2024-04-01,Earwear,Bose,4176.0
+2024-05-01,Earwear,Bose,6168.0
+2024-06-01,Earwear,Bose,5076.0
+2024-07-01,Earwear,Bose,6597.0
+2024-08-01,Earwear,Bose,5937.0
+2024-09-01,Earwear,Bose,7466.0
+2024-10-01,Earwear,Bose,11842.0
+2024-11-01,Earwear,Bose,3347.0
+2024-12-01,Earwear,Bose,6009.0
+2025-01-01,Earwear,Bose,6871.0
+2025-02-01,Earwear,Bose,3765.0
+2025-03-01,Earwear,Bose,4669.0
+2025-04-01,Earwear,Bose,1598.0
+2025-05-01,Earwear,Bose,2355.0
+2025-06-01,Earwear,Bose,2838.0
+2025-07-01,Earwear,Bose,3282.0
+2025-08-01,Earwear,Bose,2563.0
+2025-09-01,Earwear,Bose,2770.0
+2025-10-01,Earwear,Bose,4081.0
+2025-11-01,Earwear,Bose,1810.0
+2025-12-01,Earwear,Bose,2097.0
+2026-01-01,Earwear,Bose,2185.0
+2026-02-01,Earwear,Bose,1560.0
+2026-03-01,Earwear,Bose,2059.0
+2022-12-01,Earwear,Brandscale,402391.0
+2023-01-01,Earwear,Brandscale,91537.0
+2023-02-01,Earwear,Brandscale,40952.0
+2023-03-01,Earwear,Brandscale,23895.0
+2023-04-01,Earwear,Brandscale,19886.0
+2023-05-01,Earwear,Brandscale,25862.0
+2023-06-01,Earwear,Brandscale,133943.0
+2023-07-01,Earwear,Brandscale,189770.0
+2023-08-01,Earwear,Brandscale,245400.0
+2023-09-01,Earwear,Brandscale,54375.0
+2023-11-01,Earwear,Brandscale,54390.0
+2023-12-01,Earwear,Brandscale,12953.000000000002
+2024-01-01,Earwear,Brandscale,10500.0
+2024-02-01,Earwear,Brandscale,39999.0
+2024-06-01,Earwear,Brandscale,11558.0
+2021-01-01,Earwear,Coolpad,7983.0
+2020-01-01,Earwear,Crossbeats,2999.0
+2020-06-01,Earwear,Crossbeats,5061.0
+2020-07-01,Earwear,Crossbeats,6948.0
+2020-08-01,Earwear,Crossbeats,1988.0
+2020-10-01,Earwear,Crossbeats,5014.0
+2020-11-01,Earwear,Crossbeats,1990.0
+2020-12-01,Earwear,Crossbeats,4006.0
+2021-02-01,Earwear,Crossbeats,2499.0
+2021-03-01,Earwear,Crossbeats,3501.0
+2021-07-01,Earwear,Crossbeats,1965.0
+2021-09-01,Earwear,Crossbeats,3998.0
+2021-10-01,Earwear,Crossbeats,5931.0
+2021-11-01,Earwear,Crossbeats,2972.0
+2021-12-01,Earwear,Crossbeats,2962.0
+2022-04-01,Earwear,Crossbeats,3882.0
+2022-06-01,Earwear,Crossbeats,2000.0
+2022-07-01,Earwear,Crossbeats,6490.0
+2022-08-01,Earwear,Crossbeats,4506.0
+2022-10-01,Earwear,Crossbeats,4791.0
+2022-11-01,Earwear,Crossbeats,7867.999999999998
+2022-12-01,Earwear,Crossbeats,5455.0
+2023-01-01,Earwear,Crossbeats,7195.0
+2023-02-01,Earwear,Crossbeats,4999.0
+2023-03-01,Earwear,Crossbeats,2764.0
+2023-04-01,Earwear,Crossbeats,3141.0
+2023-05-01,Earwear,Crossbeats,5015.0
+2023-06-01,Earwear,Crossbeats,2987.0
+2023-07-01,Earwear,Crossbeats,3417.0
+2023-08-01,Earwear,Crossbeats,4607.0
+2023-09-01,Earwear,Crossbeats,9029.0
+2023-10-01,Earwear,Crossbeats,3015.0
+2023-11-01,Earwear,Crossbeats,1002.0
+2024-01-01,Earwear,Crossbeats,7546.0
+2024-02-01,Earwear,Crossbeats,5504.0
+2024-03-01,Earwear,Crossbeats,2006.0
+2024-04-01,Earwear,Crossbeats,2050.0
+2024-05-01,Earwear,Crossbeats,5010.0
+2024-06-01,Earwear,Crossbeats,2037.0
+2024-07-01,Earwear,Crossbeats,4002.0
+2024-08-01,Earwear,Crossbeats,2000.0
+2024-09-01,Earwear,Crossbeats,13.0
+2024-12-01,Earwear,Crossbeats,3012.0
+2025-01-01,Earwear,Crossbeats,9115.0
+2025-03-01,Earwear,Crossbeats,1500.0
+2025-04-01,Earwear,Crossbeats,5019.0
+2025-05-01,Earwear,Crossbeats,1500.0
+2025-07-01,Earwear,Crossbeats,2010.0
+2025-08-01,Earwear,Crossbeats,2000.0
+2025-09-01,Earwear,Crossbeats,3019.0
+2025-10-01,Earwear,Crossbeats,2500.0
+2025-12-01,Earwear,Crossbeats,3015.0
+2026-02-01,Earwear,Crossbeats,3015.0
+2026-03-01,Earwear,Crossbeats,1754.0
+2021-07-01,Earwear,Dizo Innovation Pvt. Ltd,86568.0
+2021-08-01,Earwear,Dizo Innovation Pvt. Ltd,19305.0
+2021-09-01,Earwear,Dizo Innovation Pvt. Ltd,171913.0
+2021-10-01,Earwear,Dizo Innovation Pvt. Ltd,49336.0
+2021-11-01,Earwear,Dizo Innovation Pvt. Ltd,39505.0
+2021-12-01,Earwear,Dizo Innovation Pvt. Ltd,28471.0
+2022-01-01,Earwear,Dizo Innovation Pvt. Ltd,58407.0
+2022-02-01,Earwear,Dizo Innovation Pvt. Ltd,48185.0
+2022-03-01,Earwear,Dizo Innovation Pvt. Ltd,43620.0
+2022-04-01,Earwear,Dizo Innovation Pvt. Ltd,30146.0
+2022-05-01,Earwear,Dizo Innovation Pvt. Ltd,37633.0
+2022-06-01,Earwear,Dizo Innovation Pvt. Ltd,48657.0
+2022-07-01,Earwear,Dizo Innovation Pvt. Ltd,45198.0
+2022-08-01,Earwear,Dizo Innovation Pvt. Ltd,79073.0
+2022-09-01,Earwear,Dizo Innovation Pvt. Ltd,58787.0
+2022-10-01,Earwear,Dizo Innovation Pvt. Ltd,14305.0
+2022-11-01,Earwear,Dizo Innovation Pvt. Ltd,16276.0
+2022-12-01,Earwear,Dizo Innovation Pvt. Ltd,25624.0
+2023-01-01,Earwear,Dizo Innovation Pvt. Ltd,22255.0
+2023-02-01,Earwear,Dizo Innovation Pvt. Ltd,14230.0
+2023-10-01,Earwear,Dynamic Conglomerate,24045.0
+2023-11-01,Earwear,Dynamic Conglomerate,9987.0
+2024-01-01,Earwear,Dynamic Conglomerate,10001.0
+2024-04-01,Earwear,Dynamic Conglomerate,49080.0
+2024-07-01,Earwear,Dynamic Conglomerate,11941.0
+2024-09-01,Earwear,Dynamic Conglomerate,15150.0
+2024-10-01,Earwear,Dynamic Conglomerate,41284.0
+2024-11-01,Earwear,Dynamic Conglomerate,13172.0
+2024-12-01,Earwear,Dynamic Conglomerate,14001.0
+2025-01-01,Earwear,Dynamic Conglomerate,12000.0
+2025-02-01,Earwear,Dynamic Conglomerate,17338.0
+2025-04-01,Earwear,Dynamic Conglomerate,3092.0
+2025-05-01,Earwear,Dynamic Conglomerate,3160.0
+2025-06-01,Earwear,Dynamic Conglomerate,3105.0
+2025-07-01,Earwear,Dynamic Conglomerate,565.0
+2025-08-01,Earwear,Dynamic Conglomerate,7012.0
+2025-09-01,Earwear,Dynamic Conglomerate,3445.0
+2025-10-01,Earwear,Dynamic Conglomerate,9227.0
+2025-11-01,Earwear,Dynamic Conglomerate,2512.0
+2025-12-01,Earwear,Dynamic Conglomerate,8211.0
+2026-01-01,Earwear,Dynamic Conglomerate,54.0
+2026-02-01,Earwear,Dynamic Conglomerate,4075.0
+2026-03-01,Earwear,Dynamic Conglomerate,5299.0
+2020-01-01,Earwear,Eccentric Enterprises,4136.0
+2020-02-01,Earwear,Eccentric Enterprises,2620.0
+2020-03-01,Earwear,Eccentric Enterprises,512.0
+2020-05-01,Earwear,Eccentric Enterprises,2535.0
+2020-06-01,Earwear,Eccentric Enterprises,7449.0
+2020-07-01,Earwear,Eccentric Enterprises,21634.0
+2020-08-01,Earwear,Eccentric Enterprises,18477.0
+2020-09-01,Earwear,Eccentric Enterprises,23955.0
+2020-10-01,Earwear,Eccentric Enterprises,30358.0
+2020-11-01,Earwear,Eccentric Enterprises,18835.0
+2020-12-01,Earwear,Eccentric Enterprises,16296.0
+2021-01-01,Earwear,Eccentric Enterprises,18442.0
+2021-02-01,Earwear,Eccentric Enterprises,18039.0
+2021-03-01,Earwear,Eccentric Enterprises,20138.0
+2021-04-01,Earwear,Eccentric Enterprises,39968.0
+2021-05-01,Earwear,Eccentric Enterprises,36461.0
+2021-06-01,Earwear,Eccentric Enterprises,50006.0
+2021-07-01,Earwear,Eccentric Enterprises,56318.0
+2021-08-01,Earwear,Eccentric Enterprises,115695.0
+2021-09-01,Earwear,Eccentric Enterprises,94003.0
+2021-10-01,Earwear,Eccentric Enterprises,51605.0
+2021-11-01,Earwear,Eccentric Enterprises,33198.0
+2021-12-01,Earwear,Eccentric Enterprises,86535.0
+2022-01-01,Earwear,Eccentric Enterprises,59031.0
+2022-02-01,Earwear,Eccentric Enterprises,57002.0
+2022-03-01,Earwear,Eccentric Enterprises,23587.0
+2022-04-01,Earwear,Eccentric Enterprises,71278.0
+2022-05-01,Earwear,Eccentric Enterprises,105874.0
+2022-06-01,Earwear,Eccentric Enterprises,71189.0
+2022-07-01,Earwear,Eccentric Enterprises,134407.0
+2022-08-01,Earwear,Eccentric Enterprises,158107.0
+2022-09-01,Earwear,Eccentric Enterprises,214304.0
+2022-10-01,Earwear,Eccentric Enterprises,71255.0
+2022-11-01,Earwear,Eccentric Enterprises,52474.0
+2022-12-01,Earwear,Eccentric Enterprises,95510.0
+2023-01-01,Earwear,Eccentric Enterprises,99750.0
+2023-02-01,Earwear,Eccentric Enterprises,71671.0
+2023-03-01,Earwear,Eccentric Enterprises,97651.0
+2023-04-01,Earwear,Eccentric Enterprises,106021.0
+2023-05-01,Earwear,Eccentric Enterprises,77014.0
+2023-06-01,Earwear,Eccentric Enterprises,74629.0
+2023-07-01,Earwear,Eccentric Enterprises,68542.0
+2023-08-01,Earwear,Eccentric Enterprises,111407.0
+2023-09-01,Earwear,Eccentric Enterprises,139584.0
+2023-10-01,Earwear,Eccentric Enterprises,7126.0
+2023-11-01,Earwear,Eccentric Enterprises,18234.0
+2023-12-01,Earwear,Eccentric Enterprises,66747.0
+2024-01-01,Earwear,Eccentric Enterprises,45438.0
+2024-02-01,Earwear,Eccentric Enterprises,77207.0
+2024-03-01,Earwear,Eccentric Enterprises,59684.0
+2024-04-01,Earwear,Eccentric Enterprises,80556.0
+2024-05-01,Earwear,Eccentric Enterprises,70471.0
+2024-06-01,Earwear,Eccentric Enterprises,84299.0
+2024-07-01,Earwear,Eccentric Enterprises,94790.0
+2024-08-01,Earwear,Eccentric Enterprises,190810.0
+2024-09-01,Earwear,Eccentric Enterprises,40698.0
+2024-10-01,Earwear,Eccentric Enterprises,68130.0
+2024-11-01,Earwear,Eccentric Enterprises,45802.0
+2024-12-01,Earwear,Eccentric Enterprises,77768.0
+2025-01-01,Earwear,Eccentric Enterprises,96369.0
+2025-02-01,Earwear,Eccentric Enterprises,65889.0
+2025-03-01,Earwear,Eccentric Enterprises,81262.0
+2025-04-01,Earwear,Eccentric Enterprises,92012.0
+2025-05-01,Earwear,Eccentric Enterprises,117736.0
+2025-06-01,Earwear,Eccentric Enterprises,81439.0
+2025-07-01,Earwear,Eccentric Enterprises,93859.0
+2025-08-01,Earwear,Eccentric Enterprises,89483.0
+2025-09-01,Earwear,Eccentric Enterprises,104609.0
+2025-10-01,Earwear,Eccentric Enterprises,104273.0
+2025-11-01,Earwear,Eccentric Enterprises,84188.0
+2025-12-01,Earwear,Eccentric Enterprises,87888.0
+2026-01-01,Earwear,Eccentric Enterprises,81228.0
+2026-02-01,Earwear,Eccentric Enterprises,66012.0
+2026-03-01,Earwear,Eccentric Enterprises,67324.0
+2026-01-01,Earwear,Edifier,4906.0
+2026-02-01,Earwear,Edifier,100.0
+2026-03-01,Earwear,Edifier,577.0
+2020-01-01,Earwear,Fire - Boltt,7584.0
+2020-02-01,Earwear,Fire - Boltt,4890.0
+2020-05-01,Earwear,Fire - Boltt,7467.0
+2020-06-01,Earwear,Fire - Boltt,4485.0
+2020-07-01,Earwear,Fire - Boltt,11767.0
+2020-08-01,Earwear,Fire - Boltt,11289.0
+2020-09-01,Earwear,Fire - Boltt,23498.0
+2020-10-01,Earwear,Fire - Boltt,62000.0
+2020-12-01,Earwear,Fire - Boltt,3003.9999999999995
+2021-02-01,Earwear,Fire - Boltt,5021.0
+2021-03-01,Earwear,Fire - Boltt,12512.0
+2021-04-01,Earwear,Fire - Boltt,3501.0
+2021-05-01,Earwear,Fire - Boltt,3500.0
+2021-06-01,Earwear,Fire - Boltt,11496.0
+2021-07-01,Earwear,Fire - Boltt,4990.0
+2021-09-01,Earwear,Fire - Boltt,7501.0
+2022-06-01,Earwear,Fire - Boltt,47546.0
+2022-07-01,Earwear,Fire - Boltt,9898.0
+2022-08-01,Earwear,Fire - Boltt,20968.0
+2022-09-01,Earwear,Fire - Boltt,147264.0
+2022-10-01,Earwear,Fire - Boltt,187751.0
+2022-11-01,Earwear,Fire - Boltt,10030.0
+2022-12-01,Earwear,Fire - Boltt,26046.0
+2023-01-01,Earwear,Fire - Boltt,30854.0
+2023-02-01,Earwear,Fire - Boltt,53874.0
+2023-03-01,Earwear,Fire - Boltt,44591.0
+2023-04-01,Earwear,Fire - Boltt,20940.0
+2023-05-01,Earwear,Fire - Boltt,35348.0
+2023-06-01,Earwear,Fire - Boltt,33827.0
+2023-07-01,Earwear,Fire - Boltt,39987.0
+2023-08-01,Earwear,Fire - Boltt,56759.0
+2023-09-01,Earwear,Fire - Boltt,85175.0
+2023-10-01,Earwear,Fire - Boltt,111054.0
+2023-11-01,Earwear,Fire - Boltt,17233.0
+2023-12-01,Earwear,Fire - Boltt,56980.0
+2024-01-01,Earwear,Fire - Boltt,51263.0
+2024-02-01,Earwear,Fire - Boltt,51915.0
+2024-03-01,Earwear,Fire - Boltt,50355.0
+2024-04-01,Earwear,Fire - Boltt,40060.0
+2024-05-01,Earwear,Fire - Boltt,32741.0
+2024-06-01,Earwear,Fire - Boltt,48205.0
+2024-07-01,Earwear,Fire - Boltt,12486.0
+2024-08-01,Earwear,Fire - Boltt,9438.0
+2024-09-01,Earwear,Fire - Boltt,4000.0
+2025-01-01,Earwear,Fire - Boltt,4565.0
+2025-02-01,Earwear,Fire - Boltt,4042.0
+2025-11-01,Earwear,Fire - Boltt,49983.0
+2025-12-01,Earwear,Fire - Boltt,28988.0
+2026-01-01,Earwear,Fire - Boltt,49978.0
+2026-02-01,Earwear,Fire - Boltt,93991.0
+2026-03-01,Earwear,Fire - Boltt,99901.0
+2026-01-01,Earwear,Flipkart,244.0
+2026-02-01,Earwear,Flipkart,100.0
+2026-03-01,Earwear,Flipkart,8689.0
+2023-09-01,Earwear,GIP Development SARL,47660.0
+2023-10-01,Earwear,GIP Development SARL,21715.0
+2023-11-01,Earwear,GIP Development SARL,27315.0
+2023-12-01,Earwear,GIP Development SARL,10888.0
+2024-01-01,Earwear,GIP Development SARL,16517.0
+2024-02-01,Earwear,GIP Development SARL,5290.0
+2024-03-01,Earwear,GIP Development SARL,14708.0
+2024-04-01,Earwear,GIP Development SARL,23450.0
+2024-05-01,Earwear,GIP Development SARL,8927.0
+2024-06-01,Earwear,GIP Development SARL,5206.0
+2024-08-01,Earwear,GIP Development SARL,8232.0
+2024-09-01,Earwear,GIP Development SARL,22673.0
+2024-10-01,Earwear,GIP Development SARL,22702.0
+2024-11-01,Earwear,GIP Development SARL,4326.0
+2024-12-01,Earwear,GIP Development SARL,15283.0
+2025-01-01,Earwear,GIP Development SARL,5493.0
+2025-02-01,Earwear,GIP Development SARL,13100.0
+2025-03-01,Earwear,GIP Development SARL,2176.0
+2025-04-01,Earwear,GIP Development SARL,2500.0
+2025-05-01,Earwear,GIP Development SARL,3295.0
+2025-06-01,Earwear,GIP Development SARL,5861.0
+2025-07-01,Earwear,GIP Development SARL,3718.0
+2025-08-01,Earwear,GIP Development SARL,3976.0
+2025-09-01,Earwear,GIP Development SARL,10029.0
+2025-10-01,Earwear,GIP Development SARL,3480.0
+2025-11-01,Earwear,GIP Development SARL,6070.0
+2025-12-01,Earwear,GIP Development SARL,23856.0
+2026-01-01,Earwear,GIP Development SARL,12751.0
+2026-02-01,Earwear,GIP Development SARL,12647.0
+2026-03-01,Earwear,GIP Development SARL,22434.0
+2020-01-01,Earwear,GN Group,2583.0
+2020-02-01,Earwear,GN Group,637.0
+2020-03-01,Earwear,GN Group,3035.0
+2020-06-01,Earwear,GN Group,2870.0
+2020-07-01,Earwear,GN Group,12284.0
+2020-08-01,Earwear,GN Group,12942.0
+2020-09-01,Earwear,GN Group,59165.0
+2020-10-01,Earwear,GN Group,26343.0
+2020-11-01,Earwear,GN Group,7928.0
+2020-12-01,Earwear,GN Group,1058.0
+2021-01-01,Earwear,GN Group,20190.0
+2021-02-01,Earwear,GN Group,12009.0
+2021-03-01,Earwear,GN Group,37279.0
+2021-04-01,Earwear,GN Group,11868.0
+2021-05-01,Earwear,GN Group,14593.0
+2021-06-01,Earwear,GN Group,8689.0
+2021-07-01,Earwear,GN Group,20471.0
+2021-08-01,Earwear,GN Group,16541.0
+2021-09-01,Earwear,GN Group,8373.0
+2021-10-01,Earwear,GN Group,44740.0
+2021-11-01,Earwear,GN Group,1137.0
+2021-12-01,Earwear,GN Group,6117.0
+2022-01-01,Earwear,GN Group,1965.0
+2022-02-01,Earwear,GN Group,4011.0
+2022-03-01,Earwear,GN Group,1524.0
+2022-04-01,Earwear,GN Group,566.0
+2022-05-01,Earwear,GN Group,7255.0
+2022-06-01,Earwear,GN Group,20447.0
+2022-07-01,Earwear,GN Group,18342.0
+2022-08-01,Earwear,GN Group,39764.0
+2022-09-01,Earwear,GN Group,10106.0
+2022-10-01,Earwear,GN Group,3323.0
+2022-11-01,Earwear,GN Group,798.0
+2022-12-01,Earwear,GN Group,4813.0
+2023-01-01,Earwear,GN Group,5882.0
+2023-02-01,Earwear,GN Group,8868.0
+2023-03-01,Earwear,GN Group,2579.0
+2023-04-01,Earwear,GN Group,5652.0
+2023-05-01,Earwear,GN Group,3258.0
+2023-06-01,Earwear,GN Group,10326.0
+2023-07-01,Earwear,GN Group,8563.0
+2023-08-01,Earwear,GN Group,9340.0
+2023-09-01,Earwear,GN Group,28237.0
+2023-10-01,Earwear,GN Group,115.0
+2023-11-01,Earwear,GN Group,412.0
+2023-12-01,Earwear,GN Group,816.0
+2024-01-01,Earwear,GN Group,2973.0
+2024-02-01,Earwear,GN Group,10.0
+2024-03-01,Earwear,GN Group,1738.0
+2024-04-01,Earwear,GN Group,3789.0
+2024-05-01,Earwear,GN Group,150.0
+2024-06-01,Earwear,GN Group,994.0
+2024-07-01,Earwear,GN Group,13.0
+2024-08-01,Earwear,GN Group,250.0
+2024-09-01,Earwear,GN Group,270.0
+2024-12-01,Earwear,GN Group,6411.0
+2025-02-01,Earwear,GN Group,185.0
+2025-03-01,Earwear,GN Group,25.0
+2025-04-01,Earwear,GN Group,16.0
+2025-05-01,Earwear,GN Group,336.0
+2025-06-01,Earwear,GN Group,97.0
+2025-07-01,Earwear,GN Group,244.0
+2025-08-01,Earwear,GN Group,78.0
+2025-09-01,Earwear,GN Group,220.0
+2025-10-01,Earwear,GN Group,315.0
+2025-11-01,Earwear,GN Group,253.0
+2025-12-01,Earwear,GN Group,202.0
+2026-01-01,Earwear,GN Group,124.0
+2026-02-01,Earwear,GN Group,200.0
+2026-03-01,Earwear,GN Group,343.0
+2020-06-01,Earwear,Gionee (IN),2561.0
+2020-10-01,Earwear,Gionee (IN),9557.0
+2020-11-01,Earwear,Gionee (IN),18766.0
+2020-12-01,Earwear,Gionee (IN),10902.0
+2021-01-01,Earwear,Gionee (IN),13990.0
+2021-03-01,Earwear,Gionee (IN),20070.0
+2021-04-01,Earwear,Gionee (IN),3403.0
+2021-05-01,Earwear,Gionee (IN),16033.0
+2021-06-01,Earwear,Gionee (IN),35321.0
+2021-09-01,Earwear,Gionee (IN),12920.0
+2021-10-01,Earwear,Gionee (IN),22536.0
+2021-11-01,Earwear,Gionee (IN),32494.0
+2021-12-01,Earwear,Gionee (IN),23281.0
+2022-01-01,Earwear,Gionee (IN),16777.0
+2022-02-01,Earwear,Gionee (IN),21213.0
+2022-03-01,Earwear,Gionee (IN),9937.0
+2022-04-01,Earwear,Gionee (IN),12354.0
+2022-05-01,Earwear,Gionee (IN),27069.0
+2022-06-01,Earwear,Gionee (IN),5112.0
+2022-09-01,Earwear,Gionee (IN),7986.0
+2022-10-01,Earwear,Gionee (IN),777.0
+2022-11-01,Earwear,Gionee (IN),12684.0
+2022-12-01,Earwear,Gionee (IN),10350.0
+2023-01-01,Earwear,Gionee (IN),5558.0
+2023-02-01,Earwear,Gionee (IN),1234.0
+2023-03-01,Earwear,Gionee (IN),1019.0
+2023-04-01,Earwear,Gionee (IN),1442.0
+2023-06-01,Earwear,Gionee (IN),12443.0
+2023-02-01,Earwear,Gizmore,59406.0
+2023-03-01,Earwear,Gizmore,26831.0
+2023-04-01,Earwear,Gizmore,30662.0
+2023-05-01,Earwear,Gizmore,34744.0
+2023-06-01,Earwear,Gizmore,34736.0
+2023-07-01,Earwear,Gizmore,34890.0
+2023-08-01,Earwear,Gizmore,34534.0
+2023-09-01,Earwear,Gizmore,44970.0
+2023-10-01,Earwear,Gizmore,34759.0
+2023-11-01,Earwear,Gizmore,5762.0
+2023-12-01,Earwear,Gizmore,6591.0
+2024-01-01,Earwear,Gizmore,28498.0
+2024-02-01,Earwear,Gizmore,30853.0
+2024-03-01,Earwear,Gizmore,25219.0
+2024-04-01,Earwear,Gizmore,33862.0
+2024-05-01,Earwear,Gizmore,26294.0
+2024-06-01,Earwear,Gizmore,11819.0
+2024-07-01,Earwear,Gizmore,8909.0
+2024-08-01,Earwear,Gizmore,13371.0
+2024-09-01,Earwear,Gizmore,113009.0
+2024-10-01,Earwear,Gizmore,39096.0
+2024-11-01,Earwear,Gizmore,18151.0
+2024-12-01,Earwear,Gizmore,4419.0
+2025-01-01,Earwear,Gizmore,1185.0
+2025-02-01,Earwear,Gizmore,1111.0
+2025-03-01,Earwear,Gizmore,3243.0
+2025-05-01,Earwear,Gizmore,14855.0
+2025-07-01,Earwear,Gizmore,82322.0
+2025-08-01,Earwear,Gizmore,61160.0
+2025-09-01,Earwear,Gizmore,52056.0
+2025-10-01,Earwear,Gizmore,70309.0
+2025-11-01,Earwear,Gizmore,34221.0
+2025-12-01,Earwear,Gizmore,35730.0
+2026-01-01,Earwear,Gizmore,24919.0
+2026-02-01,Earwear,Gizmore,26956.0
+2026-03-01,Earwear,Gizmore,27197.0
+2020-01-01,Earwear,GoBoult,11930.0
+2020-02-01,Earwear,GoBoult,22768.0
+2020-03-01,Earwear,GoBoult,34131.0
+2020-05-01,Earwear,GoBoult,9028.0
+2020-06-01,Earwear,GoBoult,47787.0
+2020-07-01,Earwear,GoBoult,46691.0
+2020-08-01,Earwear,GoBoult,104320.0
+2020-09-01,Earwear,GoBoult,143999.0
+2020-10-01,Earwear,GoBoult,301096.0
+2020-11-01,Earwear,GoBoult,126649.0
+2020-12-01,Earwear,GoBoult,101032.0
+2021-01-01,Earwear,GoBoult,117477.0
+2021-02-01,Earwear,GoBoult,94629.0
+2021-03-01,Earwear,GoBoult,113420.0
+2021-04-01,Earwear,GoBoult,35706.0
+2021-05-01,Earwear,GoBoult,69647.0
+2021-06-01,Earwear,GoBoult,211456.0
+2021-07-01,Earwear,GoBoult,142975.0
+2021-08-01,Earwear,GoBoult,190094.0
+2021-09-01,Earwear,GoBoult,209270.0
+2021-10-01,Earwear,GoBoult,382117.0
+2021-11-01,Earwear,GoBoult,116689.0
+2021-12-01,Earwear,GoBoult,126579.0
+2022-01-01,Earwear,GoBoult,240368.0
+2022-02-01,Earwear,GoBoult,196934.0
+2022-03-01,Earwear,GoBoult,61674.0
+2022-04-01,Earwear,GoBoult,284137.0
+2022-05-01,Earwear,GoBoult,123603.0
+2022-06-01,Earwear,GoBoult,354745.0
+2022-07-01,Earwear,GoBoult,309944.0
+2022-08-01,Earwear,GoBoult,187220.0
+2022-09-01,Earwear,GoBoult,128060.0
+2022-10-01,Earwear,GoBoult,679197.0
+2022-11-01,Earwear,GoBoult,523612.0
+2022-12-01,Earwear,GoBoult,620551.0
+2023-01-01,Earwear,GoBoult,714683.0
+2023-02-01,Earwear,GoBoult,602598.0
+2023-03-01,Earwear,GoBoult,682579.0
+2023-04-01,Earwear,GoBoult,449074.0
+2023-05-01,Earwear,GoBoult,614281.0
+2023-06-01,Earwear,GoBoult,671431.0
+2023-07-01,Earwear,GoBoult,741497.0
+2023-08-01,Earwear,GoBoult,747904.0
+2023-09-01,Earwear,GoBoult,784424.0
+2023-10-01,Earwear,GoBoult,807482.0
+2023-11-01,Earwear,GoBoult,392585.0
+2023-12-01,Earwear,GoBoult,321681.0
+2024-01-01,Earwear,GoBoult,447234.0
+2024-02-01,Earwear,GoBoult,574802.0
+2024-03-01,Earwear,GoBoult,553792.0
+2024-04-01,Earwear,GoBoult,723504.0
+2024-05-01,Earwear,GoBoult,646700.0
+2024-06-01,Earwear,GoBoult,645423.0
+2024-07-01,Earwear,GoBoult,900974.0
+2024-08-01,Earwear,GoBoult,1000803.0
+2024-09-01,Earwear,GoBoult,1203206.0
+2024-10-01,Earwear,GoBoult,759215.0
+2024-11-01,Earwear,GoBoult,483477.0
+2024-12-01,Earwear,GoBoult,616987.0
+2025-01-01,Earwear,GoBoult,786299.0
+2025-02-01,Earwear,GoBoult,689015.0
+2025-03-01,Earwear,GoBoult,672925.0
+2025-04-01,Earwear,GoBoult,792935.0
+2025-05-01,Earwear,GoBoult,756257.0
+2025-06-01,Earwear,GoBoult,804525.0
+2025-07-01,Earwear,GoBoult,811347.0
+2025-08-01,Earwear,GoBoult,768747.0
+2025-09-01,Earwear,GoBoult,1156244.0
+2025-10-01,Earwear,GoBoult,427534.0
+2025-11-01,Earwear,GoBoult,303599.0
+2025-12-01,Earwear,GoBoult,458305.0
+2026-01-01,Earwear,GoBoult,508900.0
+2026-02-01,Earwear,GoBoult,385169.0
+2026-03-01,Earwear,GoBoult,337165.0
+2021-08-01,Earwear,Google,9980.0
+2021-09-01,Earwear,Google,17021.0
+2021-10-01,Earwear,Google,3543.0
+2021-11-01,Earwear,Google,4445.0
+2022-07-01,Earwear,Google,1378.0
+2022-09-01,Earwear,Google,1993.0
+2022-10-01,Earwear,Google,2999.0
+2023-02-01,Earwear,Google,111.0
+2023-05-01,Earwear,Google,1154.0
+2023-06-01,Earwear,Google,998.0
+2023-07-01,Earwear,Google,498.0
+2023-08-01,Earwear,Google,2985.0
+2023-09-01,Earwear,Google,11985.0
+2023-10-01,Earwear,Google,15990.0
+2023-11-01,Earwear,Google,2030.0
+2023-12-01,Earwear,Google,2165.0
+2024-01-01,Earwear,Google,47.0
+2024-04-01,Earwear,Google,2000.0
+2024-06-01,Earwear,Google,520.0
+2024-07-01,Earwear,Google,1010.0
+2024-08-01,Earwear,Google,3666.0
+2024-09-01,Earwear,Google,1742.0
+2024-10-01,Earwear,Google,4130.0
+2025-03-01,Earwear,Google,1944.0
+2025-05-01,Earwear,Google,2160.0
+2025-06-01,Earwear,Google,864.0
+2025-09-01,Earwear,Google,852.0
+2025-10-01,Earwear,Google,304.0
+2025-11-01,Earwear,Google,662.0
+2025-12-01,Earwear,Google,1000.0
+2026-01-01,Earwear,Google,472.0
+2026-02-01,Earwear,Google,700.0
+2026-03-01,Earwear,Google,700.0
+2024-08-01,Earwear,HP,44800.0
+2024-09-01,Earwear,HP,119088.0
+2024-10-01,Earwear,HP,121000.0
+2024-11-01,Earwear,HP,40400.0
+2024-12-01,Earwear,HP,31600.0
+2025-08-01,Earwear,HP,12000.0
+2025-09-01,Earwear,HP,7522.0
+2025-10-01,Earwear,HP,2343.0
+2026-02-01,Earwear,HP,10000.0
+2026-03-01,Earwear,HP,9854.0
+2022-08-01,Earwear,Honor,2998.0
+2023-08-01,Earwear,Honor,6998.0
+2023-10-01,Earwear,Honor,7989.0
+2023-11-01,Earwear,Honor,6984.0
+2024-03-01,Earwear,Honor,9890.0
+2020-05-01,Earwear,Huawei,506.0
+2020-06-01,Earwear,Huawei,504.0
+2020-07-01,Earwear,Huawei,421.0
+2020-09-01,Earwear,Huawei,328.0
+2020-10-01,Earwear,Huawei,2520.0
+2021-10-01,Earwear,Huawei,1065.0
+2024-11-01,Earwear,Huawei,200.0
+2024-12-01,Earwear,Huawei,200.0
+2025-01-01,Earwear,Huawei,1526.0
+2025-07-01,Earwear,Huawei,865.0
+2025-08-01,Earwear,Huawei,306.0
+2025-09-01,Earwear,Huawei,668.0
+2026-01-01,Earwear,Huawei,1221.0
+2026-02-01,Earwear,Huawei,70.0
+2026-03-01,Earwear,Huawei,472.0
+2020-01-01,Earwear,Imagine Marketing,434220.0
+2020-02-01,Earwear,Imagine Marketing,235353.0
+2020-03-01,Earwear,Imagine Marketing,37990.0
+2020-05-01,Earwear,Imagine Marketing,79292.0
+2020-06-01,Earwear,Imagine Marketing,722626.0
+2020-07-01,Earwear,Imagine Marketing,446789.0
+2020-08-01,Earwear,Imagine Marketing,1458562.0
+2020-09-01,Earwear,Imagine Marketing,1347166.0
+2020-10-01,Earwear,Imagine Marketing,1541289.0
+2020-11-01,Earwear,Imagine Marketing,1664921.0
+2020-12-01,Earwear,Imagine Marketing,2134001.0
+2021-01-01,Earwear,Imagine Marketing,1439793.0
+2021-02-01,Earwear,Imagine Marketing,460189.0
+2021-03-01,Earwear,Imagine Marketing,818102.0
+2021-04-01,Earwear,Imagine Marketing,575266.0
+2021-05-01,Earwear,Imagine Marketing,1437746.0
+2021-06-01,Earwear,Imagine Marketing,2188639.0
+2021-07-01,Earwear,Imagine Marketing,2441827.0
+2021-08-01,Earwear,Imagine Marketing,3435228.0
+2021-09-01,Earwear,Imagine Marketing,3123016.0
+2021-10-01,Earwear,Imagine Marketing,3820100.0
+2021-11-01,Earwear,Imagine Marketing,2685497.0
+2021-12-01,Earwear,Imagine Marketing,1343367.0
+2022-01-01,Earwear,Imagine Marketing,782517.0
+2022-02-01,Earwear,Imagine Marketing,967751.0
+2022-03-01,Earwear,Imagine Marketing,863608.0
+2022-04-01,Earwear,Imagine Marketing,1694155.0
+2022-05-01,Earwear,Imagine Marketing,2336044.0
+2022-06-01,Earwear,Imagine Marketing,2893972.0
+2022-07-01,Earwear,Imagine Marketing,2570683.0
+2022-08-01,Earwear,Imagine Marketing,2808493.0
+2022-09-01,Earwear,Imagine Marketing,4170455.0
+2022-10-01,Earwear,Imagine Marketing,2227152.0
+2022-11-01,Earwear,Imagine Marketing,1157987.0
+2022-12-01,Earwear,Imagine Marketing,1085288.0
+2023-01-01,Earwear,Imagine Marketing,1548723.0
+2023-02-01,Earwear,Imagine Marketing,1520055.0
+2023-03-01,Earwear,Imagine Marketing,1544041.0
+2023-04-01,Earwear,Imagine Marketing,2227443.0
+2023-05-01,Earwear,Imagine Marketing,1989047.0
+2023-06-01,Earwear,Imagine Marketing,2554603.0
+2023-07-01,Earwear,Imagine Marketing,2818723.0
+2023-08-01,Earwear,Imagine Marketing,3224996.0
+2023-09-01,Earwear,Imagine Marketing,5801613.0
+2023-10-01,Earwear,Imagine Marketing,1777616.0
+2023-11-01,Earwear,Imagine Marketing,1145728.0
+2023-12-01,Earwear,Imagine Marketing,1234198.0
+2024-01-01,Earwear,Imagine Marketing,2054827.0
+2024-02-01,Earwear,Imagine Marketing,1771411.0
+2024-03-01,Earwear,Imagine Marketing,1594555.0
+2024-04-01,Earwear,Imagine Marketing,2019963.0
+2024-05-01,Earwear,Imagine Marketing,2290313.0
+2024-06-01,Earwear,Imagine Marketing,2482893.0
+2024-07-01,Earwear,Imagine Marketing,2643870.0
+2024-08-01,Earwear,Imagine Marketing,3452142.0
+2024-09-01,Earwear,Imagine Marketing,4505657.0
+2024-10-01,Earwear,Imagine Marketing,2674572.0
+2024-11-01,Earwear,Imagine Marketing,1426680.0
+2024-12-01,Earwear,Imagine Marketing,1770242.0
+2025-01-01,Earwear,Imagine Marketing,1986212.0
+2025-02-01,Earwear,Imagine Marketing,1899936.0
+2025-03-01,Earwear,Imagine Marketing,2209591.0
+2025-04-01,Earwear,Imagine Marketing,1914446.0
+2025-05-01,Earwear,Imagine Marketing,2040234.0
+2025-06-01,Earwear,Imagine Marketing,2610475.0
+2025-07-01,Earwear,Imagine Marketing,3019617.0
+2025-08-01,Earwear,Imagine Marketing,4202500.0
+2025-09-01,Earwear,Imagine Marketing,4131891.0
+2025-10-01,Earwear,Imagine Marketing,1945800.0
+2025-11-01,Earwear,Imagine Marketing,1193003.0
+2025-12-01,Earwear,Imagine Marketing,2043007.0
+2026-01-01,Earwear,Imagine Marketing,2232973.0
+2026-02-01,Earwear,Imagine Marketing,1996103.0
+2026-03-01,Earwear,Imagine Marketing,2259040.0
+2022-02-01,Earwear,Intex,21100.0
+2022-03-01,Earwear,Intex,12262.0
+2022-04-01,Earwear,Intex,26840.0
+2022-05-01,Earwear,Intex,19293.0
+2022-06-01,Earwear,Intex,8261.0
+2022-07-01,Earwear,Intex,23787.0
+2022-08-01,Earwear,Intex,13042.0
+2022-09-01,Earwear,Intex,32983.0
+2022-10-01,Earwear,Intex,8244.0
+2022-11-01,Earwear,Intex,10356.0
+2022-12-01,Earwear,Intex,1010.0
+2023-01-01,Earwear,Intex,1098.0
+2023-02-01,Earwear,Intex,3496.0
+2023-04-01,Earwear,Intex,19222.0
+2023-09-01,Earwear,JLAB AUDIO,41976.0
+2023-12-01,Earwear,JLAB AUDIO,6200.0
+2024-08-01,Earwear,JLAB AUDIO,7776.0
+2024-10-01,Earwear,JLAB AUDIO,3216.0
+2024-11-01,Earwear,JLAB AUDIO,1008.0
+2024-12-01,Earwear,JLAB AUDIO,5677.0
+2025-01-01,Earwear,JLAB AUDIO,3120.0
+2025-02-01,Earwear,JLAB AUDIO,216.0
+2025-03-01,Earwear,JLAB AUDIO,1016.0
+2025-04-01,Earwear,JLAB AUDIO,300.0
+2025-05-01,Earwear,JLAB AUDIO,1276.0
+2025-06-01,Earwear,JLAB AUDIO,816.0
+2025-07-01,Earwear,JLAB AUDIO,1896.0
+2025-09-01,Earwear,JLAB AUDIO,12400.0
+2025-10-01,Earwear,JLAB AUDIO,1978.0
+2026-03-01,Earwear,JLAB AUDIO,116.0
+2021-01-01,Earwear,LG Electronics,8532.0
+2021-02-01,Earwear,LG Electronics,3236.0
+2021-03-01,Earwear,LG Electronics,7727.0
+2021-04-01,Earwear,LG Electronics,3258.0
+2021-05-01,Earwear,LG Electronics,2324.0
+2021-06-01,Earwear,LG Electronics,3340.0
+2021-08-01,Earwear,LG Electronics,4314.0
+2021-09-01,Earwear,LG Electronics,7335.0
+2021-10-01,Earwear,LG Electronics,5834.0
+2021-11-01,Earwear,LG Electronics,1060.0
+2021-12-01,Earwear,LG Electronics,580.0
+2022-01-01,Earwear,LG Electronics,4611.0
+2022-02-01,Earwear,LG Electronics,4285.0
+2022-03-01,Earwear,LG Electronics,5268.0
+2022-04-01,Earwear,LG Electronics,6521.0
+2022-05-01,Earwear,LG Electronics,750.0
+2022-08-01,Earwear,LG Electronics,1987.0
+2022-09-01,Earwear,LG Electronics,9284.0
+2022-10-01,Earwear,LG Electronics,5786.0
+2022-11-01,Earwear,LG Electronics,134.0
+2022-12-01,Earwear,LG Electronics,141.0
+2023-01-01,Earwear,LG Electronics,1989.0
+2023-02-01,Earwear,LG Electronics,4608.0
+2023-03-01,Earwear,LG Electronics,2304.0
+2023-05-01,Earwear,LG Electronics,491.0
+2023-06-01,Earwear,LG Electronics,1376.0
+2023-07-01,Earwear,LG Electronics,6300.0
+2023-08-01,Earwear,LG Electronics,3840.0
+2023-09-01,Earwear,LG Electronics,3364.0
+2023-10-01,Earwear,LG Electronics,3504.0
+2023-11-01,Earwear,LG Electronics,120.0
+2023-12-01,Earwear,LG Electronics,2676.0
+2024-01-01,Earwear,LG Electronics,1008.0
+2024-02-01,Earwear,LG Electronics,2388.0
+2024-03-01,Earwear,LG Electronics,672.0
+2024-05-01,Earwear,LG Electronics,1256.0
+2024-06-01,Earwear,LG Electronics,350.0
+2024-08-01,Earwear,LG Electronics,3278.0
+2024-09-01,Earwear,LG Electronics,2652.0
+2024-11-01,Earwear,LG Electronics,234.0
+2025-02-01,Earwear,LG Electronics,26.0
+2025-03-01,Earwear,LG Electronics,81.0
+2025-04-01,Earwear,LG Electronics,34.0
+2025-05-01,Earwear,LG Electronics,37.0
+2025-07-01,Earwear,LG Electronics,15.0
+2025-08-01,Earwear,LG Electronics,3.0
+2025-09-01,Earwear,LG Electronics,14.0
+2020-01-01,Earwear,Lenovo,13032.0
+2020-02-01,Earwear,Lenovo,3392.0
+2020-07-01,Earwear,Lenovo,2206.0
+2020-08-01,Earwear,Lenovo,12999.0
+2020-09-01,Earwear,Lenovo,12555.0
+2020-10-01,Earwear,Lenovo,15342.0
+2020-11-01,Earwear,Lenovo,12979.0
+2020-12-01,Earwear,Lenovo,2984.0
+2021-02-01,Earwear,Lenovo,8473.0
+2021-03-01,Earwear,Lenovo,30398.0
+2021-05-01,Earwear,Lenovo,5004.0
+2021-06-01,Earwear,Lenovo,6001.0
+2021-09-01,Earwear,Lenovo,8869.0
+2022-05-01,Earwear,Lenovo,4040.0
+2022-07-01,Earwear,Lenovo,5724.0
+2022-09-01,Earwear,Lenovo,5976.0
+2022-10-01,Earwear,Lenovo,5940.0
+2022-11-01,Earwear,Lenovo,2422.0
+2022-12-01,Earwear,Lenovo,2160.0
+2023-01-01,Earwear,Lenovo,173.0
+2023-02-01,Earwear,Lenovo,135.0
+2023-03-01,Earwear,Lenovo,2138.0
+2023-04-01,Earwear,Lenovo,1423.0
+2023-05-01,Earwear,Lenovo,11.0
+2023-06-01,Earwear,Lenovo,22.0
+2023-07-01,Earwear,Lenovo,2140.0
+2023-08-01,Earwear,Lenovo,4580.0
+2023-09-01,Earwear,Lenovo,7318.0
+2023-10-01,Earwear,Lenovo,11200.0
+2023-11-01,Earwear,Lenovo,4120.0
+2024-05-01,Earwear,Lenovo,48890.0
+2024-06-01,Earwear,Lenovo,23201.0
+2024-07-01,Earwear,Lenovo,11.0
+2024-08-01,Earwear,Lenovo,14800.0
+2024-09-01,Earwear,Lenovo,5089.0
+2024-10-01,Earwear,Lenovo,600.0
+2024-11-01,Earwear,Lenovo,800.0
+2024-12-01,Earwear,Lenovo,1500.0
+2025-01-01,Earwear,Lenovo,2150.0
+2025-03-01,Earwear,Lenovo,9580.0
+2025-04-01,Earwear,Lenovo,1730.0
+2025-05-01,Earwear,Lenovo,1030.0
+2025-06-01,Earwear,Lenovo,14000.0
+2025-07-01,Earwear,Lenovo,850.0
+2025-08-01,Earwear,Lenovo,7529.0
+2025-09-01,Earwear,Lenovo,13783.0
+2025-10-01,Earwear,Lenovo,3300.0
+2025-11-01,Earwear,Lenovo,2050.0
+2025-12-01,Earwear,Lenovo,15028.0
+2026-01-01,Earwear,Lenovo,5705.0
+2026-02-01,Earwear,Lenovo,4380.0
+2026-03-01,Earwear,Lenovo,8580.0
+2024-06-01,Earwear,Marshall,7692.0
+2024-07-01,Earwear,Marshall,12001.0
+2024-08-01,Earwear,Marshall,5148.0
+2024-09-01,Earwear,Marshall,1170.0
+2024-10-01,Earwear,Marshall,1000.0
+2024-11-01,Earwear,Marshall,13750.0
+2024-12-01,Earwear,Marshall,2850.0
+2025-01-01,Earwear,Marshall,3850.0
+2025-02-01,Earwear,Marshall,500.0
+2025-03-01,Earwear,Marshall,3800.0
+2025-04-01,Earwear,Marshall,9184.0
+2025-05-01,Earwear,Marshall,11200.0
+2025-06-01,Earwear,Marshall,6000.0
+2025-07-01,Earwear,Marshall,6026.0
+2025-08-01,Earwear,Marshall,14700.0
+2025-09-01,Earwear,Marshall,13944.0
+2025-10-01,Earwear,Marshall,12633.0
+2025-11-01,Earwear,Marshall,1653.0
+2025-12-01,Earwear,Marshall,7203.0
+2026-01-01,Earwear,Marshall,7133.0
+2026-02-01,Earwear,Marshall,5750.0
+2026-03-01,Earwear,Marshall,6100.0
+2020-01-01,Earwear,Mill Road Capital,61696.0
+2020-02-01,Earwear,Mill Road Capital,600.0
+2020-06-01,Earwear,Mill Road Capital,2080.0
+2020-07-01,Earwear,Mill Road Capital,4446.0
+2020-08-01,Earwear,Mill Road Capital,8628.0
+2020-09-01,Earwear,Mill Road Capital,13656.0
+2020-10-01,Earwear,Mill Road Capital,12300.0
+2020-11-01,Earwear,Mill Road Capital,6400.0
+2020-12-01,Earwear,Mill Road Capital,14992.0
+2021-01-01,Earwear,Mill Road Capital,8331.0
+2021-02-01,Earwear,Mill Road Capital,8024.0
+2021-03-01,Earwear,Mill Road Capital,20313.0
+2021-04-01,Earwear,Mill Road Capital,2630.0
+2021-05-01,Earwear,Mill Road Capital,1312.0
+2021-06-01,Earwear,Mill Road Capital,12741.0
+2021-07-01,Earwear,Mill Road Capital,10397.0
+2021-08-01,Earwear,Mill Road Capital,9800.0
+2021-09-01,Earwear,Mill Road Capital,39656.0
+2021-10-01,Earwear,Mill Road Capital,10442.0
+2021-11-01,Earwear,Mill Road Capital,4680.0
+2021-12-01,Earwear,Mill Road Capital,7624.0
+2022-01-01,Earwear,Mill Road Capital,11080.0
+2022-02-01,Earwear,Mill Road Capital,4672.0
+2022-03-01,Earwear,Mill Road Capital,16108.0
+2022-04-01,Earwear,Mill Road Capital,9138.0
+2022-05-01,Earwear,Mill Road Capital,14446.0
+2022-06-01,Earwear,Mill Road Capital,10245.0
+2022-07-01,Earwear,Mill Road Capital,33541.0
+2022-08-01,Earwear,Mill Road Capital,34880.0
+2022-09-01,Earwear,Mill Road Capital,45884.0
+2022-10-01,Earwear,Mill Road Capital,38922.0
+2022-11-01,Earwear,Mill Road Capital,49608.0
+2022-12-01,Earwear,Mill Road Capital,49681.0
+2023-01-01,Earwear,Mill Road Capital,3133.0
+2023-02-01,Earwear,Mill Road Capital,22571.0
+2023-03-01,Earwear,Mill Road Capital,40983.0
+2023-04-01,Earwear,Mill Road Capital,30239.0
+2023-05-01,Earwear,Mill Road Capital,56440.0
+2023-06-01,Earwear,Mill Road Capital,41908.0
+2023-07-01,Earwear,Mill Road Capital,40256.0
+2023-08-01,Earwear,Mill Road Capital,28602.0
+2023-09-01,Earwear,Mill Road Capital,105064.0
+2023-10-01,Earwear,Mill Road Capital,43814.0
+2023-11-01,Earwear,Mill Road Capital,18616.0
+2023-12-01,Earwear,Mill Road Capital,67060.0
+2024-01-01,Earwear,Mill Road Capital,1680.0
+2024-02-01,Earwear,Mill Road Capital,32587.0
+2024-03-01,Earwear,Mill Road Capital,4168.0
+2024-04-01,Earwear,Mill Road Capital,31616.0
+2024-05-01,Earwear,Mill Road Capital,29239.0
+2024-06-01,Earwear,Mill Road Capital,23161.0
+2024-07-01,Earwear,Mill Road Capital,36248.0
+2024-08-01,Earwear,Mill Road Capital,45862.0
+2024-09-01,Earwear,Mill Road Capital,60984.0
+2024-10-01,Earwear,Mill Road Capital,38532.0
+2024-11-01,Earwear,Mill Road Capital,18036.0
+2024-12-01,Earwear,Mill Road Capital,7608.0
+2025-01-01,Earwear,Mill Road Capital,15099.0
+2025-02-01,Earwear,Mill Road Capital,11104.0
+2025-03-01,Earwear,Mill Road Capital,12052.0
+2025-04-01,Earwear,Mill Road Capital,20200.0
+2025-05-01,Earwear,Mill Road Capital,22258.0
+2025-06-01,Earwear,Mill Road Capital,13904.0
+2025-07-01,Earwear,Mill Road Capital,13350.0
+2025-08-01,Earwear,Mill Road Capital,7156.0
+2025-09-01,Earwear,Mill Road Capital,21385.0
+2025-10-01,Earwear,Mill Road Capital,4000.0
+2025-11-01,Earwear,Mill Road Capital,12269.0
+2025-12-01,Earwear,Mill Road Capital,24746.0
+2026-01-01,Earwear,Mill Road Capital,38050.0
+2026-02-01,Earwear,Mill Road Capital,20000.0
+2026-03-01,Earwear,Mill Road Capital,15433.0
+2020-07-01,Earwear,Mivi,1250.0
+2020-08-01,Earwear,Mivi,10043.0
+2020-09-01,Earwear,Mivi,7112.0
+2020-10-01,Earwear,Mivi,19321.0
+2020-11-01,Earwear,Mivi,3003.0
+2020-12-01,Earwear,Mivi,18429.0
+2021-01-01,Earwear,Mivi,45502.0
+2021-02-01,Earwear,Mivi,15043.0
+2021-03-01,Earwear,Mivi,33503.0
+2021-04-01,Earwear,Mivi,16934.0
+2021-05-01,Earwear,Mivi,25926.0
+2021-06-01,Earwear,Mivi,31568.0
+2021-07-01,Earwear,Mivi,22166.0
+2021-08-01,Earwear,Mivi,20730.0
+2021-09-01,Earwear,Mivi,17036.0
+2021-10-01,Earwear,Mivi,25721.0
+2021-11-01,Earwear,Mivi,13021.0
+2022-01-01,Earwear,Mivi,89828.0
+2022-02-01,Earwear,Mivi,111854.0
+2022-03-01,Earwear,Mivi,167397.0
+2022-04-01,Earwear,Mivi,186565.0
+2022-05-01,Earwear,Mivi,176466.0
+2022-06-01,Earwear,Mivi,248638.0
+2022-07-01,Earwear,Mivi,255550.0
+2022-08-01,Earwear,Mivi,271746.0
+2022-09-01,Earwear,Mivi,683996.0
+2022-10-01,Earwear,Mivi,518602.0
+2022-11-01,Earwear,Mivi,208798.0
+2022-12-01,Earwear,Mivi,240410.0
+2023-01-01,Earwear,Mivi,215445.0
+2023-02-01,Earwear,Mivi,205584.0
+2023-03-01,Earwear,Mivi,186372.0
+2023-04-01,Earwear,Mivi,209295.0
+2023-05-01,Earwear,Mivi,318620.0
+2023-06-01,Earwear,Mivi,263515.0
+2023-07-01,Earwear,Mivi,296635.0
+2023-08-01,Earwear,Mivi,326337.0
+2023-09-01,Earwear,Mivi,307381.0
+2023-10-01,Earwear,Mivi,437554.0
+2023-11-01,Earwear,Mivi,291632.0
+2023-12-01,Earwear,Mivi,250769.0
+2024-01-01,Earwear,Mivi,127847.0
+2024-02-01,Earwear,Mivi,69910.0
+2024-03-01,Earwear,Mivi,286943.0
+2024-04-01,Earwear,Mivi,191904.0
+2024-05-01,Earwear,Mivi,164360.0
+2024-06-01,Earwear,Mivi,239092.0
+2024-07-01,Earwear,Mivi,258130.0
+2024-08-01,Earwear,Mivi,354850.0
+2024-09-01,Earwear,Mivi,316517.0
+2024-10-01,Earwear,Mivi,174837.0
+2024-11-01,Earwear,Mivi,155260.0
+2024-12-01,Earwear,Mivi,112805.0
+2025-01-01,Earwear,Mivi,177724.0
+2025-02-01,Earwear,Mivi,253096.0
+2025-03-01,Earwear,Mivi,44870.0
+2025-04-01,Earwear,Mivi,103282.0
+2025-05-01,Earwear,Mivi,62601.0
+2025-06-01,Earwear,Mivi,101572.0
+2025-07-01,Earwear,Mivi,90957.0
+2025-08-01,Earwear,Mivi,131998.0
+2025-09-01,Earwear,Mivi,188773.0
+2025-10-01,Earwear,Mivi,55052.0
+2025-11-01,Earwear,Mivi,55054.0
+2025-12-01,Earwear,Mivi,65525.0
+2026-01-01,Earwear,Mivi,141287.0
+2026-02-01,Earwear,Mivi,72696.0
+2026-03-01,Earwear,Mivi,84881.0
+2024-07-01,Earwear,Montblanc,12.0
+2024-08-01,Earwear,Montblanc,18.0
+2024-09-01,Earwear,Montblanc,17.0
+2024-10-01,Earwear,Montblanc,30.0
+2024-11-01,Earwear,Montblanc,15.0
+2024-12-01,Earwear,Montblanc,7.0
+2025-01-01,Earwear,Montblanc,8.0
+2025-02-01,Earwear,Montblanc,1.0
+2025-03-01,Earwear,Montblanc,16.0
+2025-05-01,Earwear,Montblanc,19.0
+2025-06-01,Earwear,Montblanc,29.0
+2025-08-01,Earwear,Montblanc,3.0
+2025-10-01,Earwear,Montblanc,2.0
+2026-01-01,Earwear,Montblanc,3.0
+2026-03-01,Earwear,Montblanc,1.0
+2020-01-01,Earwear,Nexxbase,70573.0
+2020-02-01,Earwear,Nexxbase,26181.0
+2020-03-01,Earwear,Nexxbase,54139.0
+2020-05-01,Earwear,Nexxbase,78935.0
+2020-06-01,Earwear,Nexxbase,48796.0
+2020-07-01,Earwear,Nexxbase,70023.0
+2020-08-01,Earwear,Nexxbase,132473.0
+2020-09-01,Earwear,Nexxbase,162686.0
+2020-10-01,Earwear,Nexxbase,94655.0
+2020-11-01,Earwear,Nexxbase,88661.0
+2020-12-01,Earwear,Nexxbase,71944.0
+2021-01-01,Earwear,Nexxbase,91004.0
+2021-02-01,Earwear,Nexxbase,83083.0
+2021-03-01,Earwear,Nexxbase,61094.0
+2021-04-01,Earwear,Nexxbase,69295.0
+2021-05-01,Earwear,Nexxbase,98509.0
+2021-06-01,Earwear,Nexxbase,141438.0
+2021-07-01,Earwear,Nexxbase,191355.0
+2021-08-01,Earwear,Nexxbase,155263.0
+2021-09-01,Earwear,Nexxbase,332884.0
+2021-10-01,Earwear,Nexxbase,264885.0
+2021-11-01,Earwear,Nexxbase,162873.0
+2021-12-01,Earwear,Nexxbase,226193.0
+2022-01-01,Earwear,Nexxbase,257776.0
+2022-02-01,Earwear,Nexxbase,182855.0
+2022-03-01,Earwear,Nexxbase,192824.0
+2022-04-01,Earwear,Nexxbase,276799.0
+2022-05-01,Earwear,Nexxbase,260667.0
+2022-06-01,Earwear,Nexxbase,383146.0
+2022-07-01,Earwear,Nexxbase,452564.0
+2022-08-01,Earwear,Nexxbase,423537.0
+2022-09-01,Earwear,Nexxbase,724780.0
+2022-10-01,Earwear,Nexxbase,212722.0
+2022-11-01,Earwear,Nexxbase,233966.0
+2022-12-01,Earwear,Nexxbase,253300.0
+2023-01-01,Earwear,Nexxbase,271338.0
+2023-02-01,Earwear,Nexxbase,255884.0
+2023-03-01,Earwear,Nexxbase,214596.0
+2023-04-01,Earwear,Nexxbase,228009.0
+2023-05-01,Earwear,Nexxbase,253593.0
+2023-06-01,Earwear,Nexxbase,431549.0
+2023-07-01,Earwear,Nexxbase,463544.0
+2023-08-01,Earwear,Nexxbase,557595.0
+2023-09-01,Earwear,Nexxbase,651069.0
+2023-10-01,Earwear,Nexxbase,444693.0
+2023-11-01,Earwear,Nexxbase,329783.0
+2023-12-01,Earwear,Nexxbase,374812.0
+2024-01-01,Earwear,Nexxbase,500724.0
+2024-02-01,Earwear,Nexxbase,448642.0
+2024-03-01,Earwear,Nexxbase,393986.0
+2024-04-01,Earwear,Nexxbase,476024.0
+2024-05-01,Earwear,Nexxbase,451987.0
+2024-06-01,Earwear,Nexxbase,510994.0
+2024-07-01,Earwear,Nexxbase,447449.0
+2024-08-01,Earwear,Nexxbase,518495.0
+2024-09-01,Earwear,Nexxbase,654698.0
+2024-10-01,Earwear,Nexxbase,452944.0
+2024-11-01,Earwear,Nexxbase,397742.0
+2024-12-01,Earwear,Nexxbase,446368.0
+2025-01-01,Earwear,Nexxbase,591898.0
+2025-02-01,Earwear,Nexxbase,490743.0
+2025-03-01,Earwear,Nexxbase,436630.0
+2025-04-01,Earwear,Nexxbase,481903.0
+2025-05-01,Earwear,Nexxbase,486977.0
+2025-06-01,Earwear,Nexxbase,466791.0
+2025-07-01,Earwear,Nexxbase,449629.0
+2025-08-01,Earwear,Nexxbase,701841.0
+2025-09-01,Earwear,Nexxbase,539000.0
+2025-10-01,Earwear,Nexxbase,544640.0
+2025-11-01,Earwear,Nexxbase,381718.0
+2025-12-01,Earwear,Nexxbase,461100.0
+2026-01-01,Earwear,Nexxbase,444506.0
+2026-02-01,Earwear,Nexxbase,365750.0
+2026-03-01,Earwear,Nexxbase,356200.0
+2021-08-01,Earwear,Nothing,11045.0
+2021-09-01,Earwear,Nothing,44032.0
+2021-10-01,Earwear,Nothing,7990.0
+2021-11-01,Earwear,Nothing,14990.0
+2021-12-01,Earwear,Nothing,12398.0
+2022-01-01,Earwear,Nothing,7898.0
+2022-02-01,Earwear,Nothing,5021.0
+2022-03-01,Earwear,Nothing,1578.0
+2022-06-01,Earwear,Nothing,2507.0
+2022-10-01,Earwear,Nothing,8987.0
+2022-11-01,Earwear,Nothing,7461.0
+2022-12-01,Earwear,Nothing,7549.0
+2023-01-01,Earwear,Nothing,3214.0
+2023-02-01,Earwear,Nothing,32.0
+2023-03-01,Earwear,Nothing,15200.0
+2023-04-01,Earwear,Nothing,6100.0
+2023-05-01,Earwear,Nothing,5833.0
+2023-06-01,Earwear,Nothing,5245.0
+2023-07-01,Earwear,Nothing,13820.0
+2023-08-01,Earwear,Nothing,1060.0
+2023-09-01,Earwear,Nothing,55698.0
+2023-10-01,Earwear,Nothing,21802.0
+2023-11-01,Earwear,Nothing,4880.0
+2024-01-01,Earwear,Nothing,8320.0
+2024-02-01,Earwear,Nothing,14800.0
+2024-03-01,Earwear,Nothing,79384.0
+2024-04-01,Earwear,Nothing,62693.0
+2024-05-01,Earwear,Nothing,56191.0
+2024-06-01,Earwear,Nothing,50715.0
+2024-07-01,Earwear,Nothing,44968.0
+2024-08-01,Earwear,Nothing,93182.0
+2024-09-01,Earwear,Nothing,134760.0
+2024-10-01,Earwear,Nothing,51446.0
+2024-11-01,Earwear,Nothing,75294.0
+2024-12-01,Earwear,Nothing,32271.0
+2025-01-01,Earwear,Nothing,47000.0
+2025-02-01,Earwear,Nothing,35832.0
+2025-03-01,Earwear,Nothing,30168.0
+2025-04-01,Earwear,Nothing,48331.0
+2025-05-01,Earwear,Nothing,73974.0
+2025-06-01,Earwear,Nothing,79351.0
+2025-07-01,Earwear,Nothing,143200.0
+2025-08-01,Earwear,Nothing,260696.0
+2025-09-01,Earwear,Nothing,87851.0
+2025-10-01,Earwear,Nothing,112474.0
+2025-11-01,Earwear,Nothing,82390.0
+2025-12-01,Earwear,Nothing,65250.0
+2026-01-01,Earwear,Nothing,118706.0
+2026-02-01,Earwear,Nothing,92508.0
+2026-03-01,Earwear,Nothing,93034.0
+2025-03-01,Earwear,Number Fone Company,120633.0
+2025-04-01,Earwear,Number Fone Company,11162.0
+2025-05-01,Earwear,Number Fone Company,39543.0
+2025-06-01,Earwear,Number Fone Company,26557.0
+2025-07-01,Earwear,Number Fone Company,24829.0
+2025-08-01,Earwear,Number Fone Company,48583.0
+2025-09-01,Earwear,Number Fone Company,34069.0
+2025-10-01,Earwear,Number Fone Company,24244.0
+2025-11-01,Earwear,Number Fone Company,726.0
+2025-12-01,Earwear,Number Fone Company,22878.0
+2026-01-01,Earwear,Number Fone Company,33173.0
+2026-02-01,Earwear,Number Fone Company,1415.0
+2026-03-01,Earwear,Number Fone Company,34540.0
+2020-01-01,Earwear,OPPO,184602.0
+2020-02-01,Earwear,OPPO,80620.0
+2020-03-01,Earwear,OPPO,92126.0
+2020-05-01,Earwear,OPPO,268740.0
+2020-06-01,Earwear,OPPO,712756.0
+2020-07-01,Earwear,OPPO,653464.0
+2020-08-01,Earwear,OPPO,795614.0
+2020-09-01,Earwear,OPPO,1147368.0
+2020-10-01,Earwear,OPPO,1020006.0
+2020-11-01,Earwear,OPPO,810272.0000000001
+2020-12-01,Earwear,OPPO,1048419.0
+2021-01-01,Earwear,OPPO,606365.0
+2021-02-01,Earwear,OPPO,791606.0
+2021-03-01,Earwear,OPPO,701012.0
+2021-04-01,Earwear,OPPO,482400.0
+2021-05-01,Earwear,OPPO,249060.0
+2021-06-01,Earwear,OPPO,662010.0
+2021-07-01,Earwear,OPPO,886077.0
+2021-08-01,Earwear,OPPO,898185.0
+2021-09-01,Earwear,OPPO,1428382.0
+2021-10-01,Earwear,OPPO,1157311.0
+2021-11-01,Earwear,OPPO,641372.0
+2021-12-01,Earwear,OPPO,576082.0
+2022-01-01,Earwear,OPPO,748706.0
+2022-02-01,Earwear,OPPO,582454.0
+2022-03-01,Earwear,OPPO,650741.0
+2022-04-01,Earwear,OPPO,1134835.0
+2022-05-01,Earwear,OPPO,1208776.0
+2022-06-01,Earwear,OPPO,1045033.0
+2022-07-01,Earwear,OPPO,1309642.0
+2022-08-01,Earwear,OPPO,1643040.0
+2022-09-01,Earwear,OPPO,2002719.0
+2022-10-01,Earwear,OPPO,1335024.0
+2022-11-01,Earwear,OPPO,919595.0
+2022-12-01,Earwear,OPPO,1146432.0
+2023-01-01,Earwear,OPPO,743498.0
+2023-02-01,Earwear,OPPO,556660.0
+2023-03-01,Earwear,OPPO,572954.0
+2023-04-01,Earwear,OPPO,1647021.0
+2023-05-01,Earwear,OPPO,1465849.0
+2023-06-01,Earwear,OPPO,1215117.0
+2023-07-01,Earwear,OPPO,1763270.0
+2023-08-01,Earwear,OPPO,1550310.0
+2023-09-01,Earwear,OPPO,2155821.0
+2023-10-01,Earwear,OPPO,1172287.0
+2023-11-01,Earwear,OPPO,532386.0
+2023-12-01,Earwear,OPPO,766488.0
+2024-01-01,Earwear,OPPO,722003.0
+2024-02-01,Earwear,OPPO,920482.0
+2024-03-01,Earwear,OPPO,757736.0
+2024-04-01,Earwear,OPPO,1145709.0
+2024-05-01,Earwear,OPPO,1314560.0
+2024-06-01,Earwear,OPPO,1331709.0
+2024-07-01,Earwear,OPPO,1265280.0
+2024-08-01,Earwear,OPPO,1638487.0
+2024-09-01,Earwear,OPPO,1387792.0
+2024-10-01,Earwear,OPPO,1245863.0
+2024-11-01,Earwear,OPPO,579812.0
+2024-12-01,Earwear,OPPO,1142014.0
+2025-01-01,Earwear,OPPO,826986.0
+2025-02-01,Earwear,OPPO,654933.0
+2025-03-01,Earwear,OPPO,1076130.0
+2025-04-01,Earwear,OPPO,1126460.0
+2025-05-01,Earwear,OPPO,1054625.0
+2025-06-01,Earwear,OPPO,1695822.0
+2025-07-01,Earwear,OPPO,1738248.0
+2025-08-01,Earwear,OPPO,2376381.0
+2025-09-01,Earwear,OPPO,2452584.0
+2025-10-01,Earwear,OPPO,1439303.0
+2025-11-01,Earwear,OPPO,649599.0
+2025-12-01,Earwear,OPPO,1161913.0
+2026-01-01,Earwear,OPPO,900543.0
+2026-02-01,Earwear,OPPO,944430.0
+2026-03-01,Earwear,OPPO,946303.0
+2020-01-01,Earwear,Others,34150.0
+2020-02-01,Earwear,Others,34969.0
+2020-03-01,Earwear,Others,31529.0
+2020-05-01,Earwear,Others,35703.0
+2020-06-01,Earwear,Others,65655.0
+2020-07-01,Earwear,Others,80026.0
+2020-08-01,Earwear,Others,134312.0
+2020-09-01,Earwear,Others,113997.0
+2020-10-01,Earwear,Others,90898.0
+2020-11-01,Earwear,Others,116337.0
+2020-12-01,Earwear,Others,137913.0
+2021-01-01,Earwear,Others,123353.0
+2021-02-01,Earwear,Others,74225.0
+2021-03-01,Earwear,Others,52904.0
+2021-04-01,Earwear,Others,67595.0
+2021-05-01,Earwear,Others,84507.0
+2021-06-01,Earwear,Others,159848.0
+2021-07-01,Earwear,Others,230981.0
+2021-08-01,Earwear,Others,149366.0
+2021-09-01,Earwear,Others,312342.0
+2021-10-01,Earwear,Others,406074.0
+2021-11-01,Earwear,Others,269397.0
+2021-12-01,Earwear,Others,230782.0
+2022-01-01,Earwear,Others,262404.0
+2022-02-01,Earwear,Others,276388.0
+2022-03-01,Earwear,Others,318029.0
+2022-04-01,Earwear,Others,563791.0
+2022-05-01,Earwear,Others,637509.0
+2022-06-01,Earwear,Others,639926.0
+2022-07-01,Earwear,Others,648476.0
+2022-08-01,Earwear,Others,699994.0
+2022-09-01,Earwear,Others,969121.0
+2022-10-01,Earwear,Others,702377.0
+2022-11-01,Earwear,Others,352894.0
+2022-12-01,Earwear,Others,629105.0
+2023-01-01,Earwear,Others,399046.0
+2023-02-01,Earwear,Others,426346.0
+2023-03-01,Earwear,Others,469549.0
+2023-04-01,Earwear,Others,482320.0
+2023-05-01,Earwear,Others,620846.0
+2023-06-01,Earwear,Others,638512.0
+2023-07-01,Earwear,Others,862159.0
+2023-08-01,Earwear,Others,1017281.0
+2023-09-01,Earwear,Others,1194165.0
+2023-10-01,Earwear,Others,365908.0
+2023-11-01,Earwear,Others,657982.0
+2023-12-01,Earwear,Others,417909.0
+2024-01-01,Earwear,Others,414899.0
+2024-02-01,Earwear,Others,694770.0
+2024-03-01,Earwear,Others,411732.0
+2024-04-01,Earwear,Others,485403.0
+2024-05-01,Earwear,Others,686218.0
+2024-06-01,Earwear,Others,454828.0
+2024-07-01,Earwear,Others,574033.0
+2024-08-01,Earwear,Others,783096.0
+2024-09-01,Earwear,Others,802794.0
+2024-10-01,Earwear,Others,1351314.0
+2024-11-01,Earwear,Others,791578.0
+2024-12-01,Earwear,Others,892741.0
+2025-01-01,Earwear,Others,994193.0
+2025-02-01,Earwear,Others,882315.0
+2025-03-01,Earwear,Others,315309.0
+2025-04-01,Earwear,Others,633766.0
+2025-05-01,Earwear,Others,787575.0
+2025-06-01,Earwear,Others,420805.0
+2025-07-01,Earwear,Others,640789.0
+2025-08-01,Earwear,Others,885750.0
+2025-09-01,Earwear,Others,886187.0
+2025-10-01,Earwear,Others,643922.0
+2025-11-01,Earwear,Others,485979.0
+2025-12-01,Earwear,Others,737224.0
+2026-01-01,Earwear,Others,909426.0
+2026-02-01,Earwear,Others,433659.0
+2026-03-01,Earwear,Others,886290.0
+2020-01-01,Earwear,Palred,109102.0
+2020-02-01,Earwear,Palred,12000.0
+2020-03-01,Earwear,Palred,10750.0
+2020-05-01,Earwear,Palred,23408.0
+2020-06-01,Earwear,Palred,123752.0
+2020-07-01,Earwear,Palred,90900.0
+2020-08-01,Earwear,Palred,137755.0
+2020-09-01,Earwear,Palred,154000.0
+2020-10-01,Earwear,Palred,310563.0
+2020-11-01,Earwear,Palred,111410.0
+2020-12-01,Earwear,Palred,157621.0
+2021-01-01,Earwear,Palred,167896.0
+2021-02-01,Earwear,Palred,249875.0
+2021-03-01,Earwear,Palred,45049.0
+2021-04-01,Earwear,Palred,126244.0
+2021-05-01,Earwear,Palred,174945.0
+2021-06-01,Earwear,Palred,169217.0
+2021-07-01,Earwear,Palred,225350.0
+2021-08-01,Earwear,Palred,111598.0
+2021-09-01,Earwear,Palred,359208.0
+2021-10-01,Earwear,Palred,251533.0
+2021-11-01,Earwear,Palred,122395.0
+2021-12-01,Earwear,Palred,129569.0
+2022-01-01,Earwear,Palred,163040.0
+2022-02-01,Earwear,Palred,73415.0
+2022-03-01,Earwear,Palred,83365.0
+2022-04-01,Earwear,Palred,179877.0
+2022-05-01,Earwear,Palred,135993.0
+2022-06-01,Earwear,Palred,143457.0
+2022-07-01,Earwear,Palred,175584.0
+2022-08-01,Earwear,Palred,188746.0
+2022-09-01,Earwear,Palred,288640.0
+2022-10-01,Earwear,Palred,166203.0
+2022-11-01,Earwear,Palred,202451.0
+2022-12-01,Earwear,Palred,235653.0
+2023-01-01,Earwear,Palred,250667.0
+2023-02-01,Earwear,Palred,427385.0
+2023-03-01,Earwear,Palred,246580.0
+2023-04-01,Earwear,Palred,489098.0
+2023-05-01,Earwear,Palred,276512.0
+2023-06-01,Earwear,Palred,169157.0
+2023-07-01,Earwear,Palred,193867.0
+2023-08-01,Earwear,Palred,206657.0
+2023-09-01,Earwear,Palred,204158.0
+2023-10-01,Earwear,Palred,158653.0
+2023-11-01,Earwear,Palred,148055.0
+2023-12-01,Earwear,Palred,74621.0
+2024-01-01,Earwear,Palred,92805.0
+2024-02-01,Earwear,Palred,180239.0
+2024-03-01,Earwear,Palred,7000.0
+2024-04-01,Earwear,Palred,62932.0
+2024-05-01,Earwear,Palred,72682.0
+2024-06-01,Earwear,Palred,46902.0
+2024-07-01,Earwear,Palred,64587.0
+2024-08-01,Earwear,Palred,62821.0
+2024-09-01,Earwear,Palred,151967.0
+2024-10-01,Earwear,Palred,29268.0
+2024-11-01,Earwear,Palred,19470.0
+2024-12-01,Earwear,Palred,69989.0
+2025-01-01,Earwear,Palred,77043.0
+2025-02-01,Earwear,Palred,63239.0
+2025-03-01,Earwear,Palred,28162.0
+2025-04-01,Earwear,Palred,57787.0
+2025-05-01,Earwear,Palred,21208.0
+2025-06-01,Earwear,Palred,45183.0
+2025-07-01,Earwear,Palred,71644.0
+2025-08-01,Earwear,Palred,127833.0
+2025-09-01,Earwear,Palred,135571.0
+2025-10-01,Earwear,Palred,104650.0
+2025-11-01,Earwear,Palred,64048.0
+2025-12-01,Earwear,Palred,90801.0
+2026-01-01,Earwear,Palred,77809.0
+2026-02-01,Earwear,Palred,107776.0
+2026-03-01,Earwear,Palred,116351.0
+2024-03-01,Earwear,Philips,16511.0
+2024-08-01,Earwear,Philips,10119.0
+2024-09-01,Earwear,Philips,2805.0
+2024-10-01,Earwear,Philips,8427.0
+2024-11-01,Earwear,Philips,2112.0
+2025-01-01,Earwear,Philips,2505.0
+2025-04-01,Earwear,Philips,7400.0
+2025-11-01,Earwear,Philips,1002.0
+2025-12-01,Earwear,Philips,21592.0
+2026-01-01,Earwear,Philips,3920.0
+2026-03-01,Earwear,Philips,53184.0
+2024-11-01,Earwear,Plantronics,1988.0
+2024-12-01,Earwear,Plantronics,56.0
+2025-01-01,Earwear,Plantronics,1227.0
+2025-03-01,Earwear,Plantronics,26.0
+2025-08-01,Earwear,Plantronics,79.0
+2025-09-01,Earwear,Plantronics,87.0
+2025-12-01,Earwear,Plantronics,416.0
+2026-01-01,Earwear,Plantronics,265.0
+2026-03-01,Earwear,Plantronics,100.0
+2023-01-01,Earwear,Play,6110.0
+2023-02-01,Earwear,Play,9360.0
+2023-08-01,Earwear,Play,30449.0
+2023-09-01,Earwear,Play,30753.0
+2023-10-01,Earwear,Play,41911.0
+2020-01-01,Earwear,Portronics,11821.0
+2020-02-01,Earwear,Portronics,9600.0
+2020-03-01,Earwear,Portronics,4210.0
+2020-05-01,Earwear,Portronics,16372.0
+2020-06-01,Earwear,Portronics,17687.0
+2020-07-01,Earwear,Portronics,19338.0
+2020-08-01,Earwear,Portronics,24000.0
+2020-09-01,Earwear,Portronics,2012.0
+2020-10-01,Earwear,Portronics,69861.0
+2020-11-01,Earwear,Portronics,44446.0
+2020-12-01,Earwear,Portronics,22070.0
+2021-01-01,Earwear,Portronics,46004.0
+2021-02-01,Earwear,Portronics,9023.0
+2021-03-01,Earwear,Portronics,22477.0
+2021-04-01,Earwear,Portronics,30876.0
+2021-05-01,Earwear,Portronics,18019.0
+2021-06-01,Earwear,Portronics,134959.0
+2021-07-01,Earwear,Portronics,50096.0
+2021-08-01,Earwear,Portronics,27000.0
+2021-09-01,Earwear,Portronics,29657.0
+2021-10-01,Earwear,Portronics,66995.0
+2021-11-01,Earwear,Portronics,22222.0
+2021-12-01,Earwear,Portronics,81514.0
+2022-01-01,Earwear,Portronics,46151.0
+2022-02-01,Earwear,Portronics,51731.0
+2022-03-01,Earwear,Portronics,34059.0
+2022-04-01,Earwear,Portronics,14760.0
+2022-05-01,Earwear,Portronics,5898.0
+2022-07-01,Earwear,Portronics,23074.0
+2022-08-01,Earwear,Portronics,100030.0
+2022-09-01,Earwear,Portronics,21698.0
+2022-10-01,Earwear,Portronics,70268.0
+2022-11-01,Earwear,Portronics,70299.0
+2022-12-01,Earwear,Portronics,108514.0
+2023-01-01,Earwear,Portronics,156996.0
+2023-02-01,Earwear,Portronics,95933.0
+2023-03-01,Earwear,Portronics,111776.0
+2023-04-01,Earwear,Portronics,58268.0
+2023-05-01,Earwear,Portronics,116766.0
+2023-06-01,Earwear,Portronics,118993.0
+2023-07-01,Earwear,Portronics,148985.0
+2023-08-01,Earwear,Portronics,126727.0
+2023-09-01,Earwear,Portronics,112556.0
+2023-10-01,Earwear,Portronics,75659.0
+2023-11-01,Earwear,Portronics,29344.0
+2023-12-01,Earwear,Portronics,95502.0
+2024-01-01,Earwear,Portronics,119165.0
+2024-02-01,Earwear,Portronics,155168.0
+2024-03-01,Earwear,Portronics,147405.0
+2024-04-01,Earwear,Portronics,123806.0
+2024-05-01,Earwear,Portronics,110512.0
+2024-06-01,Earwear,Portronics,140760.0
+2024-07-01,Earwear,Portronics,151550.0
+2024-08-01,Earwear,Portronics,157757.0
+2024-09-01,Earwear,Portronics,140716.0
+2024-10-01,Earwear,Portronics,165408.0
+2024-11-01,Earwear,Portronics,114387.0
+2024-12-01,Earwear,Portronics,147637.0
+2025-01-01,Earwear,Portronics,92430.0
+2025-02-01,Earwear,Portronics,129118.0
+2025-03-01,Earwear,Portronics,125385.0
+2025-04-01,Earwear,Portronics,95530.0
+2025-05-01,Earwear,Portronics,142413.0
+2025-06-01,Earwear,Portronics,123556.0
+2025-07-01,Earwear,Portronics,151647.0
+2025-08-01,Earwear,Portronics,185239.0
+2025-09-01,Earwear,Portronics,182035.0
+2025-10-01,Earwear,Portronics,148472.0
+2025-11-01,Earwear,Portronics,108387.0
+2025-12-01,Earwear,Portronics,152221.0
+2026-01-01,Earwear,Portronics,138673.0
+2026-02-01,Earwear,Portronics,157964.0
+2026-03-01,Earwear,Portronics,151530.0
+2026-01-01,Earwear,QCY,5406.0
+2026-02-01,Earwear,QCY,2410.0
+2026-03-01,Earwear,QCY,288.0
+2024-03-01,Earwear,RD,69686.0
+2020-01-01,Earwear,SRK Powertech,6511.0
+2020-03-01,Earwear,SRK Powertech,1450.0
+2020-05-01,Earwear,SRK Powertech,5082.0
+2020-06-01,Earwear,SRK Powertech,3455.0
+2020-08-01,Earwear,SRK Powertech,12023.0
+2020-09-01,Earwear,SRK Powertech,4021.0
+2020-10-01,Earwear,SRK Powertech,3010.0
+2020-11-01,Earwear,SRK Powertech,12549.0
+2020-12-01,Earwear,SRK Powertech,11465.0
+2021-01-01,Earwear,SRK Powertech,3006.0
+2021-02-01,Earwear,SRK Powertech,4000.0
+2021-04-01,Earwear,SRK Powertech,10000.0
+2021-06-01,Earwear,SRK Powertech,998.0
+2021-08-01,Earwear,SRK Powertech,18982.0
+2021-09-01,Earwear,SRK Powertech,12910.0
+2021-10-01,Earwear,SRK Powertech,31064.0
+2021-11-01,Earwear,SRK Powertech,26582.0
+2021-12-01,Earwear,SRK Powertech,22337.0
+2022-01-01,Earwear,SRK Powertech,990.0
+2022-02-01,Earwear,SRK Powertech,30440.0
+2022-03-01,Earwear,SRK Powertech,47084.0
+2022-04-01,Earwear,SRK Powertech,30353.0
+2022-05-01,Earwear,SRK Powertech,38055.0
+2022-06-01,Earwear,SRK Powertech,61005.0
+2022-07-01,Earwear,SRK Powertech,32867.0
+2022-08-01,Earwear,SRK Powertech,49217.0
+2022-09-01,Earwear,SRK Powertech,74501.0
+2022-10-01,Earwear,SRK Powertech,43860.0
+2022-11-01,Earwear,SRK Powertech,32354.0
+2022-12-01,Earwear,SRK Powertech,56833.0
+2023-01-01,Earwear,SRK Powertech,46827.0
+2023-02-01,Earwear,SRK Powertech,32015.0
+2023-03-01,Earwear,SRK Powertech,44035.0
+2023-04-01,Earwear,SRK Powertech,40435.0
+2023-05-01,Earwear,SRK Powertech,50732.0
+2023-06-01,Earwear,SRK Powertech,54513.0
+2023-07-01,Earwear,SRK Powertech,2373.0
+2023-08-01,Earwear,SRK Powertech,30250.0
+2023-09-01,Earwear,SRK Powertech,29904.0
+2023-10-01,Earwear,SRK Powertech,29840.0
+2023-11-01,Earwear,SRK Powertech,9362.0
+2023-12-01,Earwear,SRK Powertech,38324.0
+2024-01-01,Earwear,SRK Powertech,29253.0
+2024-02-01,Earwear,SRK Powertech,15571.0
+2024-03-01,Earwear,SRK Powertech,6205.0
+2024-04-01,Earwear,SRK Powertech,60038.0
+2024-05-01,Earwear,SRK Powertech,25591.0
+2024-06-01,Earwear,SRK Powertech,58716.0
+2024-07-01,Earwear,SRK Powertech,55043.0
+2024-08-01,Earwear,SRK Powertech,55457.0
+2024-09-01,Earwear,SRK Powertech,44864.0
+2024-10-01,Earwear,SRK Powertech,40987.0
+2024-11-01,Earwear,SRK Powertech,13402.0
+2024-12-01,Earwear,SRK Powertech,18278.0
+2025-01-01,Earwear,SRK Powertech,19029.0
+2025-02-01,Earwear,SRK Powertech,18317.0
+2025-03-01,Earwear,SRK Powertech,10854.0
+2025-04-01,Earwear,SRK Powertech,19692.0
+2025-05-01,Earwear,SRK Powertech,17813.0
+2025-06-01,Earwear,SRK Powertech,67679.0
+2025-07-01,Earwear,SRK Powertech,32295.0
+2025-08-01,Earwear,SRK Powertech,36615.0
+2025-09-01,Earwear,SRK Powertech,38466.0
+2025-10-01,Earwear,SRK Powertech,41000.0
+2025-11-01,Earwear,SRK Powertech,39734.0
+2025-12-01,Earwear,SRK Powertech,39200.0
+2026-01-01,Earwear,SRK Powertech,40440.0
+2026-02-01,Earwear,SRK Powertech,40600.0
+2026-03-01,Earwear,SRK Powertech,39300.0
+2020-01-01,Earwear,Samsung,194286.0
+2020-02-01,Earwear,Samsung,344797.0
+2020-03-01,Earwear,Samsung,157767.0
+2020-05-01,Earwear,Samsung,536693.0
+2020-06-01,Earwear,Samsung,781615.0
+2020-07-01,Earwear,Samsung,432875.0
+2020-08-01,Earwear,Samsung,580331.0
+2020-09-01,Earwear,Samsung,493894.0
+2020-10-01,Earwear,Samsung,526396.0
+2020-11-01,Earwear,Samsung,117122.0
+2020-12-01,Earwear,Samsung,245929.0
+2021-01-01,Earwear,Samsung,377945.0
+2021-02-01,Earwear,Samsung,350215.0
+2021-03-01,Earwear,Samsung,397526.0
+2021-04-01,Earwear,Samsung,239097.0
+2021-05-01,Earwear,Samsung,290316.0
+2021-06-01,Earwear,Samsung,200799.0
+2021-07-01,Earwear,Samsung,257441.0
+2021-08-01,Earwear,Samsung,368426.0
+2021-09-01,Earwear,Samsung,374994.0
+2021-10-01,Earwear,Samsung,367659.0
+2021-11-01,Earwear,Samsung,212634.0
+2021-12-01,Earwear,Samsung,170718.0
+2022-01-01,Earwear,Samsung,132063.0
+2022-02-01,Earwear,Samsung,177950.0
+2022-03-01,Earwear,Samsung,138982.0
+2022-04-01,Earwear,Samsung,125642.0
+2022-05-01,Earwear,Samsung,147036.0
+2022-06-01,Earwear,Samsung,167735.0
+2022-07-01,Earwear,Samsung,267561.0
+2022-08-01,Earwear,Samsung,333718.0
+2022-09-01,Earwear,Samsung,367243.0
+2022-10-01,Earwear,Samsung,208383.0
+2022-11-01,Earwear,Samsung,104175.0
+2022-12-01,Earwear,Samsung,107598.0
+2023-01-01,Earwear,Samsung,158303.0
+2023-02-01,Earwear,Samsung,116702.0
+2023-03-01,Earwear,Samsung,167085.0
+2023-04-01,Earwear,Samsung,143936.0
+2023-05-01,Earwear,Samsung,206007.0
+2023-06-01,Earwear,Samsung,252498.0
+2023-07-01,Earwear,Samsung,300268.0
+2023-08-01,Earwear,Samsung,411776.0
+2023-09-01,Earwear,Samsung,361952.0
+2023-10-01,Earwear,Samsung,129299.0
+2023-11-01,Earwear,Samsung,145931.0
+2023-12-01,Earwear,Samsung,89856.0
+2024-01-01,Earwear,Samsung,52114.0
+2024-02-01,Earwear,Samsung,96891.0
+2024-03-01,Earwear,Samsung,74120.0
+2024-04-01,Earwear,Samsung,117549.0
+2024-05-01,Earwear,Samsung,142419.0
+2024-06-01,Earwear,Samsung,192513.0
+2024-07-01,Earwear,Samsung,222449.0
+2024-08-01,Earwear,Samsung,229506.0
+2024-09-01,Earwear,Samsung,357348.0
+2024-10-01,Earwear,Samsung,95508.0
+2024-11-01,Earwear,Samsung,41544.0
+2024-12-01,Earwear,Samsung,85358.0
+2025-01-01,Earwear,Samsung,180752.0
+2025-02-01,Earwear,Samsung,102876.0
+2025-03-01,Earwear,Samsung,157689.0
+2025-04-01,Earwear,Samsung,210746.0
+2025-05-01,Earwear,Samsung,264928.0
+2025-06-01,Earwear,Samsung,126972.0
+2025-07-01,Earwear,Samsung,208355.0
+2025-08-01,Earwear,Samsung,476314.0
+2025-09-01,Earwear,Samsung,442176.0
+2025-10-01,Earwear,Samsung,69947.0
+2025-11-01,Earwear,Samsung,59233.0
+2025-12-01,Earwear,Samsung,228934.0
+2026-01-01,Earwear,Samsung,62926.0
+2026-02-01,Earwear,Samsung,67020.0
+2026-03-01,Earwear,Samsung,79286.0
+2020-01-01,Earwear,Sennheiser,6565.0
+2020-02-01,Earwear,Sennheiser,5830.0
+2020-03-01,Earwear,Sennheiser,1711.0
+2020-05-01,Earwear,Sennheiser,3524.0
+2020-06-01,Earwear,Sennheiser,3110.0
+2020-07-01,Earwear,Sennheiser,4300.0
+2020-08-01,Earwear,Sennheiser,2550.0
+2020-09-01,Earwear,Sennheiser,6749.0
+2020-10-01,Earwear,Sennheiser,5890.0
+2020-11-01,Earwear,Sennheiser,2510.0
+2021-12-01,Earwear,Sennheiser,1345.0
+2022-01-01,Earwear,Sennheiser,2219.0
+2022-04-01,Earwear,Sennheiser,3553.0
+2022-05-01,Earwear,Sennheiser,3334.0
+2022-06-01,Earwear,Sennheiser,5376.0
+2022-07-01,Earwear,Sennheiser,10766.0
+2022-08-01,Earwear,Sennheiser,6040.0
+2022-09-01,Earwear,Sennheiser,2881.0
+2022-10-01,Earwear,Sennheiser,2389.0
+2022-11-01,Earwear,Sennheiser,969.0
+2022-12-01,Earwear,Sennheiser,2742.0
+2023-01-01,Earwear,Sennheiser,2996.0
+2023-02-01,Earwear,Sennheiser,1901.0
+2023-03-01,Earwear,Sennheiser,1444.0
+2023-04-01,Earwear,Sennheiser,3460.0
+2023-05-01,Earwear,Sennheiser,1192.0
+2023-06-01,Earwear,Sennheiser,4697.0
+2023-07-01,Earwear,Sennheiser,370.0
+2023-08-01,Earwear,Sennheiser,1559.0
+2023-09-01,Earwear,Sennheiser,3067.0
+2023-10-01,Earwear,Sennheiser,2941.0
+2023-11-01,Earwear,Sennheiser,1680.0
+2023-12-01,Earwear,Sennheiser,1271.0
+2024-01-01,Earwear,Sennheiser,1050.0
+2024-02-01,Earwear,Sennheiser,1601.0
+2024-03-01,Earwear,Sennheiser,3701.0
+2024-04-01,Earwear,Sennheiser,829.0
+2024-05-01,Earwear,Sennheiser,1769.0
+2024-06-01,Earwear,Sennheiser,6867.0
+2024-07-01,Earwear,Sennheiser,4959.0
+2024-08-01,Earwear,Sennheiser,6516.0
+2024-09-01,Earwear,Sennheiser,1251.0
+2024-10-01,Earwear,Sennheiser,1080.0
+2024-11-01,Earwear,Sennheiser,1197.0
+2024-12-01,Earwear,Sennheiser,478.0
+2025-01-01,Earwear,Sennheiser,792.0
+2025-02-01,Earwear,Sennheiser,702.0
+2025-03-01,Earwear,Sennheiser,4193.0
+2025-04-01,Earwear,Sennheiser,530.0
+2025-05-01,Earwear,Sennheiser,7371.0
+2025-06-01,Earwear,Sennheiser,4572.0
+2025-07-01,Earwear,Sennheiser,10438.0
+2025-08-01,Earwear,Sennheiser,5367.0
+2025-09-01,Earwear,Sennheiser,8892.0
+2025-10-01,Earwear,Sennheiser,2416.0
+2025-11-01,Earwear,Sennheiser,331.0
+2025-12-01,Earwear,Sennheiser,5298.0
+2026-01-01,Earwear,Sennheiser,2310.0
+2026-02-01,Earwear,Sennheiser,1085.0
+2026-03-01,Earwear,Sennheiser,8210.0
+2023-10-01,Earwear,Shkod,84870.0
+2023-11-01,Earwear,Shkod,29970.0
+2023-12-01,Earwear,Shkod,112140.0
+2024-01-01,Earwear,Shkod,133980.0
+2024-02-01,Earwear,Shkod,30540.0
+2024-03-01,Earwear,Shkod,51820.0
+2024-04-01,Earwear,Shkod,66420.0
+2024-05-01,Earwear,Shkod,20370.0
+2024-06-01,Earwear,Shkod,45990.0
+2024-07-01,Earwear,Shkod,99375.0
+2024-08-01,Earwear,Shkod,103740.0
+2024-09-01,Earwear,Shkod,85100.0
+2024-10-01,Earwear,Shkod,34230.0
+2024-11-01,Earwear,Shkod,54623.0
+2024-12-01,Earwear,Shkod,79178.0
+2025-01-01,Earwear,Shkod,40385.0
+2025-02-01,Earwear,Shkod,45133.0
+2025-03-01,Earwear,Shkod,52063.0
+2025-04-01,Earwear,Shkod,17101.0
+2025-06-01,Earwear,Shkod,21897.0
+2025-07-01,Earwear,Shkod,8715.0
+2025-09-01,Earwear,Shkod,8554.0
+2024-08-01,Earwear,Shokz,3188.0
+2024-10-01,Earwear,Shokz,504.0
+2024-12-01,Earwear,Shokz,216.0
+2025-01-01,Earwear,Shokz,624.0
+2025-02-01,Earwear,Shokz,504.0
+2025-03-01,Earwear,Shokz,792.0
+2025-04-01,Earwear,Shokz,1128.0
+2025-05-01,Earwear,Shokz,360.0
+2025-06-01,Earwear,Shokz,1224.0
+2025-07-01,Earwear,Shokz,2256.0
+2025-08-01,Earwear,Shokz,4344.0
+2025-09-01,Earwear,Shokz,3576.0
+2025-10-01,Earwear,Shokz,504.0
+2025-11-01,Earwear,Shokz,408.0
+2025-12-01,Earwear,Shokz,1176.0
+2026-01-01,Earwear,Shokz,3592.0
+2026-02-01,Earwear,Shokz,456.0
+2026-03-01,Earwear,Shokz,1617.0
+2024-09-01,Earwear,Sonos,800.0
+2024-10-01,Earwear,Sonos,512.0
+2024-12-01,Earwear,Sonos,256.0
+2025-01-01,Earwear,Sonos,512.0
+2026-02-01,Earwear,Sonos,356.0
+2020-01-01,Earwear,Sony,118557.0
+2020-02-01,Earwear,Sony,62174.0
+2020-03-01,Earwear,Sony,79943.0
+2020-05-01,Earwear,Sony,93626.0
+2020-06-01,Earwear,Sony,69972.0
+2020-07-01,Earwear,Sony,62148.0
+2020-08-01,Earwear,Sony,194572.0
+2020-09-01,Earwear,Sony,210448.0
+2020-10-01,Earwear,Sony,186986.0
+2020-11-01,Earwear,Sony,114950.0
+2020-12-01,Earwear,Sony,46793.0
+2021-01-01,Earwear,Sony,57987.0
+2021-02-01,Earwear,Sony,10368.0
+2021-03-01,Earwear,Sony,178401.0
+2021-04-01,Earwear,Sony,13782.0
+2021-05-01,Earwear,Sony,8888.0
+2021-06-01,Earwear,Sony,13573.000000000002
+2021-07-01,Earwear,Sony,8790.0
+2021-08-01,Earwear,Sony,27238.0
+2021-09-01,Earwear,Sony,107577.0
+2021-10-01,Earwear,Sony,80172.0
+2021-11-01,Earwear,Sony,11022.0
+2021-12-01,Earwear,Sony,59443.0
+2022-01-01,Earwear,Sony,64533.0
+2022-02-01,Earwear,Sony,61258.0
+2022-03-01,Earwear,Sony,54997.0
+2022-04-01,Earwear,Sony,17734.0
+2022-05-01,Earwear,Sony,15991.0
+2022-06-01,Earwear,Sony,56149.0
+2022-07-01,Earwear,Sony,70317.0
+2022-08-01,Earwear,Sony,71830.0
+2022-09-01,Earwear,Sony,108963.0
+2022-10-01,Earwear,Sony,64118.0
+2022-11-01,Earwear,Sony,25668.0
+2022-12-01,Earwear,Sony,45568.0
+2023-01-01,Earwear,Sony,14175.0
+2023-02-01,Earwear,Sony,38574.0
+2023-03-01,Earwear,Sony,37937.0
+2023-04-01,Earwear,Sony,49243.0
+2023-05-01,Earwear,Sony,46921.0
+2023-06-01,Earwear,Sony,55727.0
+2023-07-01,Earwear,Sony,83806.0
+2023-08-01,Earwear,Sony,79301.0
+2023-09-01,Earwear,Sony,88465.0
+2023-10-01,Earwear,Sony,33491.0
+2023-11-01,Earwear,Sony,41371.0
+2023-12-01,Earwear,Sony,34294.0
+2024-01-01,Earwear,Sony,39394.0
+2024-02-01,Earwear,Sony,14611.0
+2024-03-01,Earwear,Sony,24835.0
+2024-04-01,Earwear,Sony,23331.0
+2024-05-01,Earwear,Sony,62366.0
+2024-06-01,Earwear,Sony,21065.0
+2024-07-01,Earwear,Sony,39649.0
+2024-08-01,Earwear,Sony,61375.0
+2024-09-01,Earwear,Sony,101520.0
+2024-10-01,Earwear,Sony,56620.0
+2024-11-01,Earwear,Sony,26049.0
+2024-12-01,Earwear,Sony,41318.0
+2025-01-01,Earwear,Sony,11928.0
+2025-02-01,Earwear,Sony,25394.0
+2025-03-01,Earwear,Sony,40870.0
+2025-04-01,Earwear,Sony,35714.0
+2025-05-01,Earwear,Sony,36324.0
+2025-06-01,Earwear,Sony,44626.0
+2025-07-01,Earwear,Sony,64724.0
+2025-08-01,Earwear,Sony,109378.0
+2025-09-01,Earwear,Sony,97289.0
+2025-10-01,Earwear,Sony,27915.0
+2025-11-01,Earwear,Sony,18064.0
+2025-12-01,Earwear,Sony,31002.0
+2026-01-01,Earwear,Sony,19712.0
+2026-02-01,Earwear,Sony,26482.0
+2026-03-01,Earwear,Sony,37938.0
+2020-01-01,Earwear,Soundlogic,6000.0
+2020-06-01,Earwear,Soundlogic,21004.0
+2020-07-01,Earwear,Soundlogic,5004.0
+2024-06-01,Earwear,Suunto,10.0
+2024-08-01,Earwear,Suunto,10.0
+2024-10-01,Earwear,Suunto,3.0
+2025-01-01,Earwear,Suunto,12.0
+2025-02-01,Earwear,Suunto,2.0
+2025-03-01,Earwear,Suunto,2.0
+2025-04-01,Earwear,Suunto,10.0
+2026-02-01,Earwear,Suunto,7.0
+2026-03-01,Earwear,Suunto,3.0
+2020-02-01,Earwear,Syska,1022.0
+2020-05-01,Earwear,Syska,3454.0
+2020-06-01,Earwear,Syska,3034.0
+2020-08-01,Earwear,Syska,3078.0
+2020-09-01,Earwear,Syska,1012.0
+2020-10-01,Earwear,Syska,5432.0
+2020-11-01,Earwear,Syska,44656.0
+2020-12-01,Earwear,Syska,26766.0
+2021-01-01,Earwear,Syska,10346.0
+2021-02-01,Earwear,Syska,10375.0
+2021-03-01,Earwear,Syska,34523.0
+2021-04-01,Earwear,Syska,1033.0
+2021-05-01,Earwear,Syska,40795.0
+2021-06-01,Earwear,Syska,83632.0
+2021-07-01,Earwear,Syska,14720.0
+2021-09-01,Earwear,Syska,2327.0
+2021-10-01,Earwear,Syska,36543.0
+2021-11-01,Earwear,Syska,12400.0
+2022-01-01,Earwear,Syska,13412.0
+2022-05-01,Earwear,Syska,30186.0
+2022-08-01,Earwear,Syska,3000.0
+2022-10-01,Earwear,Syska,66188.0
+2022-11-01,Earwear,Syska,8668.0
+2022-12-01,Earwear,Syska,12632.0
+2023-01-01,Earwear,Syska,1861.0
+2023-02-01,Earwear,Syska,2341.0
+2023-03-01,Earwear,Syska,2153.0
+2023-04-01,Earwear,Syska,5891.0
+2024-01-01,Earwear,Syska,1874.0
+2021-03-01,Earwear,Titan,1056.0
+2021-04-01,Earwear,Titan,499.0
+2021-05-01,Earwear,Titan,476.0
+2021-06-01,Earwear,Titan,2444.0
+2021-07-01,Earwear,Titan,2133.0
+2021-08-01,Earwear,Titan,6502.0
+2021-09-01,Earwear,Titan,5263.0
+2021-10-01,Earwear,Titan,5100.0
+2021-11-01,Earwear,Titan,2432.0
+2021-12-01,Earwear,Titan,1907.0
+2022-01-01,Earwear,Titan,4658.0
+2022-02-01,Earwear,Titan,3307.0
+2022-03-01,Earwear,Titan,2602.0
+2022-04-01,Earwear,Titan,1494.0
+2022-05-01,Earwear,Titan,1525.0
+2022-06-01,Earwear,Titan,1045.0
+2022-07-01,Earwear,Titan,1665.0
+2022-08-01,Earwear,Titan,687.0
+2022-09-01,Earwear,Titan,484.0
+2022-12-01,Earwear,Titan,135.0
+2023-01-01,Earwear,Titan,99.0
+2023-06-01,Earwear,Titan,60871.0
+2023-07-01,Earwear,Titan,27998.0
+2023-08-01,Earwear,Titan,33991.0
+2023-09-01,Earwear,Titan,25197.0
+2023-10-01,Earwear,Titan,25791.0
+2023-11-01,Earwear,Titan,27000.0
+2024-02-01,Earwear,Titan,8956.0
+2024-03-01,Earwear,Titan,60066.0
+2024-04-01,Earwear,Titan,35372.0
+2024-05-01,Earwear,Titan,3998.0
+2024-06-01,Earwear,Titan,3156.0
+2024-07-01,Earwear,Titan,28286.0
+2024-08-01,Earwear,Titan,24233.0
+2024-09-01,Earwear,Titan,59335.0
+2024-10-01,Earwear,Titan,152.0
+2024-11-01,Earwear,Titan,1056.0
+2025-03-01,Earwear,Titan,116592.0
+2025-04-01,Earwear,Titan,4848.0
+2025-05-01,Earwear,Titan,3966.0
+2025-06-01,Earwear,Titan,1179.0
+2025-10-01,Earwear,Titan,68643.0
+2020-07-01,Earwear,Transsion,30280.0
+2020-08-01,Earwear,Transsion,32022.0
+2020-09-01,Earwear,Transsion,13498.0
+2020-10-01,Earwear,Transsion,13584.0
+2020-11-01,Earwear,Transsion,1980.0
+2021-02-01,Earwear,Transsion,20322.0
+2021-03-01,Earwear,Transsion,22904.0
+2021-08-01,Earwear,Transsion,10009.999999999998
+2021-09-01,Earwear,Transsion,74491.0
+2021-10-01,Earwear,Transsion,62047.0
+2021-11-01,Earwear,Transsion,26206.0
+2021-12-01,Earwear,Transsion,75391.0
+2022-01-01,Earwear,Transsion,60055.0
+2022-02-01,Earwear,Transsion,11777.0
+2022-03-01,Earwear,Transsion,36937.0
+2022-04-01,Earwear,Transsion,120795.0
+2022-05-01,Earwear,Transsion,83431.0
+2022-06-01,Earwear,Transsion,124283.0
+2022-07-01,Earwear,Transsion,150949.0
+2022-08-01,Earwear,Transsion,153165.0
+2022-09-01,Earwear,Transsion,139531.0
+2022-10-01,Earwear,Transsion,53521.0
+2022-11-01,Earwear,Transsion,26892.0
+2022-12-01,Earwear,Transsion,98925.0
+2023-01-01,Earwear,Transsion,102260.0
+2023-02-01,Earwear,Transsion,83351.0
+2023-03-01,Earwear,Transsion,73100.0
+2023-04-01,Earwear,Transsion,66455.0
+2023-05-01,Earwear,Transsion,11458.0
+2023-06-01,Earwear,Transsion,125080.0
+2023-07-01,Earwear,Transsion,76624.0
+2023-08-01,Earwear,Transsion,43452.0
+2023-09-01,Earwear,Transsion,227085.0
+2023-10-01,Earwear,Transsion,108864.0
+2023-11-01,Earwear,Transsion,53038.0
+2023-12-01,Earwear,Transsion,69915.0
+2024-01-01,Earwear,Transsion,31029.0
+2024-02-01,Earwear,Transsion,50639.0
+2024-03-01,Earwear,Transsion,28300.0
+2024-04-01,Earwear,Transsion,31054.0
+2024-05-01,Earwear,Transsion,40390.0
+2024-06-01,Earwear,Transsion,110872.0
+2024-07-01,Earwear,Transsion,29010.0
+2024-08-01,Earwear,Transsion,59550.0
+2024-09-01,Earwear,Transsion,167223.0
+2024-10-01,Earwear,Transsion,54707.0
+2024-11-01,Earwear,Transsion,31230.0
+2024-12-01,Earwear,Transsion,160006.0
+2025-01-01,Earwear,Transsion,90154.0
+2025-02-01,Earwear,Transsion,66372.0
+2025-03-01,Earwear,Transsion,21253.0
+2025-04-01,Earwear,Transsion,7271.0
+2025-05-01,Earwear,Transsion,3895.0
+2025-06-01,Earwear,Transsion,172215.0
+2025-07-01,Earwear,Transsion,25595.0
+2025-08-01,Earwear,Transsion,39500.0
+2025-09-01,Earwear,Transsion,71121.0
+2025-10-01,Earwear,Transsion,17158.0
+2025-11-01,Earwear,Transsion,25246.0
+2025-12-01,Earwear,Transsion,82246.0
+2026-01-01,Earwear,Transsion,12903.0
+2026-02-01,Earwear,Transsion,10833.0
+2026-03-01,Earwear,Transsion,85454.0
+2023-08-01,Earwear,Ubon,162906.0
+2023-09-01,Earwear,Ubon,23020.0
+2023-10-01,Earwear,Ubon,20000.0
+2023-12-01,Earwear,Ubon,10000.0
+2024-01-01,Earwear,Ubon,113140.0
+2024-02-01,Earwear,Ubon,60480.0
+2024-03-01,Earwear,Ubon,15000.0
+2024-04-01,Earwear,Ubon,108900.0
+2024-05-01,Earwear,Ubon,86319.0
+2024-06-01,Earwear,Ubon,34348.0
+2024-07-01,Earwear,Ubon,102676.0
+2024-08-01,Earwear,Ubon,213236.0
+2024-09-01,Earwear,Ubon,26181.0
+2024-10-01,Earwear,Ubon,91392.0
+2024-11-01,Earwear,Ubon,66000.0
+2024-12-01,Earwear,Ubon,88000.0
+2025-01-01,Earwear,Ubon,59844.0
+2025-03-01,Earwear,Ubon,56403.0
+2025-04-01,Earwear,Ubon,85826.0
+2025-05-01,Earwear,Ubon,151650.0
+2025-06-01,Earwear,Ubon,101970.0
+2025-07-01,Earwear,Ubon,3000.0
+2025-08-01,Earwear,Ubon,25901.0
+2025-09-01,Earwear,Ubon,19956.0
+2025-10-01,Earwear,Ubon,18198.0
+2025-11-01,Earwear,Ubon,57415.0
+2025-12-01,Earwear,Ubon,58347.0
+2026-01-01,Earwear,Ubon,148811.0
+2026-02-01,Earwear,Ubon,44880.0
+2026-03-01,Earwear,Ubon,55330.0
+2020-01-01,Earwear,WeCool,500.0
+2020-02-01,Earwear,WeCool,200.0
+2020-05-01,Earwear,WeCool,300.0
+2020-06-01,Earwear,WeCool,1859.0
+2020-07-01,Earwear,WeCool,5239.0
+2020-08-01,Earwear,WeCool,14032.0
+2020-09-01,Earwear,WeCool,8901.0
+2020-10-01,Earwear,WeCool,19021.0
+2020-11-01,Earwear,WeCool,37626.0
+2020-12-01,Earwear,WeCool,69261.0
+2021-01-01,Earwear,WeCool,46710.0
+2021-02-01,Earwear,WeCool,27342.0
+2021-03-01,Earwear,WeCool,18133.0
+2021-04-01,Earwear,WeCool,25845.0
+2021-05-01,Earwear,WeCool,38579.0
+2021-06-01,Earwear,WeCool,41478.0
+2021-07-01,Earwear,WeCool,44293.0
+2021-08-01,Earwear,WeCool,41088.0
+2021-09-01,Earwear,WeCool,35128.0
+2021-10-01,Earwear,WeCool,50881.0
+2021-11-01,Earwear,WeCool,15510.0
+2021-12-01,Earwear,WeCool,36304.0
+2022-01-01,Earwear,WeCool,54785.0
+2022-02-01,Earwear,WeCool,31431.0
+2022-03-01,Earwear,WeCool,6938.0
+2022-04-01,Earwear,WeCool,19624.0
+2022-05-01,Earwear,WeCool,11697.0
+2022-06-01,Earwear,WeCool,5006.0
+2022-07-01,Earwear,WeCool,7982.0
+2022-09-01,Earwear,WeCool,55349.0
+2022-10-01,Earwear,WeCool,34468.0
+2022-11-01,Earwear,WeCool,26330.0
+2022-12-01,Earwear,WeCool,2822.0
+2023-01-01,Earwear,WeCool,2032.0
+2023-02-01,Earwear,WeCool,2709.0
+2023-04-01,Earwear,WeCool,3266.0
+2023-06-01,Earwear,WeCool,2400.0
+2023-09-01,Earwear,WeCool,400.0
+2023-10-01,Earwear,WeCool,300.0
+2024-03-01,Earwear,WeCool,700.0
+2024-04-01,Earwear,WeCool,1472.0
+2024-05-01,Earwear,WeCool,1500.0
+2024-06-01,Earwear,WeCool,2700.0
+2024-09-01,Earwear,WeCool,1300.0
+2024-10-01,Earwear,WeCool,700.0
+2024-12-01,Earwear,WeCool,2002.0
+2025-02-01,Earwear,WeCool,600.0
+2025-03-01,Earwear,WeCool,1000.0
+2025-04-01,Earwear,WeCool,800.0
+2025-05-01,Earwear,WeCool,1400.0
+2025-06-01,Earwear,WeCool,1503.0
+2025-07-01,Earwear,WeCool,4600.0
+2025-08-01,Earwear,WeCool,420.0
+2025-09-01,Earwear,WeCool,2343.0
+2025-10-01,Earwear,WeCool,1000.0
+2025-11-01,Earwear,WeCool,1300.0
+2025-12-01,Earwear,WeCool,100.0
+2026-01-01,Earwear,WeCool,2200.0
+2026-02-01,Earwear,WeCool,900.0
+2026-03-01,Earwear,WeCool,1299.0
+2020-01-01,Earwear,Xiaomi,94403.0
+2020-02-01,Earwear,Xiaomi,71982.0
+2020-03-01,Earwear,Xiaomi,63751.0
+2020-05-01,Earwear,Xiaomi,157568.0
+2020-06-01,Earwear,Xiaomi,289570.0
+2020-07-01,Earwear,Xiaomi,52796.0
+2020-08-01,Earwear,Xiaomi,53682.0
+2020-09-01,Earwear,Xiaomi,106651.0
+2020-10-01,Earwear,Xiaomi,520521.0
+2020-11-01,Earwear,Xiaomi,152419.0
+2020-12-01,Earwear,Xiaomi,85496.0
+2021-01-01,Earwear,Xiaomi,95037.0
+2021-02-01,Earwear,Xiaomi,110318.0
+2021-03-01,Earwear,Xiaomi,108965.0
+2021-04-01,Earwear,Xiaomi,65319.0
+2021-05-01,Earwear,Xiaomi,58154.0
+2021-06-01,Earwear,Xiaomi,182530.0
+2021-07-01,Earwear,Xiaomi,153223.0
+2021-08-01,Earwear,Xiaomi,179297.0
+2021-09-01,Earwear,Xiaomi,268877.0
+2021-10-01,Earwear,Xiaomi,279161.0
+2021-11-01,Earwear,Xiaomi,85438.0
+2021-12-01,Earwear,Xiaomi,91254.0
+2022-01-01,Earwear,Xiaomi,140783.0
+2022-02-01,Earwear,Xiaomi,133472.0
+2022-03-01,Earwear,Xiaomi,10797.0
+2022-04-01,Earwear,Xiaomi,86624.0
+2022-05-01,Earwear,Xiaomi,55671.0
+2022-06-01,Earwear,Xiaomi,64091.0
+2022-07-01,Earwear,Xiaomi,74576.0
+2022-08-01,Earwear,Xiaomi,47207.0
+2022-09-01,Earwear,Xiaomi,92089.0
+2022-10-01,Earwear,Xiaomi,91505.0
+2022-11-01,Earwear,Xiaomi,20053.0
+2022-12-01,Earwear,Xiaomi,14551.0
+2023-01-01,Earwear,Xiaomi,26063.0
+2023-02-01,Earwear,Xiaomi,32311.0
+2023-03-01,Earwear,Xiaomi,42982.0
+2023-04-01,Earwear,Xiaomi,13984.0
+2023-05-01,Earwear,Xiaomi,10997.0
+2023-06-01,Earwear,Xiaomi,107481.0
+2023-07-01,Earwear,Xiaomi,69877.0
+2023-08-01,Earwear,Xiaomi,106584.0
+2023-09-01,Earwear,Xiaomi,81067.0
+2023-10-01,Earwear,Xiaomi,215718.0
+2023-11-01,Earwear,Xiaomi,8656.0
+2023-12-01,Earwear,Xiaomi,77996.0
+2024-01-01,Earwear,Xiaomi,44985.0
+2024-02-01,Earwear,Xiaomi,74898.0
+2024-03-01,Earwear,Xiaomi,39961.0
+2024-04-01,Earwear,Xiaomi,72986.0
+2024-05-01,Earwear,Xiaomi,46386.0
+2024-06-01,Earwear,Xiaomi,71750.0
+2024-07-01,Earwear,Xiaomi,95756.0
+2024-08-01,Earwear,Xiaomi,94465.0
+2024-09-01,Earwear,Xiaomi,113020.0
+2024-10-01,Earwear,Xiaomi,115664.0
+2024-11-01,Earwear,Xiaomi,14270.0
+2024-12-01,Earwear,Xiaomi,127260.0
+2025-01-01,Earwear,Xiaomi,52998.0
+2025-02-01,Earwear,Xiaomi,69630.0
+2025-03-01,Earwear,Xiaomi,44780.0
+2025-04-01,Earwear,Xiaomi,54380.0
+2025-05-01,Earwear,Xiaomi,62496.0
+2025-06-01,Earwear,Xiaomi,80975.0
+2025-07-01,Earwear,Xiaomi,78921.0
+2025-08-01,Earwear,Xiaomi,77678.0
+2025-09-01,Earwear,Xiaomi,120784.0
+2025-10-01,Earwear,Xiaomi,77818.0
+2025-11-01,Earwear,Xiaomi,22424.0
+2025-12-01,Earwear,Xiaomi,28898.0
+2026-01-01,Earwear,Xiaomi,30469.0
+2026-02-01,Earwear,Xiaomi,22999.0
+2026-03-01,Earwear,Xiaomi,26410.0
+2020-01-01,Earwear,Zebronics,77885.0
+2020-02-01,Earwear,Zebronics,34460.0
+2020-03-01,Earwear,Zebronics,18720.0
+2020-05-01,Earwear,Zebronics,20700.0
+2020-06-01,Earwear,Zebronics,57610.0
+2020-07-01,Earwear,Zebronics,21000.0
+2020-08-01,Earwear,Zebronics,117150.0
+2020-09-01,Earwear,Zebronics,102050.0
+2020-10-01,Earwear,Zebronics,151566.0
+2020-11-01,Earwear,Zebronics,119240.0
+2020-12-01,Earwear,Zebronics,376525.0
+2021-01-01,Earwear,Zebronics,265050.0
+2021-02-01,Earwear,Zebronics,334180.0
+2021-03-01,Earwear,Zebronics,258242.0
+2021-04-01,Earwear,Zebronics,84265.0
+2021-05-01,Earwear,Zebronics,97320.0
+2021-06-01,Earwear,Zebronics,138197.0
+2021-07-01,Earwear,Zebronics,215218.0
+2021-08-01,Earwear,Zebronics,65610.0
+2021-09-01,Earwear,Zebronics,148603.0
+2021-10-01,Earwear,Zebronics,269811.0
+2021-11-01,Earwear,Zebronics,95911.0
+2021-12-01,Earwear,Zebronics,213849.0
+2022-01-01,Earwear,Zebronics,203518.0
+2022-02-01,Earwear,Zebronics,227648.0
+2022-03-01,Earwear,Zebronics,114557.0
+2022-04-01,Earwear,Zebronics,151827.0
+2022-05-01,Earwear,Zebronics,131363.0
+2022-06-01,Earwear,Zebronics,128817.0
+2022-07-01,Earwear,Zebronics,213704.0
+2022-08-01,Earwear,Zebronics,30296.0
+2022-09-01,Earwear,Zebronics,98048.0
+2022-10-01,Earwear,Zebronics,103014.0
+2022-11-01,Earwear,Zebronics,67304.0
+2022-12-01,Earwear,Zebronics,70789.0
+2023-01-01,Earwear,Zebronics,75770.0
+2023-02-01,Earwear,Zebronics,70172.0
+2023-03-01,Earwear,Zebronics,37056.0
+2023-04-01,Earwear,Zebronics,50090.0
+2023-05-01,Earwear,Zebronics,77615.0
+2023-06-01,Earwear,Zebronics,37379.0
+2023-07-01,Earwear,Zebronics,49010.0
+2023-08-01,Earwear,Zebronics,125240.0
+2023-09-01,Earwear,Zebronics,62024.0
+2023-10-01,Earwear,Zebronics,81930.0
+2023-11-01,Earwear,Zebronics,52126.0
+2023-12-01,Earwear,Zebronics,30081.0
+2024-01-01,Earwear,Zebronics,59828.0
+2024-02-01,Earwear,Zebronics,163799.0
+2024-03-01,Earwear,Zebronics,23234.0
+2024-04-01,Earwear,Zebronics,87591.0
+2024-05-01,Earwear,Zebronics,208381.0
+2024-06-01,Earwear,Zebronics,255485.0
+2024-07-01,Earwear,Zebronics,125515.0
+2024-08-01,Earwear,Zebronics,164873.0
+2024-09-01,Earwear,Zebronics,353071.0
+2024-10-01,Earwear,Zebronics,214747.0
+2024-11-01,Earwear,Zebronics,139943.0
+2024-12-01,Earwear,Zebronics,79991.0
+2025-01-01,Earwear,Zebronics,54502.0
+2025-02-01,Earwear,Zebronics,135112.0
+2025-03-01,Earwear,Zebronics,245356.0
+2025-04-01,Earwear,Zebronics,97303.0
+2025-05-01,Earwear,Zebronics,172569.0
+2025-06-01,Earwear,Zebronics,133969.0
+2025-07-01,Earwear,Zebronics,74228.0
+2025-08-01,Earwear,Zebronics,139260.0
+2025-09-01,Earwear,Zebronics,110597.0
+2025-10-01,Earwear,Zebronics,130736.0
+2025-11-01,Earwear,Zebronics,105175.0
+2025-12-01,Earwear,Zebronics,144483.0
+2026-01-01,Earwear,Zebronics,78659.0
+2026-02-01,Earwear,Zebronics,81850.0
+2026-03-01,Earwear,Zebronics,127893.0
+2020-07-01,Earwear,Zepp,3510.0
+2020-07-01,Earwear,vivo,22710.0
+2020-08-01,Earwear,vivo,7902.0
+2021-12-01,Earwear,vivo,20101.0
+2022-01-01,Earwear,vivo,12323.0
+2022-02-01,Earwear,vivo,9899.0
+2022-03-01,Earwear,vivo,15043.0
+2022-04-01,Earwear,vivo,20543.0
+2022-05-01,Earwear,vivo,13976.0
+2022-06-01,Earwear,vivo,6774.0
+2022-09-01,Earwear,vivo,2998.0
+2022-10-01,Earwear,vivo,7777.0
+2022-11-01,Earwear,vivo,1748.0
+2022-12-01,Earwear,vivo,3222.0
+2023-01-01,Earwear,vivo,555.0
+2023-02-01,Earwear,vivo,17726.0
+2023-03-01,Earwear,vivo,13774.0
+2023-05-01,Earwear,vivo,1615.0
+2023-06-01,Earwear,vivo,411.0
+2024-08-01,Earwear,vivo,28955.0
+2024-09-01,Earwear,vivo,58417.0
+2024-10-01,Earwear,vivo,10700.0
+2024-11-01,Earwear,vivo,300.0
+2024-12-01,Earwear,vivo,500.0
+2025-04-01,Earwear,vivo,3876.0
+2025-07-01,Earwear,vivo,5434.0
+2025-08-01,Earwear,vivo,24843.0
+2025-09-01,Earwear,vivo,20.0
+2025-10-01,Earwear,vivo,3000.0
+2020-01-01,Glasses,Bose,90.0
+2020-10-01,Glasses,Bose,1255.0
+2020-11-01,Glasses,Bose,105.0
+2020-12-01,Glasses,Bose,366.0
+2021-05-01,Glasses,Bose,143.0
+2021-06-01,Glasses,Bose,263.0
+2021-09-01,Glasses,Bose,96.0
+2021-10-01,Glasses,Bose,309.0
+2021-11-01,Glasses,Bose,25.0
+2021-12-01,Glasses,Bose,107.0
+2022-01-01,Glasses,Bose,110.0
+2022-02-01,Glasses,Bose,96.0
+2022-03-01,Glasses,Bose,144.0
+2022-04-01,Glasses,Bose,190.0
+2022-05-01,Glasses,Bose,88.0
+2022-06-01,Glasses,Bose,97.0
+2022-07-01,Glasses,Bose,10.0
+2022-08-01,Glasses,Bose,24.0
+2022-09-01,Glasses,Bose,75.0
+2022-10-01,Glasses,Bose,15.0
+2022-11-01,Glasses,Bose,72.0
+2023-06-01,Glasses,Bose,18.0
+2023-07-01,Glasses,Bose,10.0
+2025-07-01,Glasses,Fire - Boltt,7500.0
+2025-08-01,Glasses,Fire - Boltt,4815.0
+2025-09-01,Glasses,Fire - Boltt,5755.0
+2025-11-01,Glasses,Fire - Boltt,9998.0
+2025-12-01,Glasses,Fire - Boltt,9984.0
+2026-02-01,Glasses,Fire - Boltt,9996.0
+2026-03-01,Glasses,Fire - Boltt,9810.0
+2025-01-01,Glasses,Lenskart,9997.0
+2025-02-01,Glasses,Lenskart,3.0
+2025-06-01,Glasses,Lenskart,23543.0
+2025-07-01,Glasses,Lenskart,15625.0
+2025-08-01,Glasses,Lenskart,9999.0
+2025-09-01,Glasses,Lenskart,5434.0
+2025-10-01,Glasses,Lenskart,1752.0
+2025-11-01,Glasses,Lenskart,5183.0
+2025-12-01,Glasses,Lenskart,9007.0
+2026-01-01,Glasses,Lenskart,2323.0
+2026-02-01,Glasses,Lenskart,1022.0
+2026-03-01,Glasses,Lenskart,100.0
+2025-05-01,Glasses,Meta,10415.0
+2025-06-01,Glasses,Meta,7677.0
+2025-07-01,Glasses,Meta,7076.0
+2025-08-01,Glasses,Meta,515.0
+2025-09-01,Glasses,Meta,744.0
+2025-10-01,Glasses,Meta,5972.0
+2025-11-01,Glasses,Meta,14259.0
+2025-12-01,Glasses,Meta,16489.0
+2026-01-01,Glasses,Meta,8776.0
+2026-02-01,Glasses,Meta,9023.0
+2026-03-01,Glasses,Meta,11504.0
+2022-06-01,Glasses,Nexxbase,1498.0
+2025-01-01,Glasses,Others,225.0
+2025-02-01,Glasses,Others,175.0
+2025-03-01,Glasses,Others,1099.0
+2025-04-01,Glasses,Others,1102.0
+2025-05-01,Glasses,Others,1012.0
+2025-06-01,Glasses,Others,1542.0
+2025-07-01,Glasses,Others,2121.0
+2025-08-01,Glasses,Others,3809.0
+2025-09-01,Glasses,Others,3752.0
+2025-10-01,Glasses,Others,2465.0
+2025-11-01,Glasses,Others,1435.0
+2025-12-01,Glasses,Others,1983.0
+2026-01-01,Glasses,Others,2323.0
+2026-02-01,Glasses,Others,2109.0
+2026-03-01,Glasses,Others,3098.0
+2025-11-01,Glasses,Palred,1409.0
+2025-12-01,Glasses,Palred,2262.0
+2026-01-01,Glasses,Palred,1540.0
+2026-02-01,Glasses,Palred,1230.0
+2026-03-01,Glasses,Palred,400.0
+2025-02-01,Glasses,Riot Labz,500.0
+2025-03-01,Glasses,Riot Labz,600.0
+2025-04-01,Glasses,Riot Labz,700.0
+2025-05-01,Glasses,Riot Labz,1000.0
+2025-06-01,Glasses,Riot Labz,1212.0
+2025-07-01,Glasses,Riot Labz,900.0
+2025-08-01,Glasses,Riot Labz,1100.0
+2025-09-01,Glasses,Riot Labz,1476.0
+2025-10-01,Glasses,Riot Labz,798.0
+2025-11-01,Glasses,Riot Labz,200.0
+2026-01-01,Glasses,Riot Labz,300.0
+2026-02-01,Glasses,Riot Labz,200.0
+2026-03-01,Glasses,Riot Labz,250.0
+2022-01-01,Glasses,Titan,395.0
+2022-02-01,Glasses,Titan,885.0
+2022-03-01,Glasses,Titan,454.0
+2022-04-01,Glasses,Titan,56.0
+2022-05-01,Glasses,Titan,34.0
+2022-06-01,Glasses,Titan,45.0
+2022-08-01,Glasses,Titan,598.0
+2022-09-01,Glasses,Titan,447.0
+2022-10-01,Glasses,Titan,110.0
+2023-01-01,Glasses,Titan,50.0
+2023-02-01,Glasses,Titan,49.0
+2023-03-01,Glasses,Titan,49.0
+2023-04-01,Glasses,Titan,50.0
+2023-07-01,Glasses,Titan,7.0
+2023-09-01,Glasses,Titan,7000.0
+2023-10-01,Glasses,Titan,998.0
+2023-11-01,Glasses,Titan,2491.0
+2023-12-01,Glasses,Titan,1999.0
+2024-01-01,Glasses,Titan,334.0
+2024-02-01,Glasses,Titan,2149.0
+2024-03-01,Glasses,Titan,1961.0
+2024-04-01,Glasses,Titan,1630.0
+2024-05-01,Glasses,Titan,1464.0
+2024-06-01,Glasses,Titan,934.0
+2024-07-01,Glasses,Titan,826.0
+2024-08-01,Glasses,Titan,740.0
+2024-09-01,Glasses,Titan,535.0
+2024-10-01,Glasses,Titan,842.0
+2024-11-01,Glasses,Titan,763.0
+2024-12-01,Glasses,Titan,840.0
+2025-01-01,Glasses,Titan,513.0
+2025-02-01,Glasses,Titan,913.0
+2025-03-01,Glasses,Titan,876.0
+2025-04-01,Glasses,Titan,584.0
+2025-05-01,Glasses,Titan,567.0
+2025-06-01,Glasses,Titan,519.0
+2025-07-01,Glasses,Titan,458.0
+2025-08-01,Glasses,Titan,388.0
+2025-09-01,Glasses,Titan,576.0
+2025-10-01,Glasses,Titan,574.0
+2025-11-01,Glasses,Titan,382.0
+2025-12-01,Glasses,Titan,345.0
+2026-01-01,Glasses,Titan,438.0
+2026-02-01,Glasses,Titan,389.0
+2026-03-01,Glasses,Titan,435.0
+2023-09-01,Glasses,Ubon,2987.0
+2024-08-01,Glasses,Ubon,545.0
+2025-03-01,Glasses,Ubon,1000.0
+2025-04-01,Glasses,Ubon,200.0
+2025-05-01,Glasses,Ubon,100.0
+2025-01-01,Other,COROS,30.0
+2025-03-01,Other,COROS,20.0
+2023-09-01,Other,Garmin,20.0
+2024-07-01,Other,Garmin,72.0
+2025-01-01,Other,Polar,600.0
+2025-03-01,Other,Polar,605.0
+2025-04-01,Other,Polar,25.0
+2025-07-01,Other,Polar,50.0
+2025-09-01,Other,Polar,29.0
+2026-01-01,Other,Polar,50.0
+2026-03-01,Other,Polar,100.0
+2023-09-01,Rings,Aabo,2000.0
+2023-10-01,Rings,Aabo,1400.0
+2023-11-01,Rings,Aabo,1550.0
+2023-12-01,Rings,Aabo,1625.0
+2024-01-01,Rings,Aabo,1685.0
+2024-02-01,Rings,Aabo,1780.0
+2024-03-01,Rings,Aabo,1950.0
+2024-04-01,Rings,Aabo,2237.0
+2024-05-01,Rings,Aabo,2470.0
+2024-06-01,Rings,Aabo,2915.0
+2024-07-01,Rings,Aabo,3620.0
+2024-08-01,Rings,Aabo,4425.0
+2024-09-01,Rings,Aabo,5275.0
+2024-10-01,Rings,Aabo,7585.0
+2024-11-01,Rings,Aabo,9995.0
+2024-12-01,Rings,Aabo,10400.0
+2025-01-01,Rings,Aabo,5625.0
+2025-02-01,Rings,Aabo,5130.0
+2025-03-01,Rings,Aabo,4068.0
+2025-04-01,Rings,Aabo,2875.0
+2025-05-01,Rings,Aabo,2945.0
+2025-06-01,Rings,Aabo,2975.0
+2025-07-01,Rings,Aabo,2240.0
+2025-08-01,Rings,Aabo,1892.0
+2025-09-01,Rings,Aabo,1491.0
+2025-10-01,Rings,Aabo,1686.0
+2025-11-01,Rings,Aabo,1287.0
+2025-12-01,Rings,Aabo,1196.0
+2026-01-01,Rings,Aabo,848.0
+2026-02-01,Rings,Aabo,935.0
+2026-03-01,Rings,Aabo,962.0
+2023-10-01,Rings,Avantari,543.0
+2023-12-01,Rings,Avantari,50.0
+2024-01-01,Rings,Avantari,40.0
+2024-02-01,Rings,Avantari,1213.0
+2024-03-01,Rings,Avantari,475.0
+2024-04-01,Rings,Avantari,543.0
+2024-05-01,Rings,Avantari,144.0
+2024-06-01,Rings,Avantari,100.0
+2024-09-01,Rings,Avantari,50.0
+2023-09-01,Rings,Bonatra,999.0
+2023-10-01,Rings,Bonatra,146.0
+2023-11-01,Rings,Bonatra,162.0
+2023-12-01,Rings,Bonatra,115.0
+2024-01-01,Rings,Bonatra,285.0
+2024-02-01,Rings,Bonatra,402.0
+2024-03-01,Rings,Bonatra,438.0
+2024-04-01,Rings,Bonatra,648.0
+2024-05-01,Rings,Bonatra,783.0
+2024-06-01,Rings,Bonatra,863.0
+2024-07-01,Rings,Bonatra,865.0
+2024-08-01,Rings,Bonatra,870.0
+2024-09-01,Rings,Bonatra,925.0
+2024-10-01,Rings,Bonatra,860.0
+2024-11-01,Rings,Bonatra,815.0
+2024-12-01,Rings,Bonatra,725.0
+2025-01-01,Rings,Bonatra,650.0
+2024-05-01,Rings,Fittr,570.0
+2024-09-01,Rings,Fittr,99.0
+2024-10-01,Rings,Fittr,150.0
+2024-12-01,Rings,Fittr,800.0
+2025-01-01,Rings,Fittr,500.0
+2025-02-01,Rings,Fittr,600.0
+2025-03-01,Rings,Fittr,1334.0
+2025-04-01,Rings,Fittr,850.0
+2025-05-01,Rings,Fittr,850.0
+2025-06-01,Rings,Fittr,800.0
+2025-07-01,Rings,Fittr,799.0
+2025-08-01,Rings,Fittr,900.0
+2025-09-01,Rings,Fittr,985.0
+2025-10-01,Rings,Fittr,2250.0
+2025-11-01,Rings,Fittr,700.0
+2025-12-01,Rings,Fittr,850.0
+2026-01-01,Rings,Fittr,850.0
+2026-02-01,Rings,Fittr,750.0
+2026-03-01,Rings,Fittr,590.0
+2024-05-01,Rings,Gabit,524.0
+2024-06-01,Rings,Gabit,1740.0
+2024-09-01,Rings,Gabit,4933.0
+2024-10-01,Rings,Gabit,478.0
+2024-11-01,Rings,Gabit,2293.0
+2024-12-01,Rings,Gabit,4822.0
+2025-01-01,Rings,Gabit,2000.0
+2025-02-01,Rings,Gabit,2654.0
+2025-03-01,Rings,Gabit,3295.0
+2025-04-01,Rings,Gabit,5460.0
+2025-05-01,Rings,Gabit,5473.0
+2025-06-01,Rings,Gabit,5519.0
+2025-07-01,Rings,Gabit,900.0
+2025-08-01,Rings,Gabit,500.0
+2025-09-01,Rings,Gabit,800.0
+2025-10-01,Rings,Gabit,3216.0
+2025-11-01,Rings,Gabit,5000.0
+2025-12-01,Rings,Gabit,6098.0
+2026-01-01,Rings,Gabit,4985.0
+2026-02-01,Rings,Gabit,7362.0
+2026-03-01,Rings,Gabit,6435.0
+2023-09-01,Rings,Imagine Marketing,4500.0
+2024-07-01,Rings,Imagine Marketing,9899.0
+2024-08-01,Rings,Imagine Marketing,998.0
+2024-09-01,Rings,Imagine Marketing,7998.0
+2024-10-01,Rings,Imagine Marketing,2998.0
+2024-11-01,Rings,Imagine Marketing,2499.0
+2024-12-01,Rings,Imagine Marketing,7995.0
+2025-01-01,Rings,Imagine Marketing,1200.0
+2025-05-01,Rings,Imagine Marketing,1996.0
+2025-06-01,Rings,Imagine Marketing,6600.0
+2025-07-01,Rings,Imagine Marketing,1397.0
+2025-08-01,Rings,Imagine Marketing,10600.0
+2025-09-01,Rings,Imagine Marketing,5085.0
+2025-10-01,Rings,Imagine Marketing,3300.0
+2025-11-01,Rings,Imagine Marketing,1200.0
+2025-12-01,Rings,Imagine Marketing,2096.0
+2026-01-01,Rings,Imagine Marketing,1099.0
+2026-02-01,Rings,Imagine Marketing,4096.0
+2026-03-01,Rings,Imagine Marketing,799.0
+2024-04-01,Rings,Muse,695.0
+2024-05-01,Rings,Muse,59.0
+2024-06-01,Rings,Muse,275.0
+2024-09-01,Rings,Muse,228.0
+2024-10-01,Rings,Muse,227.0
+2024-11-01,Rings,Muse,454.0
+2024-12-01,Rings,Muse,254.0
+2025-01-01,Rings,Muse,170.0
+2025-02-01,Rings,Muse,200.0
+2025-06-01,Rings,Muse,70.0
+2025-07-01,Rings,Muse,50.0
+2025-08-01,Rings,Muse,30.0
+2025-09-01,Rings,Muse,51.0
+2025-10-01,Rings,Muse,22.0
+2025-11-01,Rings,Muse,18.0
+2025-12-01,Rings,Muse,22.0
+2026-01-01,Rings,Muse,10.0
+2026-02-01,Rings,Muse,20.0
+2026-03-01,Rings,Muse,422.0
+2023-10-01,Rings,Nexxbase,965.0
+2023-11-01,Rings,Nexxbase,328.0
+2023-12-01,Rings,Nexxbase,1519.0
+2024-01-01,Rings,Nexxbase,40.0
+2024-03-01,Rings,Nexxbase,20.0
+2024-05-01,Rings,Nexxbase,2000.0
+2024-06-01,Rings,Nexxbase,50.0
+2024-07-01,Rings,Nexxbase,30.0
+2024-09-01,Rings,Nexxbase,134.0
+2024-10-01,Rings,Nexxbase,498.0
+2024-11-01,Rings,Nexxbase,50.0
+2025-01-01,Rings,Nexxbase,95.0
+2025-03-01,Rings,Nexxbase,144.0
+2025-05-01,Rings,Nexxbase,765.0
+2025-06-01,Rings,Nexxbase,5327.0
+2025-08-01,Rings,Nexxbase,50.0
+2025-12-01,Rings,Nexxbase,200.0
+2026-02-01,Rings,Nexxbase,150.0
+2026-03-01,Rings,Nexxbase,450.0
+2024-01-01,Rings,Others,1231.0
+2024-02-01,Rings,Others,498.0
+2024-03-01,Rings,Others,234.0
+2024-04-01,Rings,Others,543.0
+2024-05-01,Rings,Others,98.0
+2024-06-01,Rings,Others,223.0
+2024-07-01,Rings,Others,987.0
+2024-08-01,Rings,Others,564.0
+2024-09-01,Rings,Others,323.0
+2024-10-01,Rings,Others,299.0
+2024-11-01,Rings,Others,543.0
+2024-12-01,Rings,Others,435.0
+2025-01-01,Rings,Others,234.0
+2025-02-01,Rings,Others,221.0
+2025-03-01,Rings,Others,1132.0
+2025-04-01,Rings,Others,543.0
+2025-05-01,Rings,Others,298.0
+2025-06-01,Rings,Others,432.0
+2025-07-01,Rings,Others,874.0
+2025-08-01,Rings,Others,943.0
+2025-09-01,Rings,Others,909.0
+2025-10-01,Rings,Others,686.0
+2025-11-01,Rings,Others,435.0
+2025-12-01,Rings,Others,258.0
+2026-01-01,Rings,Others,300.0
+2026-02-01,Rings,Others,203.0
+2026-03-01,Rings,Others,984.0
+2023-09-01,Rings,Pi Ring,6000.0
+2023-10-01,Rings,Pi Ring,6987.0
+2023-11-01,Rings,Pi Ring,8479.0
+2023-12-01,Rings,Pi Ring,8900.0
+2024-01-01,Rings,Pi Ring,7830.0
+2024-02-01,Rings,Pi Ring,7954.0
+2024-03-01,Rings,Pi Ring,10007.0
+2024-04-01,Rings,Pi Ring,7352.0
+2024-05-01,Rings,Pi Ring,9500.0
+2024-06-01,Rings,Pi Ring,3153.0
+2024-07-01,Rings,Pi Ring,6500.0
+2024-08-01,Rings,Pi Ring,7533.0
+2024-09-01,Rings,Pi Ring,1000.0
+2024-10-01,Rings,Pi Ring,3000.0
+2024-11-01,Rings,Pi Ring,1245.0
+2024-12-01,Rings,Pi Ring,752.0
+2025-01-01,Rings,Pi Ring,800.0
+2025-02-01,Rings,Pi Ring,500.0
+2025-03-01,Rings,Pi Ring,200.0
+2025-04-01,Rings,Pi Ring,140.0
+2025-05-01,Rings,Pi Ring,100.0
+2024-02-01,Rings,RD,37.0
+2024-08-01,Rings,SRK Powertech,1000.0
+2025-06-01,Rings,SRK Powertech,5400.0
+2025-07-01,Rings,SRK Powertech,2000.0
+2025-08-01,Rings,SRK Powertech,1800.0
+2025-09-01,Rings,SRK Powertech,800.0
+2025-10-01,Rings,SRK Powertech,1300.0
+2025-11-01,Rings,SRK Powertech,1100.0
+2025-12-01,Rings,SRK Powertech,900.0
+2026-01-01,Rings,SRK Powertech,1100.0
+2026-02-01,Rings,SRK Powertech,1300.0
+2026-03-01,Rings,SRK Powertech,2900.0
+2024-10-01,Rings,Samsung,499.0
+2024-11-01,Rings,Samsung,559.0
+2025-01-01,Rings,Samsung,100.0
+2025-02-01,Rings,Samsung,200.0
+2025-03-01,Rings,Samsung,1400.0
+2025-04-01,Rings,Samsung,500.0
+2025-05-01,Rings,Samsung,100.0
+2025-06-01,Rings,Samsung,1400.0
+2025-07-01,Rings,Samsung,500.0
+2025-08-01,Rings,Samsung,870.0
+2025-09-01,Rings,Samsung,635.0
+2025-11-01,Rings,Samsung,100.0
+2025-12-01,Rings,Samsung,900.0
+2026-01-01,Rings,Samsung,300.0
+2026-02-01,Rings,Samsung,200.0
+2026-03-01,Rings,Samsung,500.0
+2023-09-01,Rings,Ultrahuman,41509.0
+2023-10-01,Rings,Ultrahuman,5864.0
+2023-11-01,Rings,Ultrahuman,9495.0
+2023-12-01,Rings,Ultrahuman,9467.0
+2024-01-01,Rings,Ultrahuman,8636.0
+2024-02-01,Rings,Ultrahuman,9483.0
+2024-03-01,Rings,Ultrahuman,10137.0
+2024-04-01,Rings,Ultrahuman,9987.0
+2024-05-01,Rings,Ultrahuman,12501.0
+2024-06-01,Rings,Ultrahuman,12720.0
+2024-07-01,Rings,Ultrahuman,9930.0
+2024-08-01,Rings,Ultrahuman,10698.0
+2024-09-01,Rings,Ultrahuman,13340.0
+2024-10-01,Rings,Ultrahuman,10240.0
+2024-11-01,Rings,Ultrahuman,9054.0
+2024-12-01,Rings,Ultrahuman,12858.0
+2025-01-01,Rings,Ultrahuman,8878.0
+2025-02-01,Rings,Ultrahuman,6342.0
+2025-03-01,Rings,Ultrahuman,6478.0
+2025-04-01,Rings,Ultrahuman,8344.0
+2025-05-01,Rings,Ultrahuman,7912.0
+2025-06-01,Rings,Ultrahuman,6993.0
+2025-07-01,Rings,Ultrahuman,6500.0
+2025-08-01,Rings,Ultrahuman,3400.0
+2025-09-01,Rings,Ultrahuman,4267.0
+2025-10-01,Rings,Ultrahuman,2454.0
+2025-11-01,Rings,Ultrahuman,1433.0
+2025-12-01,Rings,Ultrahuman,5009.0
+2026-01-01,Rings,Ultrahuman,4544.0
+2026-02-01,Rings,Ultrahuman,2171.0
+2026-03-01,Rings,Ultrahuman,2344.0
+2024-10-01,Rings,Zepp,213.0
+2024-11-01,Rings,Zepp,5.0
+2025-01-01,Rings,Zepp,2.0
+2025-03-01,Rings,Zepp,120.0
+2025-04-01,Rings,Zepp,26.0
+2025-05-01,Rings,Zepp,10.0
+2025-06-01,Rings,Zepp,2.0
+2025-07-01,Rings,Zepp,2.0
+2025-08-01,Rings,Zepp,14.0
+2025-09-01,Rings,Zepp,7.0
+2025-10-01,Rings,Zepp,67.0
+2025-11-01,Rings,Zepp,2.0
+2026-01-01,Rings,Zepp,53.0
+2023-01-01,Smartwatch,Ambrane,76273.0
+2023-02-01,Smartwatch,Ambrane,73572.0
+2023-03-01,Smartwatch,Ambrane,55770.0
+2023-04-01,Smartwatch,Ambrane,50967.0
+2023-05-01,Smartwatch,Ambrane,131719.0
+2023-06-01,Smartwatch,Ambrane,52937.0
+2023-07-01,Smartwatch,Ambrane,47554.0
+2023-08-01,Smartwatch,Ambrane,43000.0
+2023-09-01,Smartwatch,Ambrane,47805.0
+2023-10-01,Smartwatch,Ambrane,17716.0
+2023-11-01,Smartwatch,Ambrane,16523.0
+2023-12-01,Smartwatch,Ambrane,5769.0
+2024-01-01,Smartwatch,Ambrane,23222.0
+2024-02-01,Smartwatch,Ambrane,24838.0
+2024-03-01,Smartwatch,Ambrane,3404.0
+2024-04-01,Smartwatch,Ambrane,6759.0
+2024-05-01,Smartwatch,Ambrane,9984.0
+2024-06-01,Smartwatch,Ambrane,4745.0
+2024-07-01,Smartwatch,Ambrane,11120.0
+2024-08-01,Smartwatch,Ambrane,7660.0
+2024-09-01,Smartwatch,Ambrane,7002.0
+2024-10-01,Smartwatch,Ambrane,5290.0
+2024-11-01,Smartwatch,Ambrane,5430.0
+2024-12-01,Smartwatch,Ambrane,9379.0
+2025-01-01,Smartwatch,Ambrane,1235.0
+2025-02-01,Smartwatch,Ambrane,3559.0
+2025-03-01,Smartwatch,Ambrane,3028.0
+2020-01-01,Smartwatch,Apple,22013.0
+2020-02-01,Smartwatch,Apple,3937.0
+2020-03-01,Smartwatch,Apple,11152.0
+2020-05-01,Smartwatch,Apple,6193.0
+2020-06-01,Smartwatch,Apple,11993.0
+2020-07-01,Smartwatch,Apple,16611.0
+2020-08-01,Smartwatch,Apple,30164.0
+2020-09-01,Smartwatch,Apple,38100.0
+2020-10-01,Smartwatch,Apple,105910.0
+2020-11-01,Smartwatch,Apple,59571.0
+2020-12-01,Smartwatch,Apple,23898.0
+2021-01-01,Smartwatch,Apple,35380.0
+2021-02-01,Smartwatch,Apple,11534.0
+2021-03-01,Smartwatch,Apple,28922.0
+2021-04-01,Smartwatch,Apple,7843.0
+2021-05-01,Smartwatch,Apple,17723.0
+2021-06-01,Smartwatch,Apple,7610.0
+2021-07-01,Smartwatch,Apple,40090.0
+2021-08-01,Smartwatch,Apple,41778.0
+2021-09-01,Smartwatch,Apple,48344.0
+2021-10-01,Smartwatch,Apple,10904.0
+2021-11-01,Smartwatch,Apple,41102.0
+2021-12-01,Smartwatch,Apple,49185.0
+2022-01-01,Smartwatch,Apple,5116.0
+2022-02-01,Smartwatch,Apple,13148.0
+2022-03-01,Smartwatch,Apple,23472.0
+2022-04-01,Smartwatch,Apple,26063.0
+2022-05-01,Smartwatch,Apple,29568.0
+2022-06-01,Smartwatch,Apple,38376.0
+2022-07-01,Smartwatch,Apple,3704.0
+2022-08-01,Smartwatch,Apple,29432.0
+2022-09-01,Smartwatch,Apple,98520.0
+2022-10-01,Smartwatch,Apple,71644.0
+2022-11-01,Smartwatch,Apple,57084.0
+2022-12-01,Smartwatch,Apple,16762.0
+2023-01-01,Smartwatch,Apple,11794.0
+2023-02-01,Smartwatch,Apple,7295.0
+2023-03-01,Smartwatch,Apple,10846.0
+2023-04-01,Smartwatch,Apple,16021.0
+2023-05-01,Smartwatch,Apple,24317.0
+2023-06-01,Smartwatch,Apple,19383.0
+2023-07-01,Smartwatch,Apple,72314.0
+2023-08-01,Smartwatch,Apple,15194.0
+2023-09-01,Smartwatch,Apple,118009.0
+2023-10-01,Smartwatch,Apple,101931.0
+2023-11-01,Smartwatch,Apple,20254.0
+2023-12-01,Smartwatch,Apple,9725.0
+2024-01-01,Smartwatch,Apple,29825.0
+2024-02-01,Smartwatch,Apple,13669.0
+2024-03-01,Smartwatch,Apple,17853.0
+2024-04-01,Smartwatch,Apple,12045.0
+2024-05-01,Smartwatch,Apple,18798.0
+2024-06-01,Smartwatch,Apple,11405.0
+2024-07-01,Smartwatch,Apple,5179.0
+2024-08-01,Smartwatch,Apple,24018.0
+2024-09-01,Smartwatch,Apple,75175.0
+2024-10-01,Smartwatch,Apple,73832.0
+2024-11-01,Smartwatch,Apple,14139.0
+2024-12-01,Smartwatch,Apple,46150.0
+2025-01-01,Smartwatch,Apple,48234.0
+2025-02-01,Smartwatch,Apple,10689.0
+2025-03-01,Smartwatch,Apple,14051.0
+2025-04-01,Smartwatch,Apple,13980.0
+2025-05-01,Smartwatch,Apple,12829.0
+2025-06-01,Smartwatch,Apple,9695.0
+2025-07-01,Smartwatch,Apple,8200.0
+2025-08-01,Smartwatch,Apple,41366.0
+2025-09-01,Smartwatch,Apple,111155.0
+2025-10-01,Smartwatch,Apple,65371.0
+2025-11-01,Smartwatch,Apple,43069.0
+2025-12-01,Smartwatch,Apple,69240.0
+2026-01-01,Smartwatch,Apple,10875.0
+2026-02-01,Smartwatch,Apple,24445.0
+2026-03-01,Smartwatch,Apple,21252.0
+2023-09-01,Smartwatch,BBK,2160.0
+2023-10-01,Smartwatch,BBK,1440.0
+2023-12-01,Smartwatch,BBK,2880.0
+2024-02-01,Smartwatch,BBK,2880.0
+2024-03-01,Smartwatch,BBK,640.0
+2024-08-01,Smartwatch,BBK,1439.0
+2024-09-01,Smartwatch,BBK,1441.0
+2024-10-01,Smartwatch,BBK,1440.0
+2024-12-01,Smartwatch,BBK,780.0
+2025-01-01,Smartwatch,BBK,1500.0
+2025-03-01,Smartwatch,BBK,1672.0
+2025-04-01,Smartwatch,BBK,512.0
+2025-05-01,Smartwatch,BBK,2240.0
+2025-06-01,Smartwatch,BBK,1152.0
+2025-07-01,Smartwatch,BBK,1733.0
+2025-08-01,Smartwatch,BBK,2040.0
+2025-09-01,Smartwatch,BBK,1107.0
+2025-10-01,Smartwatch,BBK,2800.0
+2025-12-01,Smartwatch,BBK,1440.0
+2026-01-01,Smartwatch,BBK,720.0
+2026-02-01,Smartwatch,BBK,150.0
+2026-03-01,Smartwatch,BBK,435.0
+2023-01-01,Smartwatch,BeatXP,39761.0
+2023-02-01,Smartwatch,BeatXP,58326.0
+2023-03-01,Smartwatch,BeatXP,20202.0
+2023-04-01,Smartwatch,BeatXP,35137.0
+2023-05-01,Smartwatch,BeatXP,103279.0
+2023-06-01,Smartwatch,BeatXP,90980.0
+2023-07-01,Smartwatch,BeatXP,102714.0
+2023-08-01,Smartwatch,BeatXP,129331.0
+2023-09-01,Smartwatch,BeatXP,351567.0
+2023-10-01,Smartwatch,BeatXP,552263.0
+2023-11-01,Smartwatch,BeatXP,299210.0
+2023-12-01,Smartwatch,BeatXP,239001.0
+2024-01-01,Smartwatch,BeatXP,172828.0
+2024-02-01,Smartwatch,BeatXP,149256.0
+2024-03-01,Smartwatch,BeatXP,70800.0
+2024-04-01,Smartwatch,BeatXP,157445.0
+2024-05-01,Smartwatch,BeatXP,83609.0
+2024-06-01,Smartwatch,BeatXP,94911.0
+2024-07-01,Smartwatch,BeatXP,92265.0
+2024-08-01,Smartwatch,BeatXP,90179.0
+2024-09-01,Smartwatch,BeatXP,63580.0
+2024-10-01,Smartwatch,BeatXP,9830.0
+2024-11-01,Smartwatch,BeatXP,8560.0
+2024-12-01,Smartwatch,BeatXP,6705.0
+2025-01-01,Smartwatch,BeatXP,12569.0
+2025-03-01,Smartwatch,BeatXP,1036.0
+2025-04-01,Smartwatch,BeatXP,4636.0
+2022-12-01,Smartwatch,Brandscale,5987.0
+2023-08-01,Smartwatch,Brandscale,84992.0
+2025-03-01,Smartwatch,COROS,59.0
+2025-04-01,Smartwatch,COROS,240.0
+2025-05-01,Smartwatch,COROS,226.0
+2025-06-01,Smartwatch,COROS,324.0
+2025-07-01,Smartwatch,COROS,219.0
+2025-08-01,Smartwatch,COROS,65.0
+2025-09-01,Smartwatch,COROS,334.0
+2025-10-01,Smartwatch,COROS,489.0
+2025-11-01,Smartwatch,COROS,305.0
+2026-01-01,Smartwatch,COROS,300.0
+2026-02-01,Smartwatch,COROS,332.0
+2026-03-01,Smartwatch,COROS,103.0
+2023-05-01,Smartwatch,Casio,2300.0
+2023-06-01,Smartwatch,Casio,4390.0
+2023-07-01,Smartwatch,Casio,1110.0
+2023-08-01,Smartwatch,Casio,510.0
+2023-09-01,Smartwatch,Casio,602.0
+2023-10-01,Smartwatch,Casio,3837.0
+2023-11-01,Smartwatch,Casio,200.0
+2023-12-01,Smartwatch,Casio,550.0
+2024-01-01,Smartwatch,Casio,810.0
+2024-03-01,Smartwatch,Casio,640.0
+2024-04-01,Smartwatch,Casio,6506.0
+2024-05-01,Smartwatch,Casio,1090.0
+2024-06-01,Smartwatch,Casio,1580.0
+2024-07-01,Smartwatch,Casio,3080.0
+2024-08-01,Smartwatch,Casio,2680.0
+2024-09-01,Smartwatch,Casio,1892.0
+2024-11-01,Smartwatch,Casio,410.0
+2024-12-01,Smartwatch,Casio,2390.0
+2025-01-01,Smartwatch,Casio,495.0
+2025-02-01,Smartwatch,Casio,401.0
+2025-03-01,Smartwatch,Casio,115.0
+2025-04-01,Smartwatch,Casio,1480.0
+2025-05-01,Smartwatch,Casio,3490.0
+2025-06-01,Smartwatch,Casio,3740.0
+2025-07-01,Smartwatch,Casio,3850.0
+2025-08-01,Smartwatch,Casio,3300.0
+2025-09-01,Smartwatch,Casio,1646.0
+2025-10-01,Smartwatch,Casio,3560.0
+2025-11-01,Smartwatch,Casio,1920.0
+2025-12-01,Smartwatch,Casio,2550.0
+2026-01-01,Smartwatch,Casio,2770.0
+2026-02-01,Smartwatch,Casio,1162.0
+2026-03-01,Smartwatch,Casio,1966.0
+2023-07-01,Smartwatch,Citizen,2.0
+2020-08-01,Smartwatch,Crossbeats,2508.0
+2020-09-01,Smartwatch,Crossbeats,1511.0
+2020-10-01,Smartwatch,Crossbeats,2949.0
+2020-11-01,Smartwatch,Crossbeats,2973.0
+2020-12-01,Smartwatch,Crossbeats,3100.0
+2021-01-01,Smartwatch,Crossbeats,4985.0
+2021-02-01,Smartwatch,Crossbeats,1990.0
+2021-03-01,Smartwatch,Crossbeats,1901.0
+2021-04-01,Smartwatch,Crossbeats,3001.0
+2021-05-01,Smartwatch,Crossbeats,5966.0
+2021-06-01,Smartwatch,Crossbeats,4224.0
+2021-07-01,Smartwatch,Crossbeats,3011.0
+2021-08-01,Smartwatch,Crossbeats,6395.0
+2021-09-01,Smartwatch,Crossbeats,11522.0
+2021-10-01,Smartwatch,Crossbeats,16940.0
+2021-11-01,Smartwatch,Crossbeats,6142.0
+2021-12-01,Smartwatch,Crossbeats,8884.0
+2022-01-01,Smartwatch,Crossbeats,6874.0
+2022-02-01,Smartwatch,Crossbeats,490.0
+2022-03-01,Smartwatch,Crossbeats,7297.0
+2022-04-01,Smartwatch,Crossbeats,13879.0
+2022-05-01,Smartwatch,Crossbeats,9543.0
+2022-06-01,Smartwatch,Crossbeats,13789.0
+2022-07-01,Smartwatch,Crossbeats,12470.0
+2022-08-01,Smartwatch,Crossbeats,15440.0
+2022-09-01,Smartwatch,Crossbeats,17147.0
+2022-10-01,Smartwatch,Crossbeats,16997.0
+2022-11-01,Smartwatch,Crossbeats,2714.0
+2022-12-01,Smartwatch,Crossbeats,13935.0
+2023-01-01,Smartwatch,Crossbeats,16178.0
+2023-02-01,Smartwatch,Crossbeats,22068.0
+2023-03-01,Smartwatch,Crossbeats,12073.0
+2023-04-01,Smartwatch,Crossbeats,8275.0
+2023-05-01,Smartwatch,Crossbeats,14420.0
+2023-06-01,Smartwatch,Crossbeats,3303.0
+2023-07-01,Smartwatch,Crossbeats,8109.0
+2023-08-01,Smartwatch,Crossbeats,9091.0
+2023-09-01,Smartwatch,Crossbeats,7086.0
+2023-10-01,Smartwatch,Crossbeats,8610.0
+2023-11-01,Smartwatch,Crossbeats,6080.0
+2023-12-01,Smartwatch,Crossbeats,13180.0
+2024-01-01,Smartwatch,Crossbeats,2040.0
+2024-02-01,Smartwatch,Crossbeats,6060.0
+2024-04-01,Smartwatch,Crossbeats,2000.0
+2024-05-01,Smartwatch,Crossbeats,8080.0
+2024-07-01,Smartwatch,Crossbeats,4440.0
+2024-09-01,Smartwatch,Crossbeats,1000.0
+2024-10-01,Smartwatch,Crossbeats,5128.0
+2024-12-01,Smartwatch,Crossbeats,3020.0
+2025-01-01,Smartwatch,Crossbeats,3000.0
+2025-03-01,Smartwatch,Crossbeats,3000.0
+2025-04-01,Smartwatch,Crossbeats,1020.0
+2025-05-01,Smartwatch,Crossbeats,3000.0
+2025-08-01,Smartwatch,Crossbeats,3060.0
+2025-09-01,Smartwatch,Crossbeats,1432.0
+2025-10-01,Smartwatch,Crossbeats,3000.0
+2025-12-01,Smartwatch,Crossbeats,5000.0
+2026-01-01,Smartwatch,Crossbeats,3000.0
+2026-02-01,Smartwatch,Crossbeats,100.0
+2026-03-01,Smartwatch,Crossbeats,2285.0
+2021-08-01,Smartwatch,Dizo Innovation Pvt. Ltd,5543.0
+2021-09-01,Smartwatch,Dizo Innovation Pvt. Ltd,81227.0
+2021-10-01,Smartwatch,Dizo Innovation Pvt. Ltd,48743.0
+2021-11-01,Smartwatch,Dizo Innovation Pvt. Ltd,40901.0
+2021-12-01,Smartwatch,Dizo Innovation Pvt. Ltd,62536.0
+2022-01-01,Smartwatch,Dizo Innovation Pvt. Ltd,44219.0
+2022-02-01,Smartwatch,Dizo Innovation Pvt. Ltd,26048.0
+2022-03-01,Smartwatch,Dizo Innovation Pvt. Ltd,102140.0
+2022-04-01,Smartwatch,Dizo Innovation Pvt. Ltd,35425.0
+2022-05-01,Smartwatch,Dizo Innovation Pvt. Ltd,59194.0
+2022-06-01,Smartwatch,Dizo Innovation Pvt. Ltd,70597.0
+2022-07-01,Smartwatch,Dizo Innovation Pvt. Ltd,65983.0
+2022-08-01,Smartwatch,Dizo Innovation Pvt. Ltd,57628.0
+2022-09-01,Smartwatch,Dizo Innovation Pvt. Ltd,75690.0
+2022-10-01,Smartwatch,Dizo Innovation Pvt. Ltd,41393.0
+2022-11-01,Smartwatch,Dizo Innovation Pvt. Ltd,33048.0
+2022-12-01,Smartwatch,Dizo Innovation Pvt. Ltd,14832.0
+2023-01-01,Smartwatch,Dizo Innovation Pvt. Ltd,41166.0
+2023-02-01,Smartwatch,Dizo Innovation Pvt. Ltd,25946.0
+2022-03-01,Smartwatch,Eccentric Enterprises,2873.0
+2022-04-01,Smartwatch,Eccentric Enterprises,1434.0
+2020-11-01,Smartwatch,Fire - Boltt,2980.0
+2020-12-01,Smartwatch,Fire - Boltt,4993.0
+2021-01-01,Smartwatch,Fire - Boltt,26990.0
+2021-02-01,Smartwatch,Fire - Boltt,11989.0
+2021-04-01,Smartwatch,Fire - Boltt,34012.0
+2021-05-01,Smartwatch,Fire - Boltt,22066.0
+2021-06-01,Smartwatch,Fire - Boltt,32111.0
+2021-07-01,Smartwatch,Fire - Boltt,154003.0
+2021-08-01,Smartwatch,Fire - Boltt,165808.0
+2021-09-01,Smartwatch,Fire - Boltt,339122.0
+2021-10-01,Smartwatch,Fire - Boltt,241892.0
+2021-11-01,Smartwatch,Fire - Boltt,213777.0
+2021-12-01,Smartwatch,Fire - Boltt,173120.0
+2022-01-01,Smartwatch,Fire - Boltt,317056.0
+2022-02-01,Smartwatch,Fire - Boltt,229206.0
+2022-03-01,Smartwatch,Fire - Boltt,370503.0
+2022-04-01,Smartwatch,Fire - Boltt,318663.0
+2022-05-01,Smartwatch,Fire - Boltt,499173.0
+2022-06-01,Smartwatch,Fire - Boltt,769559.0
+2022-07-01,Smartwatch,Fire - Boltt,1051216.0
+2022-08-01,Smartwatch,Fire - Boltt,724592.0
+2022-09-01,Smartwatch,Fire - Boltt,1369931.0
+2022-10-01,Smartwatch,Fire - Boltt,718486.0
+2022-11-01,Smartwatch,Fire - Boltt,591028.0
+2022-12-01,Smartwatch,Fire - Boltt,667154.0
+2023-01-01,Smartwatch,Fire - Boltt,1100244.0
+2023-02-01,Smartwatch,Fire - Boltt,920187.0
+2023-03-01,Smartwatch,Fire - Boltt,951393.0
+2023-04-01,Smartwatch,Fire - Boltt,1100631.0
+2023-05-01,Smartwatch,Fire - Boltt,1066306.0
+2023-06-01,Smartwatch,Fire - Boltt,865787.0
+2023-07-01,Smartwatch,Fire - Boltt,901893.0
+2023-08-01,Smartwatch,Fire - Boltt,977507.0
+2023-09-01,Smartwatch,Fire - Boltt,2115338.0
+2023-10-01,Smartwatch,Fire - Boltt,1321624.0
+2023-11-01,Smartwatch,Fire - Boltt,830089.0
+2023-12-01,Smartwatch,Fire - Boltt,800248.0
+2024-01-01,Smartwatch,Fire - Boltt,650654.0
+2024-02-01,Smartwatch,Fire - Boltt,749568.0
+2024-03-01,Smartwatch,Fire - Boltt,857520.0
+2024-04-01,Smartwatch,Fire - Boltt,895734.0
+2024-05-01,Smartwatch,Fire - Boltt,835186.0
+2024-06-01,Smartwatch,Fire - Boltt,511028.0
+2024-07-01,Smartwatch,Fire - Boltt,50772.0
+2024-08-01,Smartwatch,Fire - Boltt,280129.0
+2024-09-01,Smartwatch,Fire - Boltt,304287.0
+2024-10-01,Smartwatch,Fire - Boltt,318391.0
+2024-11-01,Smartwatch,Fire - Boltt,168282.0
+2024-12-01,Smartwatch,Fire - Boltt,233233.0
+2025-01-01,Smartwatch,Fire - Boltt,241886.0
+2025-02-01,Smartwatch,Fire - Boltt,209699.0
+2025-03-01,Smartwatch,Fire - Boltt,131063.0
+2025-04-01,Smartwatch,Fire - Boltt,118414.0
+2025-05-01,Smartwatch,Fire - Boltt,124310.0
+2025-06-01,Smartwatch,Fire - Boltt,200469.0
+2025-07-01,Smartwatch,Fire - Boltt,250093.0
+2025-08-01,Smartwatch,Fire - Boltt,267970.0
+2025-09-01,Smartwatch,Fire - Boltt,305647.0
+2025-10-01,Smartwatch,Fire - Boltt,235138.0
+2025-11-01,Smartwatch,Fire - Boltt,364845.0
+2025-12-01,Smartwatch,Fire - Boltt,349990.0
+2026-01-01,Smartwatch,Fire - Boltt,399984.0
+2026-02-01,Smartwatch,Fire - Boltt,299043.0
+2026-03-01,Smartwatch,Fire - Boltt,450911.0
+2020-01-01,Smartwatch,Fossil,18891.0
+2020-02-01,Smartwatch,Fossil,13774.0
+2020-03-01,Smartwatch,Fossil,4874.0
+2020-05-01,Smartwatch,Fossil,3833.0
+2020-06-01,Smartwatch,Fossil,3950.0
+2020-07-01,Smartwatch,Fossil,10379.0
+2020-08-01,Smartwatch,Fossil,12471.0
+2020-09-01,Smartwatch,Fossil,18000.0
+2020-10-01,Smartwatch,Fossil,7098.0
+2020-11-01,Smartwatch,Fossil,12248.0
+2020-12-01,Smartwatch,Fossil,3220.0
+2021-01-01,Smartwatch,Fossil,4523.0
+2021-02-01,Smartwatch,Fossil,4484.0
+2021-03-01,Smartwatch,Fossil,2853.0
+2021-04-01,Smartwatch,Fossil,270.0
+2021-05-01,Smartwatch,Fossil,1798.0
+2021-06-01,Smartwatch,Fossil,5972.0
+2021-07-01,Smartwatch,Fossil,953.0
+2021-08-01,Smartwatch,Fossil,476.0
+2021-09-01,Smartwatch,Fossil,38380.0
+2021-10-01,Smartwatch,Fossil,4424.0
+2021-11-01,Smartwatch,Fossil,2749.0
+2021-12-01,Smartwatch,Fossil,3917.0
+2022-01-01,Smartwatch,Fossil,2324.0
+2022-02-01,Smartwatch,Fossil,2134.0
+2022-03-01,Smartwatch,Fossil,2043.0
+2022-04-01,Smartwatch,Fossil,2341.0
+2022-05-01,Smartwatch,Fossil,2274.0
+2022-06-01,Smartwatch,Fossil,6230.0
+2022-07-01,Smartwatch,Fossil,30343.0
+2022-08-01,Smartwatch,Fossil,10973.0
+2022-09-01,Smartwatch,Fossil,10105.0
+2022-10-01,Smartwatch,Fossil,10433.0
+2022-11-01,Smartwatch,Fossil,6868.0
+2022-12-01,Smartwatch,Fossil,2342.0
+2023-01-01,Smartwatch,Fossil,4009.0
+2023-02-01,Smartwatch,Fossil,2790.0
+2023-03-01,Smartwatch,Fossil,2224.0
+2023-04-01,Smartwatch,Fossil,3766.0
+2023-05-01,Smartwatch,Fossil,4590.0
+2023-06-01,Smartwatch,Fossil,6193.0
+2023-07-01,Smartwatch,Fossil,13797.0
+2023-08-01,Smartwatch,Fossil,4227.0
+2023-09-01,Smartwatch,Fossil,2657.0
+2023-10-01,Smartwatch,Fossil,17.0
+2023-11-01,Smartwatch,Fossil,71.0
+2023-12-01,Smartwatch,Fossil,1101.0
+2020-07-01,Smartwatch,GOQii,5043.0
+2020-08-01,Smartwatch,GOQii,11032.0
+2020-09-01,Smartwatch,GOQii,3543.0
+2020-10-01,Smartwatch,GOQii,6542.0
+2020-11-01,Smartwatch,GOQii,4302.0
+2020-12-01,Smartwatch,GOQii,3122.0
+2021-01-01,Smartwatch,GOQii,4654.0
+2021-02-01,Smartwatch,GOQii,2201.0
+2021-03-01,Smartwatch,GOQii,8597.0
+2021-04-01,Smartwatch,GOQii,6834.0
+2021-05-01,Smartwatch,GOQii,10102.0
+2021-06-01,Smartwatch,GOQii,10134.0
+2021-07-01,Smartwatch,GOQii,13092.0
+2021-08-01,Smartwatch,GOQii,8286.0
+2021-09-01,Smartwatch,GOQii,12530.0
+2021-10-01,Smartwatch,GOQii,15202.0
+2021-11-01,Smartwatch,GOQii,9830.0
+2021-12-01,Smartwatch,GOQii,62296.0
+2022-01-01,Smartwatch,GOQii,19240.0
+2022-02-01,Smartwatch,GOQii,20213.0
+2022-03-01,Smartwatch,GOQii,32800.0
+2022-04-01,Smartwatch,GOQii,23863.0
+2022-05-01,Smartwatch,GOQii,14541.0
+2022-06-01,Smartwatch,GOQii,33122.0
+2022-07-01,Smartwatch,GOQii,54944.0
+2022-08-01,Smartwatch,GOQii,31571.0
+2022-09-01,Smartwatch,GOQii,12067.0
+2022-10-01,Smartwatch,GOQii,22905.0
+2022-11-01,Smartwatch,GOQii,857.0
+2022-12-01,Smartwatch,GOQii,507.0
+2023-01-01,Smartwatch,GOQii,5524.0
+2023-02-01,Smartwatch,GOQii,1389.0
+2023-03-01,Smartwatch,GOQii,12945.0
+2023-04-01,Smartwatch,GOQii,19877.0
+2023-05-01,Smartwatch,GOQii,9877.0
+2023-06-01,Smartwatch,GOQii,4356.0
+2023-07-01,Smartwatch,GOQii,10160.0
+2023-08-01,Smartwatch,GOQii,8440.0
+2023-09-01,Smartwatch,GOQii,6354.0
+2024-01-01,Smartwatch,GOQii,2500.0
+2024-03-01,Smartwatch,GOQii,4346.0
+2024-04-01,Smartwatch,GOQii,1154.0
+2020-01-01,Smartwatch,Garmin,3527.0
+2020-02-01,Smartwatch,Garmin,2951.0
+2020-03-01,Smartwatch,Garmin,662.0
+2020-05-01,Smartwatch,Garmin,389.0
+2020-07-01,Smartwatch,Garmin,1965.0
+2020-08-01,Smartwatch,Garmin,4302.0
+2020-09-01,Smartwatch,Garmin,3274.0
+2020-10-01,Smartwatch,Garmin,6537.0
+2020-11-01,Smartwatch,Garmin,3192.0
+2020-12-01,Smartwatch,Garmin,4291.0
+2021-01-01,Smartwatch,Garmin,2915.0
+2021-02-01,Smartwatch,Garmin,946.0
+2021-03-01,Smartwatch,Garmin,2120.0
+2021-04-01,Smartwatch,Garmin,3332.0
+2021-05-01,Smartwatch,Garmin,2234.0
+2021-06-01,Smartwatch,Garmin,2057.0
+2021-07-01,Smartwatch,Garmin,3783.0
+2021-08-01,Smartwatch,Garmin,3437.0
+2021-09-01,Smartwatch,Garmin,4550.0
+2021-10-01,Smartwatch,Garmin,9511.0
+2021-11-01,Smartwatch,Garmin,1174.0
+2021-12-01,Smartwatch,Garmin,4326.0
+2022-01-01,Smartwatch,Garmin,2217.0
+2022-02-01,Smartwatch,Garmin,2126.0
+2022-03-01,Smartwatch,Garmin,376.0
+2022-04-01,Smartwatch,Garmin,5149.0
+2022-05-01,Smartwatch,Garmin,378.0
+2022-06-01,Smartwatch,Garmin,1101.0
+2022-07-01,Smartwatch,Garmin,1539.0
+2022-08-01,Smartwatch,Garmin,540.0
+2022-09-01,Smartwatch,Garmin,5550.0
+2022-10-01,Smartwatch,Garmin,2692.0
+2022-11-01,Smartwatch,Garmin,2002.0
+2022-12-01,Smartwatch,Garmin,754.0
+2023-01-01,Smartwatch,Garmin,978.0
+2023-02-01,Smartwatch,Garmin,541.0
+2023-03-01,Smartwatch,Garmin,684.0
+2023-04-01,Smartwatch,Garmin,849.0
+2023-05-01,Smartwatch,Garmin,1919.0
+2023-06-01,Smartwatch,Garmin,2518.0
+2023-07-01,Smartwatch,Garmin,1327.0
+2023-08-01,Smartwatch,Garmin,1404.0
+2023-09-01,Smartwatch,Garmin,108.0
+2023-10-01,Smartwatch,Garmin,483.0
+2023-11-01,Smartwatch,Garmin,400.0
+2024-01-01,Smartwatch,Garmin,2182.0
+2024-02-01,Smartwatch,Garmin,1752.0
+2024-03-01,Smartwatch,Garmin,2029.0
+2024-04-01,Smartwatch,Garmin,3828.0
+2024-05-01,Smartwatch,Garmin,2074.0
+2024-06-01,Smartwatch,Garmin,3038.0
+2024-07-01,Smartwatch,Garmin,3989.0
+2024-08-01,Smartwatch,Garmin,3238.0
+2024-09-01,Smartwatch,Garmin,2809.0
+2024-10-01,Smartwatch,Garmin,3358.0
+2024-11-01,Smartwatch,Garmin,2556.0
+2024-12-01,Smartwatch,Garmin,1919.0
+2025-01-01,Smartwatch,Garmin,2576.0
+2025-02-01,Smartwatch,Garmin,2354.0
+2025-03-01,Smartwatch,Garmin,5192.0
+2025-04-01,Smartwatch,Garmin,4187.0
+2025-05-01,Smartwatch,Garmin,2550.0
+2025-06-01,Smartwatch,Garmin,3043.0
+2025-07-01,Smartwatch,Garmin,6575.0
+2025-08-01,Smartwatch,Garmin,6889.0
+2025-09-01,Smartwatch,Garmin,5881.0
+2025-10-01,Smartwatch,Garmin,4987.0
+2025-11-01,Smartwatch,Garmin,3895.0
+2025-12-01,Smartwatch,Garmin,3363.0
+2026-01-01,Smartwatch,Garmin,2060.0
+2026-02-01,Smartwatch,Garmin,2264.0
+2026-03-01,Smartwatch,Garmin,2640.0
+2020-06-01,Smartwatch,Gionee (IN),3300.0
+2020-08-01,Smartwatch,Gionee (IN),3000.0
+2020-10-01,Smartwatch,Gionee (IN),36060.0
+2020-11-01,Smartwatch,Gionee (IN),14056.0
+2020-12-01,Smartwatch,Gionee (IN),1002.0
+2021-01-01,Smartwatch,Gionee (IN),8032.0
+2021-03-01,Smartwatch,Gionee (IN),10475.0
+2021-05-01,Smartwatch,Gionee (IN),3011.0
+2021-06-01,Smartwatch,Gionee (IN),8055.000000000001
+2021-07-01,Smartwatch,Gionee (IN),17851.0
+2021-08-01,Smartwatch,Gionee (IN),7846.0
+2021-09-01,Smartwatch,Gionee (IN),9311.0
+2021-10-01,Smartwatch,Gionee (IN),32662.0
+2021-11-01,Smartwatch,Gionee (IN),17354.0
+2021-12-01,Smartwatch,Gionee (IN),11557.0
+2022-01-01,Smartwatch,Gionee (IN),18710.0
+2022-02-01,Smartwatch,Gionee (IN),13432.0
+2022-03-01,Smartwatch,Gionee (IN),7752.0
+2022-04-01,Smartwatch,Gionee (IN),5972.0
+2022-05-01,Smartwatch,Gionee (IN),990.0
+2022-07-01,Smartwatch,Gionee (IN),24985.0
+2022-08-01,Smartwatch,Gionee (IN),47322.0
+2022-09-01,Smartwatch,Gionee (IN),29764.0
+2022-10-01,Smartwatch,Gionee (IN),10847.0
+2023-01-01,Smartwatch,Gionee (IN),5411.0
+2023-02-01,Smartwatch,Gionee (IN),2704.0
+2023-04-01,Smartwatch,Gionee (IN),345.0
+2023-01-01,Smartwatch,Gizmore,44911.0
+2023-02-01,Smartwatch,Gizmore,33240.0
+2023-03-01,Smartwatch,Gizmore,28202.0
+2023-04-01,Smartwatch,Gizmore,25857.0
+2023-05-01,Smartwatch,Gizmore,24399.0
+2023-06-01,Smartwatch,Gizmore,27852.0
+2023-07-01,Smartwatch,Gizmore,37975.0
+2023-08-01,Smartwatch,Gizmore,27866.0
+2023-09-01,Smartwatch,Gizmore,19882.0
+2023-10-01,Smartwatch,Gizmore,29981.0
+2023-11-01,Smartwatch,Gizmore,4217.0
+2023-12-01,Smartwatch,Gizmore,9500.0
+2024-01-01,Smartwatch,Gizmore,19446.0
+2024-02-01,Smartwatch,Gizmore,18392.0
+2024-03-01,Smartwatch,Gizmore,16683.0
+2024-04-01,Smartwatch,Gizmore,19964.0
+2024-05-01,Smartwatch,Gizmore,12100.0
+2024-06-01,Smartwatch,Gizmore,7975.0
+2024-07-01,Smartwatch,Gizmore,5777.0
+2024-08-01,Smartwatch,Gizmore,7116.0
+2024-09-01,Smartwatch,Gizmore,32428.0
+2024-10-01,Smartwatch,Gizmore,11920.0
+2024-11-01,Smartwatch,Gizmore,6387.0
+2024-12-01,Smartwatch,Gizmore,2775.0
+2025-01-01,Smartwatch,Gizmore,543.0
+2025-02-01,Smartwatch,Gizmore,433.0
+2025-05-01,Smartwatch,Gizmore,4475.0
+2025-07-01,Smartwatch,Gizmore,14069.0
+2025-08-01,Smartwatch,Gizmore,11274.0
+2025-09-01,Smartwatch,Gizmore,14919.0
+2025-10-01,Smartwatch,Gizmore,19349.0
+2025-11-01,Smartwatch,Gizmore,8903.0
+2025-12-01,Smartwatch,Gizmore,9431.0
+2026-01-01,Smartwatch,Gizmore,13217.0
+2026-02-01,Smartwatch,Gizmore,12865.0
+2026-03-01,Smartwatch,Gizmore,12426.0
+2022-06-01,Smartwatch,GoBoult,21594.0
+2022-07-01,Smartwatch,GoBoult,13400.0
+2022-08-01,Smartwatch,GoBoult,14980.0
+2022-09-01,Smartwatch,GoBoult,105774.0
+2022-10-01,Smartwatch,GoBoult,80288.0
+2022-11-01,Smartwatch,GoBoult,42274.0
+2022-12-01,Smartwatch,GoBoult,40510.0
+2023-01-01,Smartwatch,GoBoult,67169.0
+2023-02-01,Smartwatch,GoBoult,98422.0
+2023-03-01,Smartwatch,GoBoult,162404.0
+2023-04-01,Smartwatch,GoBoult,160946.0
+2023-05-01,Smartwatch,GoBoult,145855.0
+2023-06-01,Smartwatch,GoBoult,129853.0
+2023-07-01,Smartwatch,GoBoult,140112.0
+2023-08-01,Smartwatch,GoBoult,145546.0
+2023-09-01,Smartwatch,GoBoult,231911.0
+2023-10-01,Smartwatch,GoBoult,229154.0
+2023-11-01,Smartwatch,GoBoult,99368.0
+2023-12-01,Smartwatch,GoBoult,128859.0
+2024-01-01,Smartwatch,GoBoult,85648.0
+2024-02-01,Smartwatch,GoBoult,145900.0
+2024-03-01,Smartwatch,GoBoult,114052.0
+2024-04-01,Smartwatch,GoBoult,150315.0
+2024-05-01,Smartwatch,GoBoult,122460.0
+2024-06-01,Smartwatch,GoBoult,91308.0
+2024-07-01,Smartwatch,GoBoult,125352.0
+2024-08-01,Smartwatch,GoBoult,175535.0
+2024-09-01,Smartwatch,GoBoult,291693.0
+2024-10-01,Smartwatch,GoBoult,177430.0
+2024-11-01,Smartwatch,GoBoult,94225.0
+2024-12-01,Smartwatch,GoBoult,137265.0
+2025-01-01,Smartwatch,GoBoult,207651.0
+2025-02-01,Smartwatch,GoBoult,226302.0
+2025-03-01,Smartwatch,GoBoult,94616.0
+2025-04-01,Smartwatch,GoBoult,223621.0
+2025-05-01,Smartwatch,GoBoult,173578.0
+2025-06-01,Smartwatch,GoBoult,147513.0
+2025-07-01,Smartwatch,GoBoult,303051.0
+2025-08-01,Smartwatch,GoBoult,190382.0
+2025-09-01,Smartwatch,GoBoult,313261.0
+2025-10-01,Smartwatch,GoBoult,72664.0
+2025-11-01,Smartwatch,GoBoult,144237.0
+2025-12-01,Smartwatch,GoBoult,124330.0
+2026-01-01,Smartwatch,GoBoult,136722.0
+2026-02-01,Smartwatch,GoBoult,128542.0
+2026-03-01,Smartwatch,GoBoult,126528.0
+2020-01-01,Smartwatch,Google,400.0
+2020-02-01,Smartwatch,Google,650.0
+2020-03-01,Smartwatch,Google,2080.0
+2020-05-01,Smartwatch,Google,240.0
+2020-06-01,Smartwatch,Google,1280.0
+2020-07-01,Smartwatch,Google,5950.0
+2020-08-01,Smartwatch,Google,2445.0
+2020-09-01,Smartwatch,Google,1873.0
+2020-10-01,Smartwatch,Google,4952.0
+2020-11-01,Smartwatch,Google,7023.0
+2020-12-01,Smartwatch,Google,1311.0
+2021-01-01,Smartwatch,Google,440.0
+2021-02-01,Smartwatch,Google,1960.0
+2021-03-01,Smartwatch,Google,3260.0
+2021-04-01,Smartwatch,Google,2070.0
+2021-05-01,Smartwatch,Google,4300.0
+2021-06-01,Smartwatch,Google,5600.000000000001
+2021-07-01,Smartwatch,Google,5791.0
+2021-08-01,Smartwatch,Google,10139.0
+2021-09-01,Smartwatch,Google,9978.0
+2021-10-01,Smartwatch,Google,9860.0
+2021-11-01,Smartwatch,Google,550.0
+2021-12-01,Smartwatch,Google,3185.0
+2022-01-01,Smartwatch,Google,4658.0
+2022-02-01,Smartwatch,Google,1660.0
+2022-03-01,Smartwatch,Google,2410.0
+2022-04-01,Smartwatch,Google,4385.0
+2022-05-01,Smartwatch,Google,696.0
+2022-06-01,Smartwatch,Google,1930.0
+2022-07-01,Smartwatch,Google,7308.0
+2022-09-01,Smartwatch,Google,9328.0
+2022-10-01,Smartwatch,Google,6299.0
+2022-11-01,Smartwatch,Google,34.0
+2022-12-01,Smartwatch,Google,6652.0
+2023-01-01,Smartwatch,Google,79.0
+2023-02-01,Smartwatch,Google,29.0
+2023-03-01,Smartwatch,Google,7.0
+2023-04-01,Smartwatch,Google,3.0
+2023-05-01,Smartwatch,Google,398.0
+2023-06-01,Smartwatch,Google,1600.0
+2023-07-01,Smartwatch,Google,2430.0
+2023-08-01,Smartwatch,Google,850.0
+2023-09-01,Smartwatch,Google,500.0
+2023-10-01,Smartwatch,Google,2132.0
+2023-11-01,Smartwatch,Google,2440.0
+2023-12-01,Smartwatch,Google,390.0
+2024-01-01,Smartwatch,Google,570.0
+2024-02-01,Smartwatch,Google,70.0
+2024-03-01,Smartwatch,Google,420.0
+2024-04-01,Smartwatch,Google,150.0
+2024-05-01,Smartwatch,Google,460.0
+2024-06-01,Smartwatch,Google,123.0
+2024-07-01,Smartwatch,Google,5995.0
+2024-08-01,Smartwatch,Google,1800.0
+2024-09-01,Smartwatch,Google,2600.0
+2024-10-01,Smartwatch,Google,2201.0
+2024-11-01,Smartwatch,Google,225.0
+2024-12-01,Smartwatch,Google,132.0
+2025-01-01,Smartwatch,Google,324.0
+2025-02-01,Smartwatch,Google,1256.0
+2025-03-01,Smartwatch,Google,34.0
+2025-04-01,Smartwatch,Google,1015.0
+2025-05-01,Smartwatch,Google,750.0
+2025-06-01,Smartwatch,Google,71.0
+2025-07-01,Smartwatch,Google,432.0
+2025-08-01,Smartwatch,Google,280.0
+2025-09-01,Smartwatch,Google,1537.0
+2025-10-01,Smartwatch,Google,3304.0
+2025-11-01,Smartwatch,Google,470.0
+2025-12-01,Smartwatch,Google,90.0
+2026-01-01,Smartwatch,Google,400.0
+2026-02-01,Smartwatch,Google,41.0
+2026-03-01,Smartwatch,Google,250.0
+2020-01-01,Smartwatch,Honor,708.0
+2020-02-01,Smartwatch,Honor,2045.0
+2020-03-01,Smartwatch,Honor,7734.0
+2020-05-01,Smartwatch,Honor,2010.0
+2020-06-01,Smartwatch,Honor,3700.0
+2020-07-01,Smartwatch,Honor,5377.0
+2020-08-01,Smartwatch,Honor,7139.0
+2020-09-01,Smartwatch,Honor,14023.0
+2020-10-01,Smartwatch,Honor,23063.0
+2021-01-01,Smartwatch,Honor,30.0
+2021-02-01,Smartwatch,Honor,61.0
+2021-03-01,Smartwatch,Honor,17.0
+2021-07-01,Smartwatch,Honor,5897.0
+2021-09-01,Smartwatch,Honor,6120.0
+2021-10-01,Smartwatch,Honor,4990.0
+2022-01-01,Smartwatch,Honor,768.0
+2022-07-01,Smartwatch,Honor,2495.0
+2022-09-01,Smartwatch,Honor,5636.0
+2023-01-01,Smartwatch,Honor,1320.0
+2023-02-01,Smartwatch,Honor,234.0
+2024-02-01,Smartwatch,Honor,6000.0
+2020-01-01,Smartwatch,Huawei,2013.0
+2020-02-01,Smartwatch,Huawei,941.0
+2020-03-01,Smartwatch,Huawei,4012.0
+2020-05-01,Smartwatch,Huawei,7421.0
+2020-06-01,Smartwatch,Huawei,7618.0
+2020-07-01,Smartwatch,Huawei,70.0
+2020-08-01,Smartwatch,Huawei,2193.0
+2020-10-01,Smartwatch,Huawei,1015.0
+2020-11-01,Smartwatch,Huawei,507.0
+2020-12-01,Smartwatch,Huawei,536.0
+2021-01-01,Smartwatch,Huawei,514.0
+2021-02-01,Smartwatch,Huawei,16.0
+2021-06-01,Smartwatch,Huawei,475.0
+2021-08-01,Smartwatch,Huawei,502.0
+2021-10-01,Smartwatch,Huawei,990.0
+2021-11-01,Smartwatch,Huawei,1345.0
+2022-01-01,Smartwatch,Huawei,690.0
+2022-02-01,Smartwatch,Huawei,100.0
+2022-05-01,Smartwatch,Huawei,296.0
+2024-08-01,Smartwatch,Huawei,1016.0
+2024-09-01,Smartwatch,Huawei,2793.0
+2024-10-01,Smartwatch,Huawei,240.0
+2024-12-01,Smartwatch,Huawei,190.0
+2025-01-01,Smartwatch,Huawei,102.0
+2025-03-01,Smartwatch,Huawei,153.0
+2025-04-01,Smartwatch,Huawei,1017.0
+2025-05-01,Smartwatch,Huawei,458.0
+2025-07-01,Smartwatch,Huawei,816.0
+2025-08-01,Smartwatch,Huawei,571.0
+2025-09-01,Smartwatch,Huawei,478.0
+2025-10-01,Smartwatch,Huawei,174.0
+2025-11-01,Smartwatch,Huawei,482.0
+2025-12-01,Smartwatch,Huawei,619.0
+2026-01-01,Smartwatch,Huawei,663.0
+2026-02-01,Smartwatch,Huawei,20.0
+2026-03-01,Smartwatch,Huawei,230.0
+2020-10-01,Smartwatch,Imagine Marketing,10000.0
+2020-11-01,Smartwatch,Imagine Marketing,29890.0
+2020-12-01,Smartwatch,Imagine Marketing,35114.0
+2021-01-01,Smartwatch,Imagine Marketing,132043.0
+2021-02-01,Smartwatch,Imagine Marketing,44148.0
+2021-03-01,Smartwatch,Imagine Marketing,125676.0
+2021-04-01,Smartwatch,Imagine Marketing,164215.0
+2021-05-01,Smartwatch,Imagine Marketing,61511.0
+2021-06-01,Smartwatch,Imagine Marketing,207369.0
+2021-07-01,Smartwatch,Imagine Marketing,301379.0
+2021-08-01,Smartwatch,Imagine Marketing,261557.0
+2021-09-01,Smartwatch,Imagine Marketing,432432.0
+2021-10-01,Smartwatch,Imagine Marketing,619284.0
+2021-11-01,Smartwatch,Imagine Marketing,364238.0
+2021-12-01,Smartwatch,Imagine Marketing,349015.0
+2022-01-01,Smartwatch,Imagine Marketing,240680.0
+2022-02-01,Smartwatch,Imagine Marketing,168422.0
+2022-03-01,Smartwatch,Imagine Marketing,154377.0
+2022-04-01,Smartwatch,Imagine Marketing,357634.0
+2022-05-01,Smartwatch,Imagine Marketing,342037.0
+2022-06-01,Smartwatch,Imagine Marketing,561730.0
+2022-07-01,Smartwatch,Imagine Marketing,576766.0
+2022-08-01,Smartwatch,Imagine Marketing,710969.0
+2022-09-01,Smartwatch,Imagine Marketing,1102731.0
+2022-10-01,Smartwatch,Imagine Marketing,557443.0
+2022-11-01,Smartwatch,Imagine Marketing,420234.0
+2022-12-01,Smartwatch,Imagine Marketing,588127.0
+2023-01-01,Smartwatch,Imagine Marketing,630801.0
+2023-02-01,Smartwatch,Imagine Marketing,512870.0
+2023-03-01,Smartwatch,Imagine Marketing,674683.0
+2023-04-01,Smartwatch,Imagine Marketing,727948.0
+2023-05-01,Smartwatch,Imagine Marketing,663859.0
+2023-06-01,Smartwatch,Imagine Marketing,554426.0
+2023-07-01,Smartwatch,Imagine Marketing,693066.0
+2023-08-01,Smartwatch,Imagine Marketing,683996.0
+2023-09-01,Smartwatch,Imagine Marketing,1031284.0
+2023-10-01,Smartwatch,Imagine Marketing,642876.0
+2023-11-01,Smartwatch,Imagine Marketing,321828.0
+2023-12-01,Smartwatch,Imagine Marketing,336402.0
+2024-01-01,Smartwatch,Imagine Marketing,244745.0
+2024-02-01,Smartwatch,Imagine Marketing,258792.0
+2024-03-01,Smartwatch,Imagine Marketing,200846.0
+2024-04-01,Smartwatch,Imagine Marketing,404535.0
+2024-05-01,Smartwatch,Imagine Marketing,365572.0
+2024-06-01,Smartwatch,Imagine Marketing,301499.0
+2024-07-01,Smartwatch,Imagine Marketing,348106.0
+2024-08-01,Smartwatch,Imagine Marketing,393599.0
+2024-09-01,Smartwatch,Imagine Marketing,828074.0
+2024-10-01,Smartwatch,Imagine Marketing,333739.0
+2024-11-01,Smartwatch,Imagine Marketing,242774.0
+2024-12-01,Smartwatch,Imagine Marketing,212366.0
+2025-01-01,Smartwatch,Imagine Marketing,326340.0
+2025-02-01,Smartwatch,Imagine Marketing,301399.0
+2025-03-01,Smartwatch,Imagine Marketing,201854.0
+2025-04-01,Smartwatch,Imagine Marketing,276744.0
+2025-05-01,Smartwatch,Imagine Marketing,298103.0
+2025-06-01,Smartwatch,Imagine Marketing,336514.0
+2025-07-01,Smartwatch,Imagine Marketing,355885.0
+2025-08-01,Smartwatch,Imagine Marketing,746200.0
+2025-09-01,Smartwatch,Imagine Marketing,556888.0
+2025-10-01,Smartwatch,Imagine Marketing,255700.0
+2025-11-01,Smartwatch,Imagine Marketing,222584.0
+2025-12-01,Smartwatch,Imagine Marketing,205090.0
+2026-01-01,Smartwatch,Imagine Marketing,288043.0
+2026-02-01,Smartwatch,Imagine Marketing,295006.0
+2026-03-01,Smartwatch,Imagine Marketing,264536.0
+2021-11-01,Smartwatch,Intex,2378.0
+2021-12-01,Smartwatch,Intex,2765.0
+2022-01-01,Smartwatch,Intex,3121.0
+2022-02-01,Smartwatch,Intex,3212.0
+2022-03-01,Smartwatch,Intex,4555.0
+2022-04-01,Smartwatch,Intex,6845.0
+2022-06-01,Smartwatch,Intex,2987.0
+2022-07-01,Smartwatch,Intex,6577.0
+2022-11-01,Smartwatch,Intex,14895.0
+2022-12-01,Smartwatch,Intex,66.0
+2023-01-01,Smartwatch,Intex,152.0
+2023-04-01,Smartwatch,Intex,1234.0
+2022-12-01,Smartwatch,LVMH,163.0
+2023-06-01,Smartwatch,LVMH,13.0
+2024-07-01,Smartwatch,LVMH,11.0
+2024-10-01,Smartwatch,LVMH,6.0
+2025-12-01,Smartwatch,LVMH,50.0
+2020-11-01,Smartwatch,Lenovo,3775.0
+2026-01-01,Smartwatch,Lenovo,12890.0
+2026-02-01,Smartwatch,Lenovo,6279.0
+2026-03-01,Smartwatch,Lenovo,1429.0
+2022-11-01,Smartwatch,Mivi,24979.0
+2022-12-01,Smartwatch,Mivi,21808.0
+2023-05-01,Smartwatch,Mobvoi,80.0
+2023-06-01,Smartwatch,Mobvoi,11.0
+2023-08-01,Smartwatch,Mobvoi,25.0
+2023-09-01,Smartwatch,Mobvoi,14.0
+2023-10-01,Smartwatch,Mobvoi,422.0
+2023-11-01,Smartwatch,Mobvoi,145.0
+2023-12-01,Smartwatch,Mobvoi,51.0
+2024-01-01,Smartwatch,Mobvoi,23.0
+2024-02-01,Smartwatch,Mobvoi,43.0
+2024-03-01,Smartwatch,Mobvoi,33.0
+2024-04-01,Smartwatch,Mobvoi,77.0
+2024-05-01,Smartwatch,Mobvoi,30.0
+2024-06-01,Smartwatch,Mobvoi,73.0
+2024-07-01,Smartwatch,Mobvoi,27.0
+2024-08-01,Smartwatch,Mobvoi,28.0
+2024-09-01,Smartwatch,Mobvoi,95.0
+2024-10-01,Smartwatch,Mobvoi,98.0
+2024-11-01,Smartwatch,Mobvoi,18.0
+2024-12-01,Smartwatch,Mobvoi,33.0
+2025-01-01,Smartwatch,Mobvoi,27.0
+2025-02-01,Smartwatch,Mobvoi,8.0
+2025-03-01,Smartwatch,Mobvoi,5.0
+2025-04-01,Smartwatch,Mobvoi,11.0
+2025-05-01,Smartwatch,Mobvoi,8.0
+2025-06-01,Smartwatch,Mobvoi,10.0
+2025-07-01,Smartwatch,Mobvoi,13.0
+2025-08-01,Smartwatch,Mobvoi,14.0
+2025-09-01,Smartwatch,Mobvoi,15.0
+2023-06-01,Smartwatch,Montblanc,2.0
+2023-07-01,Smartwatch,Montblanc,8.0
+2023-09-01,Smartwatch,Montblanc,11.0
+2023-10-01,Smartwatch,Montblanc,6.0
+2023-11-01,Smartwatch,Montblanc,3.0
+2024-03-01,Smartwatch,Montblanc,2.0
+2024-06-01,Smartwatch,Montblanc,4.0
+2024-07-01,Smartwatch,Montblanc,3.0
+2024-08-01,Smartwatch,Montblanc,14.0
+2024-09-01,Smartwatch,Montblanc,2.0
+2024-10-01,Smartwatch,Montblanc,5.0
+2024-11-01,Smartwatch,Montblanc,2.0
+2025-03-01,Smartwatch,Montblanc,2.0
+2025-04-01,Smartwatch,Montblanc,2.0
+2025-06-01,Smartwatch,Montblanc,2.0
+2024-12-01,Smartwatch,Muse,3500.0
+2020-01-01,Smartwatch,Nexxbase,20000.0
+2020-02-01,Smartwatch,Nexxbase,5000.0
+2020-03-01,Smartwatch,Nexxbase,7880.0
+2020-05-01,Smartwatch,Nexxbase,44010.0
+2020-06-01,Smartwatch,Nexxbase,27990.0
+2020-07-01,Smartwatch,Nexxbase,53950.0
+2020-08-01,Smartwatch,Nexxbase,128490.0
+2020-09-01,Smartwatch,Nexxbase,38900.0
+2020-10-01,Smartwatch,Nexxbase,156808.0
+2020-11-01,Smartwatch,Nexxbase,80733.0
+2020-12-01,Smartwatch,Nexxbase,84255.0
+2021-01-01,Smartwatch,Nexxbase,75774.0
+2021-02-01,Smartwatch,Nexxbase,145196.0
+2021-03-01,Smartwatch,Nexxbase,146579.0
+2021-04-01,Smartwatch,Nexxbase,150302.0
+2021-05-01,Smartwatch,Nexxbase,113829.0
+2021-06-01,Smartwatch,Nexxbase,195502.0
+2021-07-01,Smartwatch,Nexxbase,247736.0
+2021-08-01,Smartwatch,Nexxbase,194027.0
+2021-09-01,Smartwatch,Nexxbase,677456.0
+2021-10-01,Smartwatch,Nexxbase,488334.0
+2021-11-01,Smartwatch,Nexxbase,302398.0
+2021-12-01,Smartwatch,Nexxbase,568803.0
+2022-01-01,Smartwatch,Nexxbase,249578.0
+2022-02-01,Smartwatch,Nexxbase,270861.0
+2022-03-01,Smartwatch,Nexxbase,351296.0
+2022-04-01,Smartwatch,Nexxbase,468363.0
+2022-05-01,Smartwatch,Nexxbase,505041.0
+2022-06-01,Smartwatch,Nexxbase,849505.0
+2022-07-01,Smartwatch,Nexxbase,663759.0
+2022-08-01,Smartwatch,Nexxbase,1205838.0
+2022-09-01,Smartwatch,Nexxbase,1673189.0
+2022-10-01,Smartwatch,Nexxbase,741896.0
+2022-11-01,Smartwatch,Nexxbase,647265.0
+2022-12-01,Smartwatch,Nexxbase,724105.0
+2023-01-01,Smartwatch,Nexxbase,849499.0
+2023-02-01,Smartwatch,Nexxbase,785746.0
+2023-03-01,Smartwatch,Nexxbase,610321.0
+2023-04-01,Smartwatch,Nexxbase,1107477.0
+2023-05-01,Smartwatch,Nexxbase,1260332.0
+2023-06-01,Smartwatch,Nexxbase,1154434.0
+2023-07-01,Smartwatch,Nexxbase,1041724.0
+2023-08-01,Smartwatch,Nexxbase,847361.0
+2023-09-01,Smartwatch,Nexxbase,1614483.0
+2023-10-01,Smartwatch,Nexxbase,934393.0
+2023-11-01,Smartwatch,Nexxbase,556301.0
+2023-12-01,Smartwatch,Nexxbase,1037736.0
+2024-01-01,Smartwatch,Nexxbase,694997.0
+2024-02-01,Smartwatch,Nexxbase,699678.0
+2024-03-01,Smartwatch,Nexxbase,803151.0
+2024-04-01,Smartwatch,Nexxbase,885047.0
+2024-05-01,Smartwatch,Nexxbase,771790.0
+2024-06-01,Smartwatch,Nexxbase,722441.0
+2024-07-01,Smartwatch,Nexxbase,708168.0
+2024-08-01,Smartwatch,Nexxbase,700604.0
+2024-09-01,Smartwatch,Nexxbase,1154315.0
+2024-10-01,Smartwatch,Nexxbase,694926.0
+2024-11-01,Smartwatch,Nexxbase,448893.0
+2024-12-01,Smartwatch,Nexxbase,542757.0
+2025-01-01,Smartwatch,Nexxbase,556206.0
+2025-02-01,Smartwatch,Nexxbase,649957.0
+2025-03-01,Smartwatch,Nexxbase,604192.0
+2025-04-01,Smartwatch,Nexxbase,698788.0
+2025-05-01,Smartwatch,Nexxbase,679270.0
+2025-06-01,Smartwatch,Nexxbase,673421.0
+2025-07-01,Smartwatch,Nexxbase,653720.0
+2025-08-01,Smartwatch,Nexxbase,1006658.0
+2025-09-01,Smartwatch,Nexxbase,613211.0
+2025-10-01,Smartwatch,Nexxbase,696296.0
+2025-11-01,Smartwatch,Nexxbase,431868.0
+2025-12-01,Smartwatch,Nexxbase,415021.0
+2026-01-01,Smartwatch,Nexxbase,546231.0
+2026-02-01,Smartwatch,Nexxbase,406627.0
+2026-03-01,Smartwatch,Nexxbase,412256.0
+2023-09-01,Smartwatch,Nothing,24201.0
+2023-10-01,Smartwatch,Nothing,20988.0
+2023-11-01,Smartwatch,Nothing,2868.0
+2024-01-01,Smartwatch,Nothing,7800.0
+2024-02-01,Smartwatch,Nothing,1600.0
+2024-03-01,Smartwatch,Nothing,5676.0
+2024-04-01,Smartwatch,Nothing,2674.0
+2024-05-01,Smartwatch,Nothing,10336.0
+2024-06-01,Smartwatch,Nothing,40519.0
+2024-08-01,Smartwatch,Nothing,47160.0
+2024-09-01,Smartwatch,Nothing,66840.0
+2024-10-01,Smartwatch,Nothing,10496.0
+2024-11-01,Smartwatch,Nothing,7912.0
+2024-12-01,Smartwatch,Nothing,3392.0
+2025-01-01,Smartwatch,Nothing,11480.0
+2025-02-01,Smartwatch,Nothing,6668.0
+2025-03-01,Smartwatch,Nothing,8432.0
+2025-04-01,Smartwatch,Nothing,8909.0
+2025-05-01,Smartwatch,Nothing,12408.0
+2025-06-01,Smartwatch,Nothing,8803.0
+2025-07-01,Smartwatch,Nothing,10854.0
+2025-08-01,Smartwatch,Nothing,37590.0
+2025-09-01,Smartwatch,Nothing,14535.0
+2025-10-01,Smartwatch,Nothing,22724.0
+2025-11-01,Smartwatch,Nothing,9985.0
+2025-12-01,Smartwatch,Nothing,6250.0
+2026-01-01,Smartwatch,Nothing,4309.0
+2026-02-01,Smartwatch,Nothing,10385.0
+2026-03-01,Smartwatch,Nothing,5724.0
+2020-05-01,Smartwatch,OPPO,12045.0
+2020-06-01,Smartwatch,OPPO,48087.0
+2020-07-01,Smartwatch,OPPO,83145.0
+2020-08-01,Smartwatch,OPPO,64479.0
+2020-09-01,Smartwatch,OPPO,55214.0
+2020-10-01,Smartwatch,OPPO,66600.0
+2020-11-01,Smartwatch,OPPO,35545.00000000002
+2020-12-01,Smartwatch,OPPO,85925.0
+2021-01-01,Smartwatch,OPPO,64839.0
+2021-02-01,Smartwatch,OPPO,44325.0
+2021-03-01,Smartwatch,OPPO,36150.0
+2021-04-01,Smartwatch,OPPO,40901.0
+2021-05-01,Smartwatch,OPPO,26712.0
+2021-06-01,Smartwatch,OPPO,38313.0
+2021-07-01,Smartwatch,OPPO,84096.0
+2021-08-01,Smartwatch,OPPO,90133.0
+2021-09-01,Smartwatch,OPPO,168653.0
+2021-10-01,Smartwatch,OPPO,113626.0
+2021-11-01,Smartwatch,OPPO,35054.0
+2021-12-01,Smartwatch,OPPO,44717.0
+2022-01-01,Smartwatch,OPPO,24005.0
+2022-02-01,Smartwatch,OPPO,26087.0
+2022-03-01,Smartwatch,OPPO,81311.0
+2022-04-01,Smartwatch,OPPO,48987.0
+2022-05-01,Smartwatch,OPPO,59670.0
+2022-06-01,Smartwatch,OPPO,47195.0
+2022-07-01,Smartwatch,OPPO,57609.0
+2022-08-01,Smartwatch,OPPO,65274.0
+2022-09-01,Smartwatch,OPPO,115011.0
+2022-10-01,Smartwatch,OPPO,78100.0
+2022-11-01,Smartwatch,OPPO,34695.0
+2022-12-01,Smartwatch,OPPO,42228.0
+2023-01-01,Smartwatch,OPPO,8571.0
+2023-02-01,Smartwatch,OPPO,6299.0
+2023-03-01,Smartwatch,OPPO,9196.0
+2023-04-01,Smartwatch,OPPO,21485.0
+2023-05-01,Smartwatch,OPPO,39205.0
+2023-06-01,Smartwatch,OPPO,64560.0
+2023-07-01,Smartwatch,OPPO,9885.0
+2023-08-01,Smartwatch,OPPO,7470.0
+2023-09-01,Smartwatch,OPPO,3997.0
+2023-10-01,Smartwatch,OPPO,2664.0
+2023-11-01,Smartwatch,OPPO,852.0
+2024-02-01,Smartwatch,OPPO,17136.0
+2024-03-01,Smartwatch,OPPO,9517.0
+2024-04-01,Smartwatch,OPPO,4479.0
+2024-05-01,Smartwatch,OPPO,3070.0
+2024-06-01,Smartwatch,OPPO,646.0
+2024-07-01,Smartwatch,OPPO,27300.0
+2024-08-01,Smartwatch,OPPO,49226.0
+2024-09-01,Smartwatch,OPPO,16250.0
+2024-10-01,Smartwatch,OPPO,5250.0
+2025-04-01,Smartwatch,OPPO,240.0
+2025-05-01,Smartwatch,OPPO,1600.0
+2025-06-01,Smartwatch,OPPO,850.0
+2025-07-01,Smartwatch,OPPO,11150.0
+2025-08-01,Smartwatch,OPPO,24650.0
+2025-09-01,Smartwatch,OPPO,3653.0
+2025-10-01,Smartwatch,OPPO,14000.0
+2025-11-01,Smartwatch,OPPO,950.0
+2025-12-01,Smartwatch,OPPO,19198.0
+2026-01-01,Smartwatch,OPPO,5300.0
+2026-02-01,Smartwatch,OPPO,2995.0
+2026-03-01,Smartwatch,OPPO,949.0
+2020-01-01,Smartwatch,Others,8573.0
+2020-02-01,Smartwatch,Others,5632.0
+2020-03-01,Smartwatch,Others,4612.0
+2020-05-01,Smartwatch,Others,3129.0
+2020-06-01,Smartwatch,Others,4873.0
+2020-07-01,Smartwatch,Others,2948.0
+2020-08-01,Smartwatch,Others,2485.0
+2020-09-01,Smartwatch,Others,1970.0
+2020-10-01,Smartwatch,Others,3552.0
+2020-11-01,Smartwatch,Others,3839.0
+2020-12-01,Smartwatch,Others,29541.0
+2021-01-01,Smartwatch,Others,23046.0
+2021-02-01,Smartwatch,Others,42434.0
+2021-03-01,Smartwatch,Others,50633.0
+2021-04-01,Smartwatch,Others,42121.0
+2021-05-01,Smartwatch,Others,41933.0
+2021-06-01,Smartwatch,Others,14636.0
+2021-07-01,Smartwatch,Others,41663.0
+2021-08-01,Smartwatch,Others,37608.0
+2021-09-01,Smartwatch,Others,100996.0
+2021-10-01,Smartwatch,Others,163161.0
+2021-11-01,Smartwatch,Others,67331.0
+2021-12-01,Smartwatch,Others,82191.0
+2022-01-01,Smartwatch,Others,101543.0
+2022-02-01,Smartwatch,Others,71913.0
+2022-03-01,Smartwatch,Others,75493.0
+2022-04-01,Smartwatch,Others,121979.0
+2022-05-01,Smartwatch,Others,107766.0
+2022-06-01,Smartwatch,Others,147192.0
+2022-07-01,Smartwatch,Others,200945.0
+2022-08-01,Smartwatch,Others,189618.0
+2022-09-01,Smartwatch,Others,356806.0
+2022-10-01,Smartwatch,Others,270019.0
+2022-11-01,Smartwatch,Others,173716.0
+2022-12-01,Smartwatch,Others,609578.0
+2023-01-01,Smartwatch,Others,402650.0
+2023-02-01,Smartwatch,Others,442564.0
+2023-03-01,Smartwatch,Others,349916.0
+2023-04-01,Smartwatch,Others,463583.0
+2023-05-01,Smartwatch,Others,574847.0
+2023-06-01,Smartwatch,Others,807209.0
+2023-07-01,Smartwatch,Others,1376650.0
+2023-08-01,Smartwatch,Others,926462.0
+2023-09-01,Smartwatch,Others,1129982.0
+2023-10-01,Smartwatch,Others,847045.0
+2023-11-01,Smartwatch,Others,764464.0
+2023-12-01,Smartwatch,Others,1345655.0
+2024-01-01,Smartwatch,Others,1266856.0
+2024-02-01,Smartwatch,Others,562734.0
+2024-03-01,Smartwatch,Others,357004.0
+2024-04-01,Smartwatch,Others,299322.0
+2024-05-01,Smartwatch,Others,378645.0
+2024-06-01,Smartwatch,Others,657989.0
+2024-07-01,Smartwatch,Others,476808.0
+2024-08-01,Smartwatch,Others,539166.0
+2024-09-01,Smartwatch,Others,386442.0
+2024-10-01,Smartwatch,Others,789874.0
+2024-11-01,Smartwatch,Others,428111.0
+2024-12-01,Smartwatch,Others,513509.0
+2025-01-01,Smartwatch,Others,756436.0
+2025-02-01,Smartwatch,Others,660091.0
+2025-03-01,Smartwatch,Others,308882.0
+2025-04-01,Smartwatch,Others,506211.0
+2025-05-01,Smartwatch,Others,602163.0
+2025-06-01,Smartwatch,Others,474348.0
+2025-07-01,Smartwatch,Others,638715.0
+2025-08-01,Smartwatch,Others,795563.0
+2025-09-01,Smartwatch,Others,707713.0
+2025-10-01,Smartwatch,Others,605958.0
+2025-11-01,Smartwatch,Others,310134.0
+2025-12-01,Smartwatch,Others,553260.0
+2026-01-01,Smartwatch,Others,709273.0
+2026-02-01,Smartwatch,Others,487522.0
+2026-03-01,Smartwatch,Others,622787.0
+2021-06-01,Smartwatch,Palred,4999.999999999999
+2021-10-01,Smartwatch,Palred,10213.0
+2021-11-01,Smartwatch,Palred,3021.0
+2022-01-01,Smartwatch,Palred,4990.0
+2022-05-01,Smartwatch,Palred,3997.0
+2022-06-01,Smartwatch,Palred,20986.0
+2022-08-01,Smartwatch,Palred,9876.0
+2022-09-01,Smartwatch,Palred,29897.0
+2022-10-01,Smartwatch,Palred,19987.0
+2022-11-01,Smartwatch,Palred,39777.0
+2022-12-01,Smartwatch,Palred,39552.0
+2023-01-01,Smartwatch,Palred,19877.0
+2023-02-01,Smartwatch,Palred,27870.0
+2023-03-01,Smartwatch,Palred,11994.0
+2023-04-01,Smartwatch,Palred,9877.0
+2023-05-01,Smartwatch,Palred,24789.0
+2023-06-01,Smartwatch,Palred,9455.0
+2023-07-01,Smartwatch,Palred,29988.0
+2023-09-01,Smartwatch,Palred,24995.0
+2023-10-01,Smartwatch,Palred,30203.0
+2023-11-01,Smartwatch,Palred,14836.0
+2023-12-01,Smartwatch,Palred,8108.0
+2024-06-01,Smartwatch,Palred,5020.0
+2024-09-01,Smartwatch,Palred,4543.0
+2024-12-01,Smartwatch,Palred,5652.0
+2023-01-01,Smartwatch,Play,34260.0
+2023-02-01,Smartwatch,Play,30279.0
+2023-03-01,Smartwatch,Play,3379.0
+2023-05-01,Smartwatch,Play,12278.0
+2023-06-01,Smartwatch,Play,38655.0
+2023-08-01,Smartwatch,Play,15832.0
+2023-09-01,Smartwatch,Play,7018.0
+2023-10-01,Smartwatch,Play,5542.0
+2023-12-01,Smartwatch,Play,9220.0
+2025-01-01,Smartwatch,Polar,45.0
+2025-02-01,Smartwatch,Polar,30.0
+2025-03-01,Smartwatch,Polar,15.0
+2025-04-01,Smartwatch,Polar,160.0
+2025-05-01,Smartwatch,Polar,99.0
+2025-06-01,Smartwatch,Polar,35.0
+2025-07-01,Smartwatch,Polar,184.0
+2025-08-01,Smartwatch,Polar,199.0
+2025-09-01,Smartwatch,Polar,168.0
+2025-12-01,Smartwatch,Polar,52.0
+2026-01-01,Smartwatch,Polar,3.0
+2026-02-01,Smartwatch,Polar,52.0
+2026-03-01,Smartwatch,Polar,24.0
+2020-01-01,Smartwatch,Portronics,1000.0
+2020-02-01,Smartwatch,Portronics,1000.0
+2020-05-01,Smartwatch,Portronics,2002.0
+2020-06-01,Smartwatch,Portronics,800.0
+2020-07-01,Smartwatch,Portronics,1500.0
+2020-08-01,Smartwatch,Portronics,500.0
+2020-09-01,Smartwatch,Portronics,3500.0
+2020-10-01,Smartwatch,Portronics,9500.0
+2020-11-01,Smartwatch,Portronics,10000.0
+2020-12-01,Smartwatch,Portronics,5000.0
+2021-01-01,Smartwatch,Portronics,2190.0
+2021-07-01,Smartwatch,Portronics,4770.0
+2021-09-01,Smartwatch,Portronics,1340.0
+2021-12-01,Smartwatch,Portronics,5654.0
+2022-01-01,Smartwatch,Portronics,9466.0
+2022-02-01,Smartwatch,Portronics,6788.0
+2022-03-01,Smartwatch,Portronics,10358.0
+2022-04-01,Smartwatch,Portronics,4979.0
+2022-05-01,Smartwatch,Portronics,6547.0
+2022-08-01,Smartwatch,Portronics,10004.0
+2022-09-01,Smartwatch,Portronics,17576.0
+2022-11-01,Smartwatch,Portronics,19987.0
+2022-12-01,Smartwatch,Portronics,2324.0
+2023-01-01,Smartwatch,Portronics,2235.0
+2023-02-01,Smartwatch,Portronics,1623.0
+2023-05-01,Smartwatch,Portronics,6644.0
+2023-09-01,Smartwatch,Portronics,7378.0
+2023-12-01,Smartwatch,Portronics,397.0
+2024-01-01,Smartwatch,Portronics,1151.0
+2024-06-01,Smartwatch,Portronics,207.0
+2024-03-01,Smartwatch,RD,2424.0
+2020-01-01,Smartwatch,SRK Powertech,5649.0
+2020-02-01,Smartwatch,SRK Powertech,2742.0
+2020-03-01,Smartwatch,SRK Powertech,2014.0
+2020-05-01,Smartwatch,SRK Powertech,5000.0
+2020-06-01,Smartwatch,SRK Powertech,6000.0
+2020-08-01,Smartwatch,SRK Powertech,1435.0
+2020-09-01,Smartwatch,SRK Powertech,447.0
+2020-10-01,Smartwatch,SRK Powertech,5324.0
+2020-11-01,Smartwatch,SRK Powertech,14114.0
+2020-12-01,Smartwatch,SRK Powertech,5985.0
+2021-01-01,Smartwatch,SRK Powertech,7998.0
+2021-02-01,Smartwatch,SRK Powertech,4010.0
+2021-03-01,Smartwatch,SRK Powertech,9590.0
+2021-04-01,Smartwatch,SRK Powertech,17032.0
+2021-05-01,Smartwatch,SRK Powertech,4997.0
+2021-06-01,Smartwatch,SRK Powertech,5999.000000000001
+2021-07-01,Smartwatch,SRK Powertech,15424.0
+2021-08-01,Smartwatch,SRK Powertech,40082.0
+2021-09-01,Smartwatch,SRK Powertech,37388.0
+2021-10-01,Smartwatch,SRK Powertech,56797.0
+2021-11-01,Smartwatch,SRK Powertech,12752.0
+2021-12-01,Smartwatch,SRK Powertech,64912.0
+2022-01-01,Smartwatch,SRK Powertech,42987.0
+2022-02-01,Smartwatch,SRK Powertech,21702.0
+2022-03-01,Smartwatch,SRK Powertech,22750.0
+2022-04-01,Smartwatch,SRK Powertech,7975.0
+2022-05-01,Smartwatch,SRK Powertech,48365.0
+2022-06-01,Smartwatch,SRK Powertech,32918.0
+2022-07-01,Smartwatch,SRK Powertech,86514.0
+2022-08-01,Smartwatch,SRK Powertech,48341.0
+2022-09-01,Smartwatch,SRK Powertech,95366.0
+2022-10-01,Smartwatch,SRK Powertech,91047.0
+2022-11-01,Smartwatch,SRK Powertech,94520.0
+2022-12-01,Smartwatch,SRK Powertech,94615.0
+2023-01-01,Smartwatch,SRK Powertech,86576.0
+2023-02-01,Smartwatch,SRK Powertech,62008.0
+2023-03-01,Smartwatch,SRK Powertech,102625.0
+2023-04-01,Smartwatch,SRK Powertech,100487.0
+2023-05-01,Smartwatch,SRK Powertech,98202.0
+2023-06-01,Smartwatch,SRK Powertech,111488.0
+2023-07-01,Smartwatch,SRK Powertech,126401.0
+2023-08-01,Smartwatch,SRK Powertech,131198.0
+2023-09-01,Smartwatch,SRK Powertech,156545.0
+2023-10-01,Smartwatch,SRK Powertech,129132.0
+2023-11-01,Smartwatch,SRK Powertech,75033.0
+2023-12-01,Smartwatch,SRK Powertech,75851.0
+2024-01-01,Smartwatch,SRK Powertech,100203.0
+2024-02-01,Smartwatch,SRK Powertech,50121.0
+2024-03-01,Smartwatch,SRK Powertech,145703.0
+2024-04-01,Smartwatch,SRK Powertech,130306.0
+2024-05-01,Smartwatch,SRK Powertech,53891.0
+2024-06-01,Smartwatch,SRK Powertech,165465.0
+2024-07-01,Smartwatch,SRK Powertech,103959.0
+2024-08-01,Smartwatch,SRK Powertech,101564.0
+2024-09-01,Smartwatch,SRK Powertech,144040.0
+2024-10-01,Smartwatch,SRK Powertech,58532.0
+2024-11-01,Smartwatch,SRK Powertech,34837.0
+2024-12-01,Smartwatch,SRK Powertech,222352.0
+2025-01-01,Smartwatch,SRK Powertech,39990.0
+2025-02-01,Smartwatch,SRK Powertech,39645.0
+2025-03-01,Smartwatch,SRK Powertech,29424.0
+2025-04-01,Smartwatch,SRK Powertech,36206.0
+2025-05-01,Smartwatch,SRK Powertech,58774.0
+2025-06-01,Smartwatch,SRK Powertech,55897.0
+2025-07-01,Smartwatch,SRK Powertech,51004.0
+2025-08-01,Smartwatch,SRK Powertech,57587.0
+2025-09-01,Smartwatch,SRK Powertech,57661.0
+2025-10-01,Smartwatch,SRK Powertech,62700.0
+2025-11-01,Smartwatch,SRK Powertech,59579.0
+2025-12-01,Smartwatch,SRK Powertech,59400.0
+2026-01-01,Smartwatch,SRK Powertech,60891.0
+2026-02-01,Smartwatch,SRK Powertech,61500.0
+2026-03-01,Smartwatch,SRK Powertech,62200.0
+2020-01-01,Smartwatch,Samsung,3370.0
+2020-02-01,Smartwatch,Samsung,4285.0
+2020-03-01,Smartwatch,Samsung,5565.0
+2020-05-01,Smartwatch,Samsung,1459.0
+2020-06-01,Smartwatch,Samsung,3151.0
+2020-07-01,Smartwatch,Samsung,2022.0
+2020-08-01,Smartwatch,Samsung,19848.0
+2020-09-01,Smartwatch,Samsung,6497.0
+2020-10-01,Smartwatch,Samsung,25193.0
+2020-11-01,Smartwatch,Samsung,18171.0
+2020-12-01,Smartwatch,Samsung,15118.0
+2021-01-01,Smartwatch,Samsung,27680.0
+2021-02-01,Smartwatch,Samsung,28782.0
+2021-03-01,Smartwatch,Samsung,13538.0
+2021-04-01,Smartwatch,Samsung,25306.0
+2021-05-01,Smartwatch,Samsung,9655.0
+2021-06-01,Smartwatch,Samsung,9310.0
+2021-07-01,Smartwatch,Samsung,7533.0
+2021-08-01,Smartwatch,Samsung,7919.0
+2021-09-01,Smartwatch,Samsung,90097.0
+2021-10-01,Smartwatch,Samsung,43303.0
+2021-11-01,Smartwatch,Samsung,25371.0
+2021-12-01,Smartwatch,Samsung,28297.0
+2022-01-01,Smartwatch,Samsung,12309.0
+2022-02-01,Smartwatch,Samsung,33941.0
+2022-03-01,Smartwatch,Samsung,73873.0
+2022-04-01,Smartwatch,Samsung,80631.0
+2022-05-01,Smartwatch,Samsung,45661.0
+2022-06-01,Smartwatch,Samsung,63557.0
+2022-07-01,Smartwatch,Samsung,102515.0
+2022-08-01,Smartwatch,Samsung,80960.0
+2022-09-01,Smartwatch,Samsung,155230.0
+2022-10-01,Smartwatch,Samsung,81547.0
+2022-11-01,Smartwatch,Samsung,3837.0
+2022-12-01,Smartwatch,Samsung,73024.0
+2023-01-01,Smartwatch,Samsung,59020.0
+2023-02-01,Smartwatch,Samsung,81504.0
+2023-03-01,Smartwatch,Samsung,29986.0
+2023-04-01,Smartwatch,Samsung,70052.0
+2023-05-01,Smartwatch,Samsung,28893.0
+2023-06-01,Smartwatch,Samsung,11277.0
+2023-07-01,Smartwatch,Samsung,21912.0
+2023-08-01,Smartwatch,Samsung,29745.0
+2023-09-01,Smartwatch,Samsung,128381.0
+2023-10-01,Smartwatch,Samsung,26400.0
+2023-11-01,Smartwatch,Samsung,28969.0
+2023-12-01,Smartwatch,Samsung,5309.0
+2024-01-01,Smartwatch,Samsung,6830.0
+2024-02-01,Smartwatch,Samsung,25847.0
+2024-03-01,Smartwatch,Samsung,16096.0
+2024-04-01,Smartwatch,Samsung,13896.0
+2024-05-01,Smartwatch,Samsung,10533.0
+2024-06-01,Smartwatch,Samsung,56387.0
+2024-07-01,Smartwatch,Samsung,15146.0
+2024-08-01,Smartwatch,Samsung,49636.0
+2024-09-01,Smartwatch,Samsung,34861.0
+2024-10-01,Smartwatch,Samsung,14712.0
+2024-11-01,Smartwatch,Samsung,11630.0
+2024-12-01,Smartwatch,Samsung,5627.0
+2025-01-01,Smartwatch,Samsung,15606.0
+2025-02-01,Smartwatch,Samsung,4182.0
+2025-03-01,Smartwatch,Samsung,22805.0
+2025-04-01,Smartwatch,Samsung,20556.0
+2025-05-01,Smartwatch,Samsung,25889.0
+2025-06-01,Smartwatch,Samsung,20475.0
+2025-07-01,Smartwatch,Samsung,42806.0
+2025-08-01,Smartwatch,Samsung,57093.0
+2025-09-01,Smartwatch,Samsung,18101.0
+2025-10-01,Smartwatch,Samsung,8212.0
+2025-11-01,Smartwatch,Samsung,8274.0
+2025-12-01,Smartwatch,Samsung,23514.0
+2026-01-01,Smartwatch,Samsung,8749.0
+2026-02-01,Smartwatch,Samsung,1946.0
+2026-03-01,Smartwatch,Samsung,1872.0
+2023-10-01,Smartwatch,Shkod,4987.0
+2024-01-01,Smartwatch,Shkod,14700.0
+2024-02-01,Smartwatch,Shkod,21900.0
+2024-03-01,Smartwatch,Shkod,7545.0
+2024-04-01,Smartwatch,Shkod,2000.0
+2024-05-01,Smartwatch,Shkod,3000.0
+2024-06-01,Smartwatch,Shkod,14300.0
+2024-07-01,Smartwatch,Shkod,6000.0
+2024-08-01,Smartwatch,Shkod,16400.0
+2024-09-01,Smartwatch,Shkod,9600.0
+2024-10-01,Smartwatch,Shkod,6300.0
+2024-11-01,Smartwatch,Shkod,3700.0
+2024-12-01,Smartwatch,Shkod,9000.0
+2025-01-01,Smartwatch,Shkod,5250.0
+2025-02-01,Smartwatch,Shkod,16250.0
+2025-03-01,Smartwatch,Shkod,11200.0
+2025-06-01,Smartwatch,Shkod,18841.0
+2025-07-01,Smartwatch,Shkod,15000.0
+2025-09-01,Smartwatch,Shkod,6347.0
+2021-08-01,Smartwatch,Suunto,225.0
+2022-03-01,Smartwatch,Suunto,45.0
+2022-04-01,Smartwatch,Suunto,15.0
+2024-06-01,Smartwatch,Suunto,44.0
+2024-09-01,Smartwatch,Suunto,31.0
+2024-10-01,Smartwatch,Suunto,9.0
+2025-01-01,Smartwatch,Suunto,21.0
+2025-02-01,Smartwatch,Suunto,25.0
+2025-03-01,Smartwatch,Suunto,19.0
+2025-04-01,Smartwatch,Suunto,20.0
+2025-05-01,Smartwatch,Suunto,26.0
+2025-06-01,Smartwatch,Suunto,10.0
+2025-07-01,Smartwatch,Suunto,38.0
+2025-09-01,Smartwatch,Suunto,39.0
+2025-10-01,Smartwatch,Suunto,35.0
+2025-11-01,Smartwatch,Suunto,18.0
+2025-12-01,Smartwatch,Suunto,25.0
+2026-02-01,Smartwatch,Suunto,35.0
+2020-07-01,Smartwatch,Syska,1060.0
+2020-08-01,Smartwatch,Syska,239.0
+2020-09-01,Smartwatch,Syska,893.0
+2020-10-01,Smartwatch,Syska,2477.0
+2020-11-01,Smartwatch,Syska,2903.0
+2020-12-01,Smartwatch,Syska,7990.0
+2021-01-01,Smartwatch,Syska,9903.0
+2021-03-01,Smartwatch,Syska,9804.0
+2021-06-01,Smartwatch,Syska,9999.0
+2021-07-01,Smartwatch,Syska,8504.0
+2021-10-01,Smartwatch,Syska,8766.0
+2021-11-01,Smartwatch,Syska,6454.0
+2021-12-01,Smartwatch,Syska,4343.0
+2022-05-01,Smartwatch,Syska,2990.0
+2022-06-01,Smartwatch,Syska,18100.0
+2022-08-01,Smartwatch,Syska,8040.0
+2022-10-01,Smartwatch,Syska,19983.0
+2022-11-01,Smartwatch,Syska,1890.0
+2022-12-01,Smartwatch,Syska,10500.0
+2023-01-01,Smartwatch,Syska,27458.0
+2023-02-01,Smartwatch,Syska,2460.0
+2023-03-01,Smartwatch,Syska,4860.0
+2023-04-01,Smartwatch,Syska,5244.0
+2020-01-01,Smartwatch,Timex,5532.0
+2020-02-01,Smartwatch,Timex,5165.0
+2020-07-01,Smartwatch,Timex,2442.0
+2020-08-01,Smartwatch,Timex,993.0
+2020-09-01,Smartwatch,Timex,3000.0
+2020-11-01,Smartwatch,Timex,4729.0
+2021-04-01,Smartwatch,Timex,2091.0
+2021-07-01,Smartwatch,Timex,13975.0
+2021-08-01,Smartwatch,Timex,8970.0
+2021-09-01,Smartwatch,Timex,24022.0
+2021-10-01,Smartwatch,Timex,14990.0
+2021-11-01,Smartwatch,Timex,14744.0
+2021-12-01,Smartwatch,Timex,18145.0
+2022-01-01,Smartwatch,Timex,21648.0
+2022-02-01,Smartwatch,Timex,14138.0
+2022-03-01,Smartwatch,Timex,21028.0
+2022-04-01,Smartwatch,Timex,14364.0
+2022-05-01,Smartwatch,Timex,10574.0
+2022-06-01,Smartwatch,Timex,11046.0
+2022-07-01,Smartwatch,Timex,11753.0
+2022-08-01,Smartwatch,Timex,10753.0
+2022-09-01,Smartwatch,Timex,12957.0
+2022-10-01,Smartwatch,Timex,12437.0
+2022-11-01,Smartwatch,Timex,3470.0
+2022-12-01,Smartwatch,Timex,4569.0
+2023-01-01,Smartwatch,Timex,5559.0
+2023-02-01,Smartwatch,Timex,7017.0
+2023-03-01,Smartwatch,Timex,8255.0
+2023-04-01,Smartwatch,Timex,10166.0
+2023-05-01,Smartwatch,Timex,7837.0
+2023-06-01,Smartwatch,Timex,6571.0
+2023-07-01,Smartwatch,Timex,6046.0
+2023-08-01,Smartwatch,Timex,1193.0
+2023-09-01,Smartwatch,Timex,248.0
+2023-10-01,Smartwatch,Timex,4516.0
+2023-11-01,Smartwatch,Timex,2837.0
+2023-12-01,Smartwatch,Timex,7798.0
+2024-01-01,Smartwatch,Timex,5779.0
+2024-02-01,Smartwatch,Timex,20149.0
+2024-03-01,Smartwatch,Timex,5145.0
+2024-04-01,Smartwatch,Timex,11934.0
+2024-05-01,Smartwatch,Timex,5362.0
+2024-06-01,Smartwatch,Timex,10761.0
+2024-07-01,Smartwatch,Timex,9799.0
+2024-08-01,Smartwatch,Timex,4639.0
+2024-09-01,Smartwatch,Timex,14991.0
+2024-10-01,Smartwatch,Timex,9368.0
+2024-11-01,Smartwatch,Timex,24917.0
+2024-12-01,Smartwatch,Timex,5678.0
+2025-01-01,Smartwatch,Timex,4980.0
+2025-02-01,Smartwatch,Timex,11415.0
+2025-03-01,Smartwatch,Timex,7799.0
+2025-04-01,Smartwatch,Timex,13905.0
+2025-05-01,Smartwatch,Timex,4133.0
+2025-06-01,Smartwatch,Timex,9020.0
+2025-07-01,Smartwatch,Timex,5190.0
+2025-08-01,Smartwatch,Timex,7128.0
+2025-09-01,Smartwatch,Timex,1765.0
+2025-10-01,Smartwatch,Timex,14251.0
+2025-11-01,Smartwatch,Timex,3705.0
+2025-12-01,Smartwatch,Timex,6315.0
+2026-01-01,Smartwatch,Timex,5240.0
+2026-02-01,Smartwatch,Timex,3682.0
+2026-03-01,Smartwatch,Timex,8279.0
+2020-07-01,Smartwatch,Titan,1100.0
+2020-08-01,Smartwatch,Titan,5035.0
+2020-09-01,Smartwatch,Titan,2456.0
+2020-10-01,Smartwatch,Titan,1050.0
+2020-11-01,Smartwatch,Titan,3303.0
+2020-12-01,Smartwatch,Titan,3017.0
+2021-01-01,Smartwatch,Titan,2325.0
+2021-02-01,Smartwatch,Titan,1676.0
+2021-03-01,Smartwatch,Titan,1133.0
+2021-04-01,Smartwatch,Titan,901.0
+2021-05-01,Smartwatch,Titan,90.0
+2021-06-01,Smartwatch,Titan,757.0000000000001
+2021-07-01,Smartwatch,Titan,1289.0
+2021-08-01,Smartwatch,Titan,1899.0
+2021-09-01,Smartwatch,Titan,1250.0
+2021-10-01,Smartwatch,Titan,2680.0
+2021-11-01,Smartwatch,Titan,1431.0
+2021-12-01,Smartwatch,Titan,2202.0
+2022-01-01,Smartwatch,Titan,30667.0
+2022-02-01,Smartwatch,Titan,47460.0
+2022-03-01,Smartwatch,Titan,8325.0
+2022-04-01,Smartwatch,Titan,32370.0
+2022-05-01,Smartwatch,Titan,71057.0
+2022-06-01,Smartwatch,Titan,61861.0
+2022-07-01,Smartwatch,Titan,35191.0
+2022-08-01,Smartwatch,Titan,71270.0
+2022-09-01,Smartwatch,Titan,100791.0
+2022-10-01,Smartwatch,Titan,129201.0
+2022-11-01,Smartwatch,Titan,66640.0
+2022-12-01,Smartwatch,Titan,71323.0
+2023-01-01,Smartwatch,Titan,93529.0
+2023-02-01,Smartwatch,Titan,98932.0
+2023-03-01,Smartwatch,Titan,145648.0
+2023-04-01,Smartwatch,Titan,137585.0
+2023-05-01,Smartwatch,Titan,109231.0
+2023-06-01,Smartwatch,Titan,188111.0
+2023-07-01,Smartwatch,Titan,254428.0
+2023-08-01,Smartwatch,Titan,208328.0
+2023-09-01,Smartwatch,Titan,395045.0
+2023-10-01,Smartwatch,Titan,830177.0
+2023-11-01,Smartwatch,Titan,201450.0
+2023-12-01,Smartwatch,Titan,121376.0
+2024-01-01,Smartwatch,Titan,185592.0
+2024-02-01,Smartwatch,Titan,223800.0
+2024-03-01,Smartwatch,Titan,238680.0
+2024-04-01,Smartwatch,Titan,149694.0
+2024-05-01,Smartwatch,Titan,334214.0
+2024-06-01,Smartwatch,Titan,250530.0
+2024-07-01,Smartwatch,Titan,223740.0
+2024-08-01,Smartwatch,Titan,320373.0
+2024-09-01,Smartwatch,Titan,635445.0
+2024-10-01,Smartwatch,Titan,300199.0
+2024-11-01,Smartwatch,Titan,171176.0
+2024-12-01,Smartwatch,Titan,266598.0
+2025-01-01,Smartwatch,Titan,313613.0
+2025-02-01,Smartwatch,Titan,315761.0
+2025-03-01,Smartwatch,Titan,230249.0
+2025-04-01,Smartwatch,Titan,169478.0
+2025-05-01,Smartwatch,Titan,176012.0
+2025-06-01,Smartwatch,Titan,191554.0
+2025-07-01,Smartwatch,Titan,222236.0
+2025-08-01,Smartwatch,Titan,331827.0
+2025-09-01,Smartwatch,Titan,209474.0
+2025-10-01,Smartwatch,Titan,160860.0
+2025-11-01,Smartwatch,Titan,141869.0
+2025-12-01,Smartwatch,Titan,128599.0
+2026-01-01,Smartwatch,Titan,227967.0
+2026-02-01,Smartwatch,Titan,158732.0
+2026-03-01,Smartwatch,Titan,98296.0
+2020-01-01,Smartwatch,Transsion,7216.0
+2020-05-01,Smartwatch,Transsion,1200.0
+2020-09-01,Smartwatch,Transsion,3000.0
+2020-10-01,Smartwatch,Transsion,4200.0
+2020-12-01,Smartwatch,Transsion,3000.0
+2021-01-01,Smartwatch,Transsion,2999.0
+2021-02-01,Smartwatch,Transsion,1999.0
+2021-03-01,Smartwatch,Transsion,2003.0
+2021-04-01,Smartwatch,Transsion,3990.0
+2021-06-01,Smartwatch,Transsion,1999.0
+2021-07-01,Smartwatch,Transsion,6012.0
+2021-09-01,Smartwatch,Transsion,2985.0
+2021-10-01,Smartwatch,Transsion,8350.0
+2021-12-01,Smartwatch,Transsion,3323.0
+2022-01-01,Smartwatch,Transsion,1990.0
+2022-04-01,Smartwatch,Transsion,3021.0
+2022-05-01,Smartwatch,Transsion,1987.0
+2022-07-01,Smartwatch,Transsion,8992.0
+2022-08-01,Smartwatch,Transsion,3886.0
+2022-09-01,Smartwatch,Transsion,19766.0
+2022-10-01,Smartwatch,Transsion,7270.0
+2022-11-01,Smartwatch,Transsion,4313.0
+2022-12-01,Smartwatch,Transsion,2620.0
+2023-01-01,Smartwatch,Transsion,13742.0
+2023-02-01,Smartwatch,Transsion,11027.0
+2023-03-01,Smartwatch,Transsion,5900.0
+2023-04-01,Smartwatch,Transsion,33183.0
+2023-05-01,Smartwatch,Transsion,20086.0
+2023-06-01,Smartwatch,Transsion,5554.0
+2023-07-01,Smartwatch,Transsion,23221.0
+2023-08-01,Smartwatch,Transsion,50100.0
+2023-09-01,Smartwatch,Transsion,245.0
+2023-10-01,Smartwatch,Transsion,13382.0
+2023-11-01,Smartwatch,Transsion,6060.0
+2023-12-01,Smartwatch,Transsion,11437.0
+2024-01-01,Smartwatch,Transsion,4625.0
+2024-02-01,Smartwatch,Transsion,46646.0
+2024-03-01,Smartwatch,Transsion,44029.0
+2024-04-01,Smartwatch,Transsion,5000.0
+2024-05-01,Smartwatch,Transsion,1300.0
+2024-06-01,Smartwatch,Transsion,38176.0
+2024-07-01,Smartwatch,Transsion,20680.0
+2024-09-01,Smartwatch,Transsion,65470.0
+2024-10-01,Smartwatch,Transsion,5826.0
+2024-11-01,Smartwatch,Transsion,5944.0
+2024-12-01,Smartwatch,Transsion,4368.0
+2025-01-01,Smartwatch,Transsion,2174.0
+2025-02-01,Smartwatch,Transsion,9694.0
+2025-03-01,Smartwatch,Transsion,26700.0
+2025-04-01,Smartwatch,Transsion,7741.0
+2025-05-01,Smartwatch,Transsion,6147.0
+2025-06-01,Smartwatch,Transsion,22142.0
+2025-07-01,Smartwatch,Transsion,4786.0
+2025-08-01,Smartwatch,Transsion,4875.0
+2025-09-01,Smartwatch,Transsion,6195.0
+2025-10-01,Smartwatch,Transsion,2985.0
+2025-11-01,Smartwatch,Transsion,7876.0
+2025-12-01,Smartwatch,Transsion,46536.0
+2026-01-01,Smartwatch,Transsion,274.0
+2026-02-01,Smartwatch,Transsion,135.0
+2026-03-01,Smartwatch,Transsion,141.0
+2023-01-01,Smartwatch,Ubon,17882.0
+2023-02-01,Smartwatch,Ubon,9123.0
+2023-03-01,Smartwatch,Ubon,4696.0
+2023-04-01,Smartwatch,Ubon,100.0
+2023-06-01,Smartwatch,Ubon,6000.0
+2023-07-01,Smartwatch,Ubon,1485.0
+2023-08-01,Smartwatch,Ubon,34008.0
+2023-09-01,Smartwatch,Ubon,10002.0
+2024-01-01,Smartwatch,Ubon,3000.0
+2026-01-01,Smartwatch,Ubon,11343.0
+2026-02-01,Smartwatch,Ubon,3542.0
+2026-03-01,Smartwatch,Ubon,1234.0
+2024-04-01,Smartwatch,Withings,220.0
+2024-05-01,Smartwatch,Withings,80.0
+2024-06-01,Smartwatch,Withings,60.0
+2024-10-01,Smartwatch,Withings,179.0
+2024-11-01,Smartwatch,Withings,110.0
+2025-01-01,Smartwatch,Withings,60.0
+2025-04-01,Smartwatch,Withings,120.0
+2025-08-01,Smartwatch,Withings,100.0
+2025-09-01,Smartwatch,Withings,81.0
+2025-10-01,Smartwatch,Withings,45.0
+2025-12-01,Smartwatch,Withings,145.0
+2026-02-01,Smartwatch,Withings,8.0
+2026-03-01,Smartwatch,Withings,60.0
+2020-10-01,Smartwatch,Xiaomi,20342.0
+2020-11-01,Smartwatch,Xiaomi,2954.0
+2020-12-01,Smartwatch,Xiaomi,1887.0
+2021-01-01,Smartwatch,Xiaomi,1645.0
+2021-02-01,Smartwatch,Xiaomi,1302.0
+2021-03-01,Smartwatch,Xiaomi,803.0
+2021-04-01,Smartwatch,Xiaomi,501.0
+2021-05-01,Smartwatch,Xiaomi,13262.0
+2021-06-01,Smartwatch,Xiaomi,25227.0
+2021-07-01,Smartwatch,Xiaomi,8822.0
+2021-08-01,Smartwatch,Xiaomi,12048.0
+2021-09-01,Smartwatch,Xiaomi,25146.0
+2021-10-01,Smartwatch,Xiaomi,15813.0
+2021-11-01,Smartwatch,Xiaomi,5692.0
+2021-12-01,Smartwatch,Xiaomi,4735.0
+2022-01-01,Smartwatch,Xiaomi,1804.0
+2022-03-01,Smartwatch,Xiaomi,35419.0
+2022-04-01,Smartwatch,Xiaomi,3532.0
+2022-05-01,Smartwatch,Xiaomi,2141.0
+2022-06-01,Smartwatch,Xiaomi,1843.0
+2022-07-01,Smartwatch,Xiaomi,7354.0
+2022-08-01,Smartwatch,Xiaomi,4789.0
+2022-09-01,Smartwatch,Xiaomi,11032.0
+2022-10-01,Smartwatch,Xiaomi,2788.0
+2022-11-01,Smartwatch,Xiaomi,3018.0
+2022-12-01,Smartwatch,Xiaomi,699.0
+2023-01-01,Smartwatch,Xiaomi,2688.0
+2023-02-01,Smartwatch,Xiaomi,3999.0
+2023-03-01,Smartwatch,Xiaomi,2999.0
+2023-04-01,Smartwatch,Xiaomi,2498.0
+2023-05-01,Smartwatch,Xiaomi,1497.0
+2023-06-01,Smartwatch,Xiaomi,1198.0
+2023-07-01,Smartwatch,Xiaomi,1299.0
+2023-08-01,Smartwatch,Xiaomi,45400.0
+2023-09-01,Smartwatch,Xiaomi,20986.0
+2023-10-01,Smartwatch,Xiaomi,25156.0
+2023-11-01,Smartwatch,Xiaomi,24677.0
+2023-12-01,Smartwatch,Xiaomi,7997.0
+2024-01-01,Smartwatch,Xiaomi,37387.0
+2024-02-01,Smartwatch,Xiaomi,11998.0
+2024-03-01,Smartwatch,Xiaomi,7897.0
+2024-04-01,Smartwatch,Xiaomi,14000.0
+2024-05-01,Smartwatch,Xiaomi,17956.0
+2024-06-01,Smartwatch,Xiaomi,27780.0
+2024-07-01,Smartwatch,Xiaomi,18287.0
+2024-08-01,Smartwatch,Xiaomi,33974.0
+2024-09-01,Smartwatch,Xiaomi,46295.0
+2024-10-01,Smartwatch,Xiaomi,18694.0
+2024-11-01,Smartwatch,Xiaomi,3564.0
+2024-12-01,Smartwatch,Xiaomi,1900.0
+2025-01-01,Smartwatch,Xiaomi,4957.0
+2025-02-01,Smartwatch,Xiaomi,4100.0
+2025-03-01,Smartwatch,Xiaomi,15140.0
+2025-04-01,Smartwatch,Xiaomi,47625.0
+2025-05-01,Smartwatch,Xiaomi,78742.0
+2025-06-01,Smartwatch,Xiaomi,20259.0
+2025-07-01,Smartwatch,Xiaomi,32135.0
+2025-08-01,Smartwatch,Xiaomi,51254.0
+2025-09-01,Smartwatch,Xiaomi,42362.0
+2025-10-01,Smartwatch,Xiaomi,23871.0
+2025-11-01,Smartwatch,Xiaomi,21390.0
+2025-12-01,Smartwatch,Xiaomi,15688.0
+2026-01-01,Smartwatch,Xiaomi,28528.0
+2026-02-01,Smartwatch,Xiaomi,48921.0
+2026-03-01,Smartwatch,Xiaomi,31790.0
+2020-10-01,Smartwatch,Zebronics,3006.0
+2020-12-01,Smartwatch,Zebronics,1006.0
+2021-01-01,Smartwatch,Zebronics,10971.0
+2021-02-01,Smartwatch,Zebronics,1999.0
+2021-03-01,Smartwatch,Zebronics,4003.0
+2021-04-01,Smartwatch,Zebronics,12006.0
+2021-05-01,Smartwatch,Zebronics,5007.0
+2021-06-01,Smartwatch,Zebronics,7006.0
+2021-07-01,Smartwatch,Zebronics,27698.0
+2021-08-01,Smartwatch,Zebronics,21557.0
+2021-09-01,Smartwatch,Zebronics,38061.0
+2021-10-01,Smartwatch,Zebronics,41713.0
+2021-11-01,Smartwatch,Zebronics,38388.0
+2021-12-01,Smartwatch,Zebronics,30745.0
+2022-01-01,Smartwatch,Zebronics,43229.0
+2022-02-01,Smartwatch,Zebronics,23999.0
+2022-03-01,Smartwatch,Zebronics,47847.0
+2022-04-01,Smartwatch,Zebronics,21822.0
+2022-05-01,Smartwatch,Zebronics,36670.0
+2022-06-01,Smartwatch,Zebronics,36629.0
+2022-07-01,Smartwatch,Zebronics,29865.0
+2022-08-01,Smartwatch,Zebronics,11750.0
+2022-09-01,Smartwatch,Zebronics,2889.0
+2022-10-01,Smartwatch,Zebronics,35333.0
+2022-11-01,Smartwatch,Zebronics,10991.0
+2022-12-01,Smartwatch,Zebronics,18638.0
+2023-01-01,Smartwatch,Zebronics,11831.0
+2023-02-01,Smartwatch,Zebronics,10455.0
+2023-03-01,Smartwatch,Zebronics,5365.0
+2023-04-01,Smartwatch,Zebronics,4007.0
+2023-09-01,Smartwatch,Zebronics,22420.0
+2024-02-01,Smartwatch,Zebronics,27050.0
+2024-06-01,Smartwatch,Zebronics,10210.0
+2020-01-01,Smartwatch,Zepp,36440.0
+2020-02-01,Smartwatch,Zepp,3950.0
+2020-03-01,Smartwatch,Zepp,6510.0
+2020-05-01,Smartwatch,Zepp,3313.0
+2020-06-01,Smartwatch,Zepp,67479.0
+2020-07-01,Smartwatch,Zepp,44350.0
+2020-08-01,Smartwatch,Zepp,22270.0
+2020-09-01,Smartwatch,Zepp,19210.0
+2020-10-01,Smartwatch,Zepp,76770.0
+2020-11-01,Smartwatch,Zepp,65045.0
+2020-12-01,Smartwatch,Zepp,48642.0
+2021-01-01,Smartwatch,Zepp,55839.0
+2021-02-01,Smartwatch,Zepp,24872.0
+2021-03-01,Smartwatch,Zepp,23518.0
+2021-04-01,Smartwatch,Zepp,64240.0
+2021-05-01,Smartwatch,Zepp,35995.0
+2021-06-01,Smartwatch,Zepp,49070.0
+2021-07-01,Smartwatch,Zepp,65899.0
+2021-08-01,Smartwatch,Zepp,43420.0
+2021-09-01,Smartwatch,Zepp,96391.0
+2021-10-01,Smartwatch,Zepp,83905.0
+2021-11-01,Smartwatch,Zepp,42615.0
+2021-12-01,Smartwatch,Zepp,34094.0
+2022-01-01,Smartwatch,Zepp,33658.0
+2022-02-01,Smartwatch,Zepp,14118.0
+2022-03-01,Smartwatch,Zepp,29050.0
+2022-04-01,Smartwatch,Zepp,62285.0
+2022-05-01,Smartwatch,Zepp,20301.0
+2022-06-01,Smartwatch,Zepp,40016.0
+2022-07-01,Smartwatch,Zepp,95060.0
+2022-08-01,Smartwatch,Zepp,18580.0
+2022-09-01,Smartwatch,Zepp,39078.0
+2022-10-01,Smartwatch,Zepp,92215.0
+2022-11-01,Smartwatch,Zepp,52259.0
+2022-12-01,Smartwatch,Zepp,40625.0
+2023-01-01,Smartwatch,Zepp,32938.0
+2023-02-01,Smartwatch,Zepp,52058.0
+2023-03-01,Smartwatch,Zepp,46235.0
+2023-04-01,Smartwatch,Zepp,29833.0
+2023-05-01,Smartwatch,Zepp,15846.0
+2023-06-01,Smartwatch,Zepp,58704.0
+2023-07-01,Smartwatch,Zepp,29503.0
+2023-08-01,Smartwatch,Zepp,30655.0
+2023-09-01,Smartwatch,Zepp,26899.0
+2023-10-01,Smartwatch,Zepp,26695.0
+2023-11-01,Smartwatch,Zepp,18341.0
+2023-12-01,Smartwatch,Zepp,12337.0
+2024-01-01,Smartwatch,Zepp,15623.0
+2024-02-01,Smartwatch,Zepp,20773.0
+2024-03-01,Smartwatch,Zepp,6072.0
+2024-04-01,Smartwatch,Zepp,7237.0
+2024-05-01,Smartwatch,Zepp,5249.0
+2024-06-01,Smartwatch,Zepp,9492.0
+2024-07-01,Smartwatch,Zepp,4968.0
+2024-08-01,Smartwatch,Zepp,2543.0
+2024-09-01,Smartwatch,Zepp,27929.0
+2024-10-01,Smartwatch,Zepp,6693.0
+2024-11-01,Smartwatch,Zepp,3998.0
+2024-12-01,Smartwatch,Zepp,747.0
+2025-01-01,Smartwatch,Zepp,17647.0
+2025-02-01,Smartwatch,Zepp,2410.0
+2025-03-01,Smartwatch,Zepp,4643.0
+2025-04-01,Smartwatch,Zepp,6708.0
+2025-05-01,Smartwatch,Zepp,7558.0
+2025-06-01,Smartwatch,Zepp,419.0
+2025-07-01,Smartwatch,Zepp,13729.0
+2025-08-01,Smartwatch,Zepp,9595.0
+2025-09-01,Smartwatch,Zepp,18681.0
+2025-10-01,Smartwatch,Zepp,4957.0
+2025-11-01,Smartwatch,Zepp,1065.0
+2025-12-01,Smartwatch,Zepp,7359.0
+2026-01-01,Smartwatch,Zepp,10443.0
+2026-02-01,Smartwatch,Zepp,7835.0
+2026-03-01,Smartwatch,Zepp,9079.0
+2020-01-01,Wrist Band,GOQii,59276.0
+2020-02-01,Wrist Band,GOQii,32505.0
+2020-03-01,Wrist Band,GOQii,45894.0
+2020-05-01,Wrist Band,GOQii,49771.0
+2020-06-01,Wrist Band,GOQii,35750.0
+2020-07-01,Wrist Band,GOQii,32279.0
+2020-08-01,Wrist Band,GOQii,23588.0
+2020-09-01,Wrist Band,GOQii,23517.0
+2020-10-01,Wrist Band,GOQii,24847.0
+2020-11-01,Wrist Band,GOQii,16812.0
+2020-12-01,Wrist Band,GOQii,16886.0
+2021-01-01,Wrist Band,GOQii,19953.0
+2021-02-01,Wrist Band,GOQii,9495.0
+2021-03-01,Wrist Band,GOQii,1959.0
+2021-04-01,Wrist Band,GOQii,2501.0
+2021-05-01,Wrist Band,GOQii,3690.0
+2021-06-01,Wrist Band,GOQii,4032.0
+2021-07-01,Wrist Band,GOQii,2102.0
+2021-08-01,Wrist Band,GOQii,7183.0
+2021-09-01,Wrist Band,GOQii,6885.0
+2021-10-01,Wrist Band,GOQii,4042.0
+2021-11-01,Wrist Band,GOQii,3666.0
+2021-12-01,Wrist Band,GOQii,2530.0
+2022-01-01,Wrist Band,GOQii,1212.0
+2022-02-01,Wrist Band,GOQii,8878.0
+2022-03-01,Wrist Band,GOQii,6765.0
+2022-04-01,Wrist Band,GOQii,4543.0
+2022-05-01,Wrist Band,GOQii,3987.0
+2022-06-01,Wrist Band,GOQii,3211.0
+2023-02-01,Wrist Band,GOQii,124.0
+2020-01-01,Wrist Band,Garmin,530.0
+2020-02-01,Wrist Band,Garmin,40.0
+2020-07-01,Wrist Band,Garmin,150.0
+2020-08-01,Wrist Band,Garmin,290.0
+2020-09-01,Wrist Band,Garmin,120.0
+2020-11-01,Wrist Band,Garmin,270.0
+2020-12-01,Wrist Band,Garmin,580.0
+2021-01-01,Wrist Band,Garmin,280.0
+2021-03-01,Wrist Band,Garmin,10.0
+2021-04-01,Wrist Band,Garmin,399.0
+2021-05-01,Wrist Band,Garmin,1502.0
+2021-09-01,Wrist Band,Garmin,120.0
+2021-10-01,Wrist Band,Garmin,960.0
+2021-11-01,Wrist Band,Garmin,2198.0
+2021-12-01,Wrist Band,Garmin,3080.0
+2022-01-01,Wrist Band,Garmin,594.0
+2022-03-01,Wrist Band,Garmin,313.0
+2022-05-01,Wrist Band,Garmin,140.0
+2022-06-01,Wrist Band,Garmin,900.0
+2022-07-01,Wrist Band,Garmin,2.0
+2022-08-01,Wrist Band,Garmin,75.0
+2022-09-01,Wrist Band,Garmin,22.0
+2022-10-01,Wrist Band,Garmin,4.0
+2023-01-01,Wrist Band,Garmin,1398.0
+2023-09-01,Wrist Band,Garmin,61.0
+2023-10-01,Wrist Band,Garmin,53.0
+2024-01-01,Wrist Band,Garmin,5.0
+2024-02-01,Wrist Band,Garmin,14.0
+2024-03-01,Wrist Band,Garmin,10.0
+2024-06-01,Wrist Band,Garmin,30.0
+2024-08-01,Wrist Band,Garmin,12.0
+2024-11-01,Wrist Band,Garmin,10.0
+2025-03-01,Wrist Band,Garmin,435.0
+2025-04-01,Wrist Band,Garmin,20.0
+2025-05-01,Wrist Band,Garmin,106.0
+2025-07-01,Wrist Band,Garmin,600.0
+2025-09-01,Wrist Band,Garmin,1564.0
+2025-10-01,Wrist Band,Garmin,180.0
+2025-11-01,Wrist Band,Garmin,30.0
+2025-12-01,Wrist Band,Garmin,200.0
+2026-01-01,Wrist Band,Garmin,730.0
+2026-02-01,Wrist Band,Garmin,343.0
+2026-03-01,Wrist Band,Garmin,200.0
+2023-04-01,Wrist Band,Gizmore,4987.0
+2023-05-01,Wrist Band,Gizmore,2987.0
+2020-02-01,Wrist Band,Google,1650.0
+2020-03-01,Wrist Band,Google,1600.0
+2020-05-01,Wrist Band,Google,180.0
+2020-06-01,Wrist Band,Google,620.0
+2020-07-01,Wrist Band,Google,4020.0
+2020-08-01,Wrist Band,Google,260.0
+2020-09-01,Wrist Band,Google,2811.0000000000005
+2020-10-01,Wrist Band,Google,11955.0
+2020-11-01,Wrist Band,Google,3703.0
+2020-12-01,Wrist Band,Google,4293.0
+2021-01-01,Wrist Band,Google,1631.0
+2021-02-01,Wrist Band,Google,8200.0
+2021-03-01,Wrist Band,Google,5106.0
+2021-04-01,Wrist Band,Google,720.0
+2021-05-01,Wrist Band,Google,101.0
+2021-06-01,Wrist Band,Google,970.0
+2021-07-01,Wrist Band,Google,4871.0
+2021-08-01,Wrist Band,Google,6710.0
+2021-09-01,Wrist Band,Google,10221.0
+2021-10-01,Wrist Band,Google,5217.0
+2021-11-01,Wrist Band,Google,3833.0
+2021-12-01,Wrist Band,Google,11222.0
+2022-01-01,Wrist Band,Google,1781.0
+2022-02-01,Wrist Band,Google,3109.0
+2022-03-01,Wrist Band,Google,1651.0
+2022-04-01,Wrist Band,Google,4733.0
+2022-05-01,Wrist Band,Google,347.0
+2022-06-01,Wrist Band,Google,3671.0
+2022-07-01,Wrist Band,Google,10131.0
+2022-08-01,Wrist Band,Google,1350.0
+2022-09-01,Wrist Band,Google,1998.0
+2022-10-01,Wrist Band,Google,4736.0
+2022-11-01,Wrist Band,Google,13.0
+2022-12-01,Wrist Band,Google,6718.0
+2023-01-01,Wrist Band,Google,66.0
+2023-02-01,Wrist Band,Google,28.0
+2023-03-01,Wrist Band,Google,25.0
+2023-04-01,Wrist Band,Google,9.0
+2023-05-01,Wrist Band,Google,937.0
+2023-06-01,Wrist Band,Google,2060.0
+2023-07-01,Wrist Band,Google,6440.0
+2023-08-01,Wrist Band,Google,1700.0
+2023-09-01,Wrist Band,Google,2000.0
+2023-10-01,Wrist Band,Google,4656.0
+2023-11-01,Wrist Band,Google,614.0
+2023-12-01,Wrist Band,Google,2442.0
+2024-01-01,Wrist Band,Google,1760.0
+2024-02-01,Wrist Band,Google,860.0
+2024-03-01,Wrist Band,Google,1690.0
+2024-04-01,Wrist Band,Google,960.0
+2024-05-01,Wrist Band,Google,1310.0
+2024-06-01,Wrist Band,Google,2203.0
+2024-07-01,Wrist Band,Google,3500.0
+2024-08-01,Wrist Band,Google,1450.0
+2024-09-01,Wrist Band,Google,662.0
+2024-10-01,Wrist Band,Google,3050.0
+2025-01-01,Wrist Band,Google,270.0
+2025-02-01,Wrist Band,Google,700.0
+2025-03-01,Wrist Band,Google,330.0
+2025-04-01,Wrist Band,Google,1890.0
+2025-06-01,Wrist Band,Google,2750.0
+2025-07-01,Wrist Band,Google,1900.0
+2025-08-01,Wrist Band,Google,1690.0
+2025-09-01,Wrist Band,Google,1830.0
+2025-10-01,Wrist Band,Google,50.0
+2025-11-01,Wrist Band,Google,550.0
+2025-12-01,Wrist Band,Google,2180.0
+2026-01-01,Wrist Band,Google,1430.0
+2026-02-01,Wrist Band,Google,1450.0
+2026-03-01,Wrist Band,Google,2200.0
+2020-01-01,Wrist Band,Honor,98075.0
+2020-05-01,Wrist Band,Honor,40635.0
+2020-09-01,Wrist Band,Honor,80700.0
+2020-10-01,Wrist Band,Honor,8526.0
+2020-11-01,Wrist Band,Honor,533.0
+2020-12-01,Wrist Band,Honor,177.0
+2021-01-01,Wrist Band,Honor,143.0
+2021-02-01,Wrist Band,Honor,171.0
+2021-06-01,Wrist Band,Honor,6504.0
+2021-07-01,Wrist Band,Honor,17454.0
+2021-09-01,Wrist Band,Honor,27369.0
+2021-10-01,Wrist Band,Honor,6032.0
+2022-05-01,Wrist Band,Honor,470.0
+2022-09-01,Wrist Band,Honor,3698.0
+2022-12-01,Wrist Band,Honor,3100.0
+2020-01-01,Wrist Band,Huawei,5045.0
+2020-02-01,Wrist Band,Huawei,2653.0
+2020-03-01,Wrist Band,Huawei,2302.0
+2020-05-01,Wrist Band,Huawei,2500.0
+2021-07-01,Wrist Band,Huawei,9170.0
+2021-09-01,Wrist Band,Huawei,9990.0
+2021-12-01,Wrist Band,Huawei,83.0
+2022-04-01,Wrist Band,Huawei,1101.0
+2024-07-01,Wrist Band,Huawei,1020.0
+2025-01-01,Wrist Band,Huawei,2647.0
+2025-02-01,Wrist Band,Huawei,3000.0
+2025-03-01,Wrist Band,Huawei,1366.0
+2025-05-01,Wrist Band,Huawei,1322.0
+2025-06-01,Wrist Band,Huawei,3300.0
+2025-07-01,Wrist Band,Huawei,2110.0
+2025-08-01,Wrist Band,Huawei,1900.0
+2025-09-01,Wrist Band,Huawei,2108.0
+2026-01-01,Wrist Band,Huawei,750.0
+2026-02-01,Wrist Band,Huawei,20.0
+2026-03-01,Wrist Band,Huawei,10.0
+2020-07-01,Wrist Band,Imagine Marketing,10000.0
+2020-01-01,Wrist Band,Lenovo,1214.0
+2021-05-01,Wrist Band,Lenovo,1263.0
+2020-01-01,Wrist Band,Nexxbase,500.0
+2020-02-01,Wrist Band,Nexxbase,1000.0
+2020-03-01,Wrist Band,Nexxbase,1500.0
+2020-05-01,Wrist Band,Nexxbase,3000.0
+2020-06-01,Wrist Band,Nexxbase,3050.0
+2020-08-01,Wrist Band,Nexxbase,1445.0
+2020-09-01,Wrist Band,Nexxbase,3000.0
+2020-10-01,Wrist Band,Nexxbase,2257.0
+2020-11-01,Wrist Band,Nexxbase,1295.0
+2020-12-01,Wrist Band,Nexxbase,2730.0
+2021-01-01,Wrist Band,Nexxbase,46.0
+2021-02-01,Wrist Band,Nexxbase,1608.0
+2021-03-01,Wrist Band,Nexxbase,975.0
+2021-05-01,Wrist Band,Nexxbase,1023.0
+2021-07-01,Wrist Band,Nexxbase,1735.0
+2021-12-01,Wrist Band,Nexxbase,1203.0
+2022-01-01,Wrist Band,Nexxbase,8797.0
+2020-03-01,Wrist Band,OPPO,35000.0
+2020-05-01,Wrist Band,OPPO,40543.0
+2020-06-01,Wrist Band,OPPO,71589.0
+2020-07-01,Wrist Band,OPPO,24419.0
+2020-08-01,Wrist Band,OPPO,60307.0
+2020-09-01,Wrist Band,OPPO,56045.0
+2020-10-01,Wrist Band,OPPO,95687.0
+2020-11-01,Wrist Band,OPPO,13010.0
+2020-12-01,Wrist Band,OPPO,14700.0
+2021-01-01,Wrist Band,OPPO,118242.0
+2021-02-01,Wrist Band,OPPO,54987.0
+2021-03-01,Wrist Band,OPPO,73124.0
+2021-04-01,Wrist Band,OPPO,39997.0
+2021-05-01,Wrist Band,OPPO,20056.0
+2021-06-01,Wrist Band,OPPO,33229.0
+2021-07-01,Wrist Band,OPPO,27104.0
+2021-08-01,Wrist Band,OPPO,24809.0
+2021-09-01,Wrist Band,OPPO,55946.0
+2021-10-01,Wrist Band,OPPO,58896.0
+2021-11-01,Wrist Band,OPPO,20421.0
+2021-12-01,Wrist Band,OPPO,33556.0
+2022-01-01,Wrist Band,OPPO,23076.0
+2022-02-01,Wrist Band,OPPO,19112.0
+2022-03-01,Wrist Band,OPPO,13121.0
+2022-04-01,Wrist Band,OPPO,9765.0
+2022-05-01,Wrist Band,OPPO,100.0
+2022-08-01,Wrist Band,OPPO,55.0
+2022-09-01,Wrist Band,OPPO,15678.0
+2022-10-01,Wrist Band,OPPO,11118.0
+2022-11-01,Wrist Band,OPPO,30.0
+2023-01-01,Wrist Band,OPPO,5689.0
+2023-02-01,Wrist Band,OPPO,108.0
+2023-03-01,Wrist Band,OPPO,10.0
+2023-04-01,Wrist Band,OPPO,230.0
+2023-05-01,Wrist Band,OPPO,115.0
+2023-10-01,Wrist Band,OPPO,1230.0
+2023-11-01,Wrist Band,OPPO,462.0
+2020-01-01,Wrist Band,Others,48228.0
+2020-02-01,Wrist Band,Others,39351.0
+2020-03-01,Wrist Band,Others,27182.0
+2020-05-01,Wrist Band,Others,56491.0
+2020-06-01,Wrist Band,Others,77331.0
+2020-07-01,Wrist Band,Others,11168.0
+2020-08-01,Wrist Band,Others,18572.0
+2020-09-01,Wrist Band,Others,9845.0
+2020-10-01,Wrist Band,Others,14351.0
+2020-11-01,Wrist Band,Others,10662.999999999998
+2020-12-01,Wrist Band,Others,10031.0
+2021-01-01,Wrist Band,Others,5765.0
+2021-02-01,Wrist Band,Others,7844.0
+2021-03-01,Wrist Band,Others,3249.0
+2021-04-01,Wrist Band,Others,2830.0
+2021-05-01,Wrist Band,Others,3990.0
+2021-06-01,Wrist Band,Others,6501.0
+2021-07-01,Wrist Band,Others,5511.0
+2021-08-01,Wrist Band,Others,2058.0
+2021-09-01,Wrist Band,Others,2457.0
+2021-10-01,Wrist Band,Others,2654.0
+2021-11-01,Wrist Band,Others,1873.0
+2021-12-01,Wrist Band,Others,1690.0
+2022-01-01,Wrist Band,Others,1504.0
+2022-03-01,Wrist Band,Others,1302.0
+2022-04-01,Wrist Band,Others,1233.0
+2022-05-01,Wrist Band,Others,1173.0
+2022-06-01,Wrist Band,Others,1023.0
+2022-07-01,Wrist Band,Others,1045.0
+2022-08-01,Wrist Band,Others,2171.0
+2022-09-01,Wrist Band,Others,2139.0
+2022-10-01,Wrist Band,Others,1983.0
+2022-11-01,Wrist Band,Others,533.0
+2022-12-01,Wrist Band,Others,343.0
+2023-01-01,Wrist Band,Others,1654.0
+2023-02-01,Wrist Band,Others,1345.0
+2023-07-01,Wrist Band,Others,60048.0
+2023-08-01,Wrist Band,Others,14098.0
+2023-09-01,Wrist Band,Others,15416.0
+2023-10-01,Wrist Band,Others,19834.0
+2025-08-01,Wrist Band,Others,2993.0
+2025-09-01,Wrist Band,Others,1575.0
+2025-10-01,Wrist Band,Others,1342.0
+2025-11-01,Wrist Band,Others,1432.0
+2026-01-01,Wrist Band,Others,3000.0
+2026-02-01,Wrist Band,Others,2093.0
+2026-03-01,Wrist Band,Others,3354.0
+2021-06-01,Wrist Band,Palred,4546.0
+2021-09-01,Wrist Band,Palred,3490.0
+2021-10-01,Wrist Band,Palred,2543.0
+2025-12-01,Wrist Band,Polar,100.0
+2026-01-01,Wrist Band,Polar,300.0
+2026-02-01,Wrist Band,Polar,10.0
+2026-03-01,Wrist Band,Polar,100.0
+2021-12-01,Wrist Band,Portronics,4323.0
+2022-01-01,Wrist Band,Portronics,2987.0
+2022-03-01,Wrist Band,Portronics,1565.0
+2024-01-01,Wrist Band,Portronics,7.0
+2020-01-01,Wrist Band,SRK Powertech,3005.0
+2020-06-01,Wrist Band,SRK Powertech,5010.0
+2020-08-01,Wrist Band,SRK Powertech,1325.0
+2021-03-01,Wrist Band,SRK Powertech,3004.0
+2021-08-01,Wrist Band,SRK Powertech,6590.0
+2021-09-01,Wrist Band,SRK Powertech,7054.0
+2021-10-01,Wrist Band,SRK Powertech,5065.0
+2021-11-01,Wrist Band,SRK Powertech,4321.0
+2022-04-01,Wrist Band,SRK Powertech,3454.0
+2022-05-01,Wrist Band,SRK Powertech,2504.0
+2025-10-01,Wrist Band,SRK Powertech,14998.0
+2025-11-01,Wrist Band,SRK Powertech,5898.0
+2025-12-01,Wrist Band,SRK Powertech,19400.0
+2026-01-01,Wrist Band,SRK Powertech,26089.0
+2026-02-01,Wrist Band,SRK Powertech,28400.0
+2026-03-01,Wrist Band,SRK Powertech,33875.0
+2020-01-01,Wrist Band,Samsung,1504.0
+2020-02-01,Wrist Band,Samsung,2413.0
+2020-03-01,Wrist Band,Samsung,2043.0
+2020-05-01,Wrist Band,Samsung,1034.0
+2020-06-01,Wrist Band,Samsung,916.0
+2020-10-01,Wrist Band,Samsung,10950.0
+2020-11-01,Wrist Band,Samsung,1310.0
+2020-12-01,Wrist Band,Samsung,3850.0
+2021-03-01,Wrist Band,Samsung,500.0
+2022-06-01,Wrist Band,Samsung,261.0
+2024-02-01,Wrist Band,Samsung,15650.0
+2024-03-01,Wrist Band,Samsung,17322.0
+2024-04-01,Wrist Band,Samsung,20543.0
+2024-05-01,Wrist Band,Samsung,5000.0
+2024-06-01,Wrist Band,Samsung,4987.0
+2024-07-01,Wrist Band,Samsung,9045.0
+2024-08-01,Wrist Band,Samsung,12900.0
+2024-09-01,Wrist Band,Samsung,18650.0
+2024-10-01,Wrist Band,Samsung,14441.0
+2024-11-01,Wrist Band,Samsung,6456.0
+2024-12-01,Wrist Band,Samsung,4034.0
+2025-01-01,Wrist Band,Samsung,750.0
+2025-02-01,Wrist Band,Samsung,1250.0
+2025-03-01,Wrist Band,Samsung,2200.0
+2025-04-01,Wrist Band,Samsung,5250.0
+2025-05-01,Wrist Band,Samsung,8300.0
+2025-06-01,Wrist Band,Samsung,53002.0
+2025-07-01,Wrist Band,Samsung,40833.0
+2025-08-01,Wrist Band,Samsung,10000.0
+2025-09-01,Wrist Band,Samsung,34198.0
+2025-10-01,Wrist Band,Samsung,2972.0
+2025-11-01,Wrist Band,Samsung,1021.0
+2025-12-01,Wrist Band,Samsung,7007.0
+2026-01-01,Wrist Band,Samsung,5433.0
+2026-02-01,Wrist Band,Samsung,150.0
+2026-03-01,Wrist Band,Samsung,24434.0
+2020-08-01,Wrist Band,Timex,3400.0
+2020-09-01,Wrist Band,Timex,3145.0
+2020-10-01,Wrist Band,Timex,5000.0
+2020-11-01,Wrist Band,Timex,8796.0
+2020-12-01,Wrist Band,Timex,785.0
+2021-01-01,Wrist Band,Timex,3030.0
+2021-02-01,Wrist Band,Timex,6107.0
+2021-03-01,Wrist Band,Timex,2940.0
+2021-04-01,Wrist Band,Timex,10012.0
+2021-05-01,Wrist Band,Timex,4146.0
+2021-07-01,Wrist Band,Timex,1050.0
+2021-08-01,Wrist Band,Timex,890.0
+2020-01-01,Wrist Band,Titan,114126.0
+2020-03-01,Wrist Band,Titan,13564.0
+2020-05-01,Wrist Band,Titan,13872.0
+2020-07-01,Wrist Band,Titan,11043.0
+2020-08-01,Wrist Band,Titan,19012.0
+2020-09-01,Wrist Band,Titan,59631.0
+2020-10-01,Wrist Band,Titan,26063.0
+2020-11-01,Wrist Band,Titan,20254.0
+2020-12-01,Wrist Band,Titan,20898.0
+2021-01-01,Wrist Band,Titan,42303.0
+2021-02-01,Wrist Band,Titan,75260.0
+2021-03-01,Wrist Band,Titan,30247.0
+2021-04-01,Wrist Band,Titan,36672.0
+2021-05-01,Wrist Band,Titan,13547.0
+2021-06-01,Wrist Band,Titan,29078.0
+2021-07-01,Wrist Band,Titan,54285.0
+2021-08-01,Wrist Band,Titan,44020.0
+2021-09-01,Wrist Band,Titan,25220.0
+2021-10-01,Wrist Band,Titan,41647.0
+2021-11-01,Wrist Band,Titan,14743.0
+2021-12-01,Wrist Band,Titan,13167.0
+2022-01-01,Wrist Band,Titan,12703.0
+2022-02-01,Wrist Band,Titan,8932.0
+2022-03-01,Wrist Band,Titan,13241.0
+2022-04-01,Wrist Band,Titan,13767.0
+2022-05-01,Wrist Band,Titan,11312.0
+2022-06-01,Wrist Band,Titan,8123.0
+2022-07-01,Wrist Band,Titan,7786.0
+2022-08-01,Wrist Band,Titan,9876.0
+2022-09-01,Wrist Band,Titan,4678.0
+2024-03-01,Wrist Band,Titan,815.0
+2020-01-01,Wrist Band,Transsion,8016.0
+2020-03-01,Wrist Band,Transsion,4992.0
+2020-05-01,Wrist Band,Transsion,328.0
+2020-06-01,Wrist Band,Transsion,504.0
+2020-07-01,Wrist Band,Transsion,1008.0
+2020-10-01,Wrist Band,Transsion,5004.0
+2020-11-01,Wrist Band,Transsion,4004.0
+2020-12-01,Wrist Band,Transsion,10956.0
+2021-10-01,Wrist Band,Transsion,2540.0
+2021-11-01,Wrist Band,Transsion,1786.0
+2022-10-01,Wrist Band,Transsion,99.0
+2022-12-01,Wrist Band,Transsion,498.0
+2023-01-01,Wrist Band,Transsion,3178.0
+2024-06-01,Wrist Band,Whoop,100.0
+2024-07-01,Wrist Band,Whoop,56.0
+2024-08-01,Wrist Band,Whoop,52.0
+2024-09-01,Wrist Band,Whoop,3000.0
+2024-10-01,Wrist Band,Whoop,2998.0
+2024-11-01,Wrist Band,Whoop,2544.0
+2024-12-01,Wrist Band,Whoop,1467.0
+2025-03-01,Wrist Band,Whoop,3000.0
+2025-06-01,Wrist Band,Whoop,5002.0
+2025-07-01,Wrist Band,Whoop,3009.0
+2025-08-01,Wrist Band,Whoop,3500.0
+2025-09-01,Wrist Band,Whoop,4542.0
+2025-10-01,Wrist Band,Whoop,1986.0
+2025-11-01,Wrist Band,Whoop,1434.0
+2025-12-01,Wrist Band,Whoop,700.0
+2026-01-01,Wrist Band,Whoop,5688.0
+2026-02-01,Wrist Band,Whoop,1536.0
+2026-03-01,Wrist Band,Whoop,4104.0
+2020-01-01,Wrist Band,Xiaomi,174264.0
+2020-02-01,Wrist Band,Xiaomi,146851.0
+2020-03-01,Wrist Band,Xiaomi,104021.0
+2020-05-01,Wrist Band,Xiaomi,40911.0
+2020-06-01,Wrist Band,Xiaomi,79585.0
+2020-07-01,Wrist Band,Xiaomi,63643.0
+2020-08-01,Wrist Band,Xiaomi,156753.0
+2020-09-01,Wrist Band,Xiaomi,284152.0
+2020-10-01,Wrist Band,Xiaomi,320500.0
+2020-11-01,Wrist Band,Xiaomi,60432.0
+2020-12-01,Wrist Band,Xiaomi,130156.0
+2021-01-01,Wrist Band,Xiaomi,115073.0
+2021-02-01,Wrist Band,Xiaomi,88098.0
+2021-03-01,Wrist Band,Xiaomi,80247.0
+2021-04-01,Wrist Band,Xiaomi,65603.0
+2021-05-01,Wrist Band,Xiaomi,26636.0
+2021-06-01,Wrist Band,Xiaomi,52689.0
+2021-07-01,Wrist Band,Xiaomi,76041.0
+2021-08-01,Wrist Band,Xiaomi,106444.0
+2021-09-01,Wrist Band,Xiaomi,184919.0
+2021-10-01,Wrist Band,Xiaomi,41866.0
+2021-11-01,Wrist Band,Xiaomi,25005.0
+2021-12-01,Wrist Band,Xiaomi,16021.0
+2022-01-01,Wrist Band,Xiaomi,34017.0
+2022-02-01,Wrist Band,Xiaomi,36508.0
+2022-03-01,Wrist Band,Xiaomi,57975.0
+2022-04-01,Wrist Band,Xiaomi,21594.0
+2022-05-01,Wrist Band,Xiaomi,21115.0
+2022-06-01,Wrist Band,Xiaomi,19137.0
+2022-07-01,Wrist Band,Xiaomi,27757.0
+2022-08-01,Wrist Band,Xiaomi,16607.0
+2022-09-01,Wrist Band,Xiaomi,36883.0
+2022-10-01,Wrist Band,Xiaomi,13183.0
+2022-11-01,Wrist Band,Xiaomi,2235.0
+2022-12-01,Wrist Band,Xiaomi,5592.0
+2023-01-01,Wrist Band,Xiaomi,3996.0
+2023-02-01,Wrist Band,Xiaomi,4986.0
+2023-03-01,Wrist Band,Xiaomi,4989.0
+2023-04-01,Wrist Band,Xiaomi,4701.0
+2023-05-01,Wrist Band,Xiaomi,2001.0
+2023-06-01,Wrist Band,Xiaomi,5998.0
+2023-07-01,Wrist Band,Xiaomi,5300.0
+2021-09-01,Wrist Band,Zebronics,6211.0
+2021-10-01,Wrist Band,Zebronics,2988.0
+2021-11-01,Wrist Band,Zebronics,2010.0
+2021-12-01,Wrist Band,Zebronics,602.0
+2022-10-01,Wrist Band,Zepp,2487.0
+2022-12-01,Wrist Band,Zepp,498.0
+2023-01-01,Wrist Band,Zepp,1487.0
+2023-02-01,Wrist Band,Zepp,2620.0
+2023-03-01,Wrist Band,Zepp,2643.0
+2023-04-01,Wrist Band,Zepp,3872.0
+2023-05-01,Wrist Band,Zepp,1278.0
+2023-06-01,Wrist Band,Zepp,1464.0
+2023-07-01,Wrist Band,Zepp,353.0
+2023-08-01,Wrist Band,Zepp,1751.0
+2023-09-01,Wrist Band,Zepp,1591.0
+2023-10-01,Wrist Band,Zepp,1452.0
+2023-11-01,Wrist Band,Zepp,1559.0
+2023-12-01,Wrist Band,Zepp,373.0
+2024-01-01,Wrist Band,Zepp,1279.0
+2024-02-01,Wrist Band,Zepp,21.0
+2024-03-01,Wrist Band,Zepp,925.0
+2024-04-01,Wrist Band,Zepp,605.0
+2024-05-01,Wrist Band,Zepp,459.0
+2024-06-01,Wrist Band,Zepp,1599.0
+2024-07-01,Wrist Band,Zepp,338.0
+2024-08-01,Wrist Band,Zepp,1146.0
+2024-09-01,Wrist Band,Zepp,4283.0
+2024-10-01,Wrist Band,Zepp,113.0
+2024-11-01,Wrist Band,Zepp,14.0
+2024-12-01,Wrist Band,Zepp,24.0
+2025-01-01,Wrist Band,Zepp,1720.0
+2025-02-01,Wrist Band,Zepp,69.0
+2025-03-01,Wrist Band,Zepp,2.0
+2025-04-01,Wrist Band,Zepp,1458.0
+2025-05-01,Wrist Band,Zepp,186.0
+2025-06-01,Wrist Band,Zepp,6.0
+2025-07-01,Wrist Band,Zepp,1767.0
+2025-08-01,Wrist Band,Zepp,1779.0
+2025-09-01,Wrist Band,Zepp,1035.0
+2025-10-01,Wrist Band,Zepp,2000.0
+2025-11-01,Wrist Band,Zepp,88.0
+2025-12-01,Wrist Band,Zepp,76.0
+2026-01-01,Wrist Band,Zepp,2.0
