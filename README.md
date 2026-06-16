@@ -36,7 +36,7 @@ python scripts/60_powerbi_dataset.py    # build data/powerbi/ for the dashboard
 
 ---
 
-## 2. The five charts a 12-year-old (and your CEO) will understand
+## 2. Dashboard PLAN
 
 | # | Chart | The story it tells |
 |---|---|---|
