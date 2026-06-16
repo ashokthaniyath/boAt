@@ -50,7 +50,7 @@ Full deck: see [`charts/`](charts/) — every PNG has a self-explanatory title, 
 
 ---
 
-## 3. Key numbers (auto-generated from the clean data)
+## 3. Key numbers
 
 | Metric | Value |
 |---|---|
@@ -66,7 +66,7 @@ Full deck: see [`charts/`](charts/) — every PNG has a self-explanatory title, 
 
 ---
 
-## 4. Cleaning notes — what I fixed in the raw file
+## 4. Cleaning notes
 
 The raw IDC file is a Excel pivot table, not a database. I tidied it so it can be queried, joined, and trusted.
 
