@@ -235,15 +235,16 @@ def share_trend(category: str, focus: list[str], filename: str, title_suffix: st
     # --- deconflicted endpoint labels ---
     end_data = {co: pivot[co].iloc[-1] for co in pivot.columns}
     sorted_cos = sorted(end_data.keys(), key=lambda c: end_data[c])
-    MIN_GAP = 2.0  # minimum % points between labels
+    MIN_GAP = 2.0          # minimum % points between labels
+    LABEL_OFFSET_DAYS = 25  # x-offset from last data point to label text
     placed_y: dict[str, float] = {}
-    prev_y = -999.0
+    prev_y = float("-inf")
     for co in sorted_cos:
         y = max(end_data[co], prev_y + MIN_GAP)
         placed_y[co] = y
         prev_y = y
     x_end = pivot.index[-1]
-    label_x = x_end + pd.DateOffset(days=25)
+    label_x = x_end + pd.DateOffset(days=LABEL_OFFSET_DAYS)
     for co in pivot.columns:
         col = line_colors[co]
         data_y = end_data[co]
