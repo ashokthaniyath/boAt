@@ -122,6 +122,7 @@ def deconflict_labels(ax, anchors, fontsize=10, max_iter=120):
                 overlap = min(bi.y1, bj.y1) - max(bi.y0, bj.y0)
                 if overlap <= 0:
                     continue
+                # half the overlap to each label, plus 1px of breathing room
                 shift = (overlap / 2 + 1.0) * px_to_pt
                 hi, lo = (i, j) if (bi.y0 + bi.y1) >= (bj.y0 + bj.y1) else (j, i)
                 ox_h, oy_h = texts[hi].get_position()
