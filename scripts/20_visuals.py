@@ -108,26 +108,26 @@ def hero():
 
     fig = plt.figure(figsize=(16, 10))
     gs = fig.add_gridspec(3, 4, height_ratios=[0.55, 1, 1], hspace=0.55, wspace=0.35,
-                          left=0.05, right=0.97, top=0.93, bottom=0.07)
+                          left=0.05, right=0.97, top=0.91, bottom=0.07)
 
     # Title banner
     fig.suptitle("boAt India Wearables — Competitive Pulse",
-                 fontsize=26, fontweight="bold", color=BOAT_BLACK, x=0.06, ha="left", y=0.985)
-    fig.text(0.06, 0.945,
+                 fontsize=24, fontweight="bold", color=BOAT_BLACK, x=0.06, ha="left", y=0.975)
+    fig.text(0.06, 0.935,
              f"Source: IDC India Monthly Wearable Tracker · last 12 months ending {DATA_END:%b %Y}",
-             fontsize=11, color="#555555")
+             fontsize=10, color="#555555")
 
-    # KPI tiles
+    # KPI tiles — use fontsize=26 for values so long strings like "20.8M units" fit
     def kpi(ax, title, value, sub, color=BOAT_RED):
         ax.axis("off")
         box = FancyBboxPatch((0.02, 0.1), 0.96, 0.8, boxstyle="round,pad=0.02,rounding_size=0.04",
                              linewidth=0, facecolor="#F7F7F9", transform=ax.transAxes)
         ax.add_patch(box)
-        ax.text(0.5, 0.78, title, ha="center", va="top", fontsize=11,
+        ax.text(0.5, 0.80, title, ha="center", va="top", fontsize=10,
                 color="#666", transform=ax.transAxes, fontweight="bold")
-        ax.text(0.5, 0.50, value, ha="center", va="center", fontsize=30,
+        ax.text(0.5, 0.50, value, ha="center", va="center", fontsize=26,
                 color=color, fontweight="bold", transform=ax.transAxes)
-        ax.text(0.5, 0.18, sub, ha="center", va="center", fontsize=10,
+        ax.text(0.5, 0.18, sub, ha="center", va="center", fontsize=9,
                 color="#444", transform=ax.transAxes)
 
     kpi(fig.add_subplot(gs[0, 0]), "boAt Units (12 mo)",
@@ -152,7 +152,7 @@ def hero():
     for b, v in zip(bars, (top.values/1e6)[::-1]):
         ax1.text(v + 0.4, b.get_y() + b.get_height()/2, f"{v:.1f}M",
                  va="center", fontsize=10, color=INK, fontweight="bold")
-    ax1.set_xlim(0, top.values.max()/1e6 * 1.18)
+    ax1.set_xlim(0, top.values.max()/1e6 * 1.22)
     ax1.grid(axis="x", linestyle=":", alpha=0.4)
 
     # Bottom-right: market trend area + boAt line
@@ -168,10 +168,10 @@ def hero():
     ax2.xaxis.set_major_locator(mdates.YearLocator())
     ax2.xaxis.set_major_formatter(mdates.DateFormatter("%Y"))
     ax2.grid(axis="y", linestyle=":", alpha=0.4)
-    # Annotate latest point
+    # Annotate latest point — offset to the left so arrow doesn't run off the figure
     last_b = boat_m.iloc[-1] / 1e6
     ax2.annotate(f"{last_b:.1f}M\n{DATA_END:%b %Y}", xy=(boat_m.index[-1], last_b),
-                 xytext=(-70, 22), textcoords="offset points",
+                 xytext=(-85, 28), textcoords="offset points",
                  fontsize=10, fontweight="bold", color=BOAT_RED,
                  arrowprops=dict(arrowstyle="->", color=BOAT_RED, lw=1))
 
@@ -223,24 +223,49 @@ def share_trend(category: str, focus: list[str], filename: str, title_suffix: st
     pivot = q.pivot(index="quarter", columns="company", values="share").fillna(0)
     pivot = pivot[[c for c in focus if c in pivot.columns]]
 
-    fig, ax = plt.subplots(figsize=(13, 7))
+    fig, ax = plt.subplots(figsize=(14, 7))
+    line_colors = {}
     for i, co in enumerate(pivot.columns):
         col = BOAT_RED if co == "Imagine Marketing" else PALETTE[(i+1) % len(PALETTE)]
         lw  = 3.2 if co == "Imagine Marketing" else 1.8
         ax.plot(pivot.index, pivot[co], label=label(co), color=col, linewidth=lw,
                 marker="o", markersize=4)
-        # endpoint label
-        ax.text(pivot.index[-1], pivot[co].iloc[-1] + 0.6, f"{label(co)} {pivot[co].iloc[-1]:.1f}%",
-                color=col, fontsize=10, fontweight="bold")
+        line_colors[co] = col
+
+    # --- deconflicted endpoint labels ---
+    end_data = {co: pivot[co].iloc[-1] for co in pivot.columns}
+    sorted_cos = sorted(end_data.keys(), key=lambda c: end_data[c])
+    MIN_GAP = 2.0  # minimum % points between labels
+    placed_y: dict[str, float] = {}
+    prev_y = -999.0
+    for co in sorted_cos:
+        y = max(end_data[co], prev_y + MIN_GAP)
+        placed_y[co] = y
+        prev_y = y
+    x_end = pivot.index[-1]
+    label_x = x_end + pd.DateOffset(days=25)
+    for co in pivot.columns:
+        col = line_colors[co]
+        data_y = end_data[co]
+        lbl_y  = placed_y[co]
+        if abs(lbl_y - data_y) > 0.5:
+            ax.annotate("", xy=(x_end, data_y), xytext=(label_x, lbl_y),
+                        arrowprops=dict(arrowstyle="-", color=col, lw=0.8, alpha=0.7),
+                        annotation_clip=False)
+        ax.text(label_x, lbl_y, f"{label(co)} {data_y:.1f}%",
+                color=col, fontsize=10, fontweight="bold", va="center",
+                clip_on=False)
+    # ------------------------------------
+
     ax.set_title(f"{category}: quarterly market share — {title_suffix}",
                  loc="left", fontsize=18, color=BOAT_BLACK, pad=28)
     ax.text(0, 1.02, "Share of category units · Source: IDC India Monthly Wearable Tracker",
-            transform=ax.transAxes, fontsize=11, color="#666")
+            transform=ax.transAxes, fontsize=10, color="#666")
     ax.set_ylabel("Share of category units")
     ax.yaxis.set_major_formatter(FuncFormatter(percent))
     ax.grid(axis="y", linestyle=":", alpha=0.4)
     ax.legend(loc="upper left", frameon=False, ncol=2)
-    ax.set_xlim(pivot.index.min(), pivot.index.max() + pd.DateOffset(months=4))
+    ax.set_xlim(pivot.index.min(), pivot.index.max() + pd.DateOffset(months=9))
     fig.savefig(OUT / filename, bbox_inches="tight")
     plt.close(fig)
     print(f"  ✓ {filename}")
@@ -373,6 +398,7 @@ def share_heatmap():
 # Chart 9 — Price positioning (ASP vs Volume) — last 12 months Smartwatch
 # ----------------------------------------------------------------------------
 def price_positioning():
+    from adjustText import adjust_text
     sw_units = units[(units["product_category"] == "Smartwatch") & (units["month"] >= LAST12_START)]
     sw_asp = asp_inr[(asp_inr["product_category"] == "Smartwatch") & (asp_inr["month"] >= LAST12_START)]
     vol = sw_units.groupby("company")["value"].sum()
@@ -381,38 +407,48 @@ def price_positioning():
     joined["spend"] = joined["value_u"] * joined["value_p"]
     grp = joined.groupby("company").agg(units=("value_u", "sum"), spend=("spend", "sum"))
     grp["asp"] = grp["spend"] / grp["units"]
-    grp = grp[grp["units"] >= 50000].sort_values("units", ascending=False)
+    grp = grp[grp["units"] >= 150000].sort_values("units", ascending=False)
 
-    fig, ax = plt.subplots(figsize=(12, 7.5))
+    fig, ax = plt.subplots(figsize=(14, 8))
     sizes = (grp["units"] / grp["units"].max()) * 4500 + 60
     for co, row in grp.iterrows():
         col = BOAT_RED if co == "Imagine Marketing" else "#5B6470"
         ax.scatter(row["asp"], row["units"]/1e6, s=sizes[co], alpha=0.65,
                    edgecolor="white", linewidth=1.5, color=col, zorder=3)
-        ax.annotate(label(co), (row["asp"], row["units"]/1e6),
-                    xytext=(7, 7), textcoords="offset points",
-                    fontsize=10, fontweight="bold",
-                    color=BOAT_RED if co == "Imagine Marketing" else INK)
+
     ax.set_title("Smartwatch positioning — price vs volume (last 12 months)",
                  loc="left", fontsize=18, color=BOAT_BLACK, pad=28)
     ax.text(0, 1.02, "Bubble size = units shipped · ASP in ₹ · Source: IDC",
-            transform=ax.transAxes, fontsize=11, color="#666")
+            transform=ax.transAxes, fontsize=10, color="#666")
     ax.set_xlabel("Average Selling Price (₹)")
     ax.set_ylabel("Units shipped (millions, last 12 mo)")
     ax.grid(linestyle=":", alpha=0.4)
+
     # Quadrant guide
     med_asp = grp["asp"].median()
     med_vol = grp["units"].median()/1e6
     ax.axvline(med_asp, color="#cccccc", linestyle="--", linewidth=1)
     ax.axhline(med_vol, color="#cccccc", linestyle="--", linewidth=1)
-    ax.text(0.99, 0.97, "Premium + Niche", transform=ax.transAxes, ha="right", va="top",
-            fontsize=9, color="#888")
-    ax.text(0.01, 0.97, "Value + Niche", transform=ax.transAxes, ha="left", va="top",
-            fontsize=9, color="#888")
-    ax.text(0.99, 0.02, "Premium + Mass", transform=ax.transAxes, ha="right", va="bottom",
-            fontsize=9, color="#888")
-    ax.text(0.01, 0.02, "Value + Mass", transform=ax.transAxes, ha="left", va="bottom",
-            fontsize=9, color="#888")
+
+    # Quadrant corner labels — drawn LAST with a solid background so they're not hidden
+    kw = dict(transform=ax.transAxes, fontsize=9, color="#888",
+              zorder=12,
+              bbox=dict(boxstyle="round,pad=0.2", fc="white", ec="#cccccc", alpha=0.9, lw=0.5))
+    ax.text(0.99, 0.99, "Premium + Niche", ha="right", va="top",   **kw)
+    ax.text(0.01, 0.99, "Value + Niche",   ha="left",  va="top",   **kw)
+    ax.text(0.99, 0.01, "Premium + Mass",  ha="right", va="bottom", **kw)
+    ax.text(0.01, 0.01, "Value + Mass",    ha="left",  va="bottom", **kw)
+
+    # Brand labels — let adjustText spread them out
+    texts = []
+    for co, row in grp.iterrows():
+        col = BOAT_RED if co == "Imagine Marketing" else INK
+        t = ax.text(row["asp"], row["units"]/1e6, label(co),
+                    fontsize=10, fontweight="bold", color=col)
+        texts.append(t)
+    adjust_text(texts, ax=ax, expand_points=(1.4, 1.4), expand_text=(1.2, 1.2),
+                arrowprops=dict(arrowstyle="-", color="#aaaaaa", lw=0.7))
+
     fig.savefig(OUT / "09_price_positioning.png", bbox_inches="tight")
     plt.close(fig)
     print("  ✓ 09_price_positioning.png")
@@ -433,10 +469,10 @@ def kid_pie():
     wedges, _ = ax.pie(series.values, colors=colors, startangle=90,
                        wedgeprops=dict(width=0.42, edgecolor="white", linewidth=3))
     total = series.sum()
-    ax.text(0, 0.08, "Out of every 100\nwearables sold\nin India…", ha="center",
-            fontsize=14, color=INK)
-    ax.text(0, -0.18, f"…{series.iloc[0]/total*100:.0f} were boAt!",
-            ha="center", fontsize=20, color=BOAT_RED, fontweight="bold")
+    ax.text(0, 0.22, "Out of every 100\nwearables sold\nin India…", ha="center",
+            fontsize=13, color=INK)
+    ax.text(0, -0.10, f"…{series.iloc[0]/total*100:.0f} were boAt!",
+            ha="center", fontsize=19, color=BOAT_RED, fontweight="bold")
     # Legend with percentages
     legend_labels = [f"{n}  —  {v/total*100:.1f}%" for n, v in series.items()]
     ax.legend(wedges, legend_labels, loc="center left", bbox_to_anchor=(1.02, 0.5),
