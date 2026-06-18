@@ -74,6 +74,67 @@ DISPLAY = {
 }
 def label(c): return DISPLAY.get(c, c)
 
+def deconflict_labels(ax, anchors, fontsize=10, max_iter=120):
+    """Place data-point labels so they never overlap each other.
+
+    anchors: list of dicts with keys x, y (data coords), text and color.
+    Each label is drawn with a thin leader line back to its point and then
+    nudged vertically until no two label boxes overlap, while staying inside
+    the axes — so every label and its writing remains clearly readable even
+    in dense clusters.
+    """
+    fig = ax.figure
+    texts = []
+    for a in anchors:
+        t = ax.annotate(
+            a["text"], xy=(a["x"], a["y"]), xytext=(9, 9),
+            textcoords="offset points", fontsize=fontsize, fontweight="bold",
+            color=a["color"], zorder=6,
+            bbox=dict(boxstyle="round,pad=0.1", facecolor="white",
+                      edgecolor="none", alpha=0.7),
+            arrowprops=dict(arrowstyle="-", color="#9aa0a6", lw=0.6,
+                            shrinkA=0, shrinkB=3),
+        )
+        texts.append(t)
+    fig.canvas.draw()
+    renderer = fig.canvas.get_renderer()
+    px_to_pt = 72.0 / fig.dpi
+
+    def clamp_into_axes():
+        ax_box = ax.get_window_extent(renderer)
+        for t in texts:
+            tb = t.get_window_extent(renderer)
+            ox, oy = t.get_position()
+            if tb.y1 > ax_box.y1:
+                oy -= (tb.y1 - ax_box.y1) * px_to_pt
+            elif tb.y0 < ax_box.y0:
+                oy += (ax_box.y0 - tb.y0) * px_to_pt
+            t.set_position((ox, oy))
+
+    for _ in range(max_iter):
+        boxes = [t.get_window_extent(renderer) for t in texts]
+        moved = False
+        for i in range(len(texts)):
+            for j in range(i + 1, len(texts)):
+                bi, bj = boxes[i], boxes[j]
+                if not bi.overlaps(bj):
+                    continue
+                overlap = min(bi.y1, bj.y1) - max(bi.y0, bj.y0)
+                if overlap <= 0:
+                    continue
+                shift = (overlap / 2 + 1.0) * px_to_pt
+                hi, lo = (i, j) if (bi.y0 + bi.y1) >= (bj.y0 + bj.y1) else (j, i)
+                ox_h, oy_h = texts[hi].get_position()
+                ox_l, oy_l = texts[lo].get_position()
+                texts[hi].set_position((ox_h, oy_h + shift))
+                texts[lo].set_position((ox_l, oy_l - shift))
+                moved = True
+        if not moved:
+            break
+        clamp_into_axes()
+        fig.canvas.draw()
+    return texts
+
 # -- Load clean data ------------------------------------------------------
 long = pd.read_csv(ROOT / "data" / "clean" / "wearables_long.csv", parse_dates=["month"])
 cat_month = pd.read_csv(ROOT / "data" / "clean" / "category_totals_monthly.csv", parse_dates=["month"])
@@ -106,14 +167,14 @@ def hero():
     boat_yoy = (boat_units_12 / boat_units_prior - 1) * 100 if boat_units_prior else 0
     mkt_yoy = (market_units_12 / prior_units["value"].sum() - 1) * 100
 
-    fig = plt.figure(figsize=(16, 10))
+    fig = plt.figure(figsize=(16, 10.5))
     gs = fig.add_gridspec(3, 4, height_ratios=[0.55, 1, 1], hspace=0.55, wspace=0.35,
-                          left=0.05, right=0.97, top=0.93, bottom=0.07)
+                          left=0.05, right=0.97, top=0.88, bottom=0.07)
 
     # Title banner
     fig.suptitle("boAt India Wearables — Competitive Pulse",
-                 fontsize=26, fontweight="bold", color=BOAT_BLACK, x=0.06, ha="left", y=0.985)
-    fig.text(0.06, 0.945,
+                 fontsize=26, fontweight="bold", color=BOAT_BLACK, x=0.06, ha="left", y=0.97)
+    fig.text(0.06, 0.925,
              f"Source: IDC India Monthly Wearable Tracker · last 12 months ending {DATA_END:%b %Y}",
              fontsize=11, color="#555555")
 
@@ -224,14 +285,25 @@ def share_trend(category: str, focus: list[str], filename: str, title_suffix: st
     pivot = pivot[[c for c in focus if c in pivot.columns]]
 
     fig, ax = plt.subplots(figsize=(13, 7))
+    endpoints = []  # (y_value, text, color)
     for i, co in enumerate(pivot.columns):
         col = BOAT_RED if co == "Imagine Marketing" else PALETTE[(i+1) % len(PALETTE)]
         lw  = 3.2 if co == "Imagine Marketing" else 1.8
         ax.plot(pivot.index, pivot[co], label=label(co), color=col, linewidth=lw,
                 marker="o", markersize=4)
-        # endpoint label
-        ax.text(pivot.index[-1], pivot[co].iloc[-1] + 0.6, f"{label(co)} {pivot[co].iloc[-1]:.1f}%",
-                color=col, fontsize=10, fontweight="bold")
+        endpoints.append([pivot[co].iloc[-1], f"{label(co)} {pivot[co].iloc[-1]:.1f}%", col])
+
+    # De-conflict endpoint labels: spread them vertically so none overlap.
+    y_span = max(pivot.values.max(), 1.0)
+    min_gap = y_span * 0.045  # minimum vertical spacing between labels
+    endpoints.sort(key=lambda e: e[0])
+    label_y = [e[0] for e in endpoints]
+    for i in range(1, len(label_y)):
+        if label_y[i] - label_y[i - 1] < min_gap:
+            label_y[i] = label_y[i - 1] + min_gap
+    x_end = pivot.index[-1] + pd.DateOffset(days=20)
+    for (val, text, col), ly in zip(endpoints, label_y):
+        ax.text(x_end, ly, text, color=col, fontsize=10, fontweight="bold", va="center")
     ax.set_title(f"{category}: quarterly market share — {title_suffix}",
                  loc="left", fontsize=18, color=BOAT_BLACK, pad=28)
     ax.text(0, 1.02, "Share of category units · Source: IDC India Monthly Wearable Tracker",
@@ -240,7 +312,7 @@ def share_trend(category: str, focus: list[str], filename: str, title_suffix: st
     ax.yaxis.set_major_formatter(FuncFormatter(percent))
     ax.grid(axis="y", linestyle=":", alpha=0.4)
     ax.legend(loc="upper left", frameon=False, ncol=2)
-    ax.set_xlim(pivot.index.min(), pivot.index.max() + pd.DateOffset(months=4))
+    ax.set_xlim(pivot.index.min(), pivot.index.max() + pd.DateOffset(months=6))
     fig.savefig(OUT / filename, bbox_inches="tight")
     plt.close(fig)
     print(f"  ✓ {filename}")
@@ -384,15 +456,15 @@ def price_positioning():
     grp = grp[grp["units"] >= 50000].sort_values("units", ascending=False)
 
     fig, ax = plt.subplots(figsize=(12, 7.5))
-    sizes = (grp["units"] / grp["units"].max()) * 4500 + 60
+    sizes = (grp["units"] / grp["units"].max()) * 3200 + 60
+    label_anchors = []
     for co, row in grp.iterrows():
         col = BOAT_RED if co == "Imagine Marketing" else "#5B6470"
-        ax.scatter(row["asp"], row["units"]/1e6, s=sizes[co], alpha=0.65,
+        ax.scatter(row["asp"], row["units"]/1e6, s=sizes[co], alpha=0.55,
                    edgecolor="white", linewidth=1.5, color=col, zorder=3)
-        ax.annotate(label(co), (row["asp"], row["units"]/1e6),
-                    xytext=(7, 7), textcoords="offset points",
-                    fontsize=10, fontweight="bold",
-                    color=BOAT_RED if co == "Imagine Marketing" else INK)
+        label_anchors.append(dict(
+            x=row["asp"], y=row["units"]/1e6, text=label(co),
+            color=BOAT_RED if co == "Imagine Marketing" else INK))
     ax.set_title("Smartwatch positioning — price vs volume (last 12 months)",
                  loc="left", fontsize=18, color=BOAT_BLACK, pad=28)
     ax.text(0, 1.02, "Bubble size = units shipped · ASP in ₹ · Source: IDC",
@@ -400,19 +472,25 @@ def price_positioning():
     ax.set_xlabel("Average Selling Price (₹)")
     ax.set_ylabel("Units shipped (millions, last 12 mo)")
     ax.grid(linestyle=":", alpha=0.4)
+    # Give the bubbles a little breathing room so de-conflicted labels fit
+    ax.margins(x=0.08, y=0.12)
     # Quadrant guide
     med_asp = grp["asp"].median()
     med_vol = grp["units"].median()/1e6
     ax.axvline(med_asp, color="#cccccc", linestyle="--", linewidth=1)
     ax.axhline(med_vol, color="#cccccc", linestyle="--", linewidth=1)
+    quad_bbox = dict(boxstyle="round,pad=0.2", facecolor="white",
+                     edgecolor="none", alpha=0.7)
     ax.text(0.99, 0.97, "Premium + Niche", transform=ax.transAxes, ha="right", va="top",
-            fontsize=9, color="#888")
+            fontsize=9, color="#888", bbox=quad_bbox, zorder=4)
     ax.text(0.01, 0.97, "Value + Niche", transform=ax.transAxes, ha="left", va="top",
-            fontsize=9, color="#888")
+            fontsize=9, color="#888", bbox=quad_bbox, zorder=4)
     ax.text(0.99, 0.02, "Premium + Mass", transform=ax.transAxes, ha="right", va="bottom",
-            fontsize=9, color="#888")
+            fontsize=9, color="#888", bbox=quad_bbox, zorder=4)
     ax.text(0.01, 0.02, "Value + Mass", transform=ax.transAxes, ha="left", va="bottom",
-            fontsize=9, color="#888")
+            fontsize=9, color="#888", bbox=quad_bbox, zorder=4)
+    # Place all bubble labels last so they never overlap each other
+    deconflict_labels(ax, label_anchors, fontsize=10)
     fig.savefig(OUT / "09_price_positioning.png", bbox_inches="tight")
     plt.close(fig)
     print("  ✓ 09_price_positioning.png")
